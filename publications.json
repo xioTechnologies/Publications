@@ -198,15 +198,6 @@
         "product": "NGIMU"
     },
     {
-        "authors": "A Ahmadi, F Destelle, L Unzueta",
-        "title": "3D human gait reconstruction and monitoring using body-worn inertial sensors and kinematic modeling",
-        "publication": "IEEE Sensors \u2026",
-        "year": "2016",
-        "url": "https://ieeexplore.ieee.org/abstract/document/7516603/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "M Yu, N Krishnan, J Dean, G Lv",
         "title": "Centroidal Momentum Shaping for Task-Invariant Assistance: Preliminary Validation on a Bilateral Hip Exoskeleton",
         "publication": "Authorea Preprints",
