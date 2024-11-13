@@ -13,7 +13,7 @@ class Publication:
     doi: str
     product: str
 
-    def __eq__(self, other):
+    def __eq__(self, other: "Publication"):
         return self.title.lower().rstrip(".") == other.title.lower().rstrip(".")
 
 
