@@ -86,8 +86,17 @@
         "publication": "Sensors (Basel \u2026",
         "year": "2024",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11478697/",
-        "doi": "https://doi.org/10.3390/s24196343",
-        "product": "???IMU"
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "SH Eom, SJ Na, SH Lee, SH Park, EH Lee",
+        "title": "A Preliminary Study of Ankle Variable Hybrid Above-knee Prostheses.",
+        "publication": "ICINCO (1)",
+        "year": "2019",
+        "url": "https://www.scitepress.org/Papers/2019/79528/79528.pdf",
+        "doi": "TODO",
+        "product": "TODO"
     },
     {
         "authors": "NF Ribeiro, CP Santos",
@@ -113,8 +122,8 @@
         "publication": "Computer Methods in \u2026",
         "year": "2019",
         "url": "https://www.tandfonline.com/doi/full/10.1080/10255842.2020.1714976",
-        "doi": "https://doi.org/10.1080/10255842.2020.1714976",
-        "product": "???IMU"
+        "doi": "TODO",
+        "product": "TODO"
     },
     {
         "authors": "S Cardarelli, P di Florio, A Mengarelli",
@@ -167,7 +176,7 @@
         "publication": "Proceedings of the 25th International ACM \u2026",
         "year": "2023",
         "url": "https://dl.acm.org/doi/abs/10.1145/3597638.3615654",
-        "doi": "https://doi.org/10.1145/3597638.3615654",
+        "doi": "TODO",
         "product": "TODO"
     },
     {
@@ -194,8 +203,8 @@
         "publication": "Sensors",
         "year": "2020",
         "url": "https://www.mdpi.com/1424-8220/20/9/2518",
-        "doi": "https://doi.org/10.3390/s20092518",
-        "product": "???IMU"
+        "doi": "TODO",
+        "product": "TODO"
     },
     {
         "authors": "T Rantalainen, KD Hesketh, C Rodda",
@@ -221,7 +230,7 @@
         "publication": "2020 IEEE Conference \u2026",
         "year": "2020",
         "url": "https://ieeexplore.ieee.org/abstract/document/9274718/",
-        "doi": "https://doi.org/10.1109/ICPS48405.2020.9274718",
+        "doi": "TODO",
         "product": "TODO"
     },
     {
@@ -230,6 +239,15 @@
         "publication": "\u2026 Conference on Intelligent \u2026",
         "year": "2022",
         "url": "https://ieeexplore.ieee.org/abstract/document/10210947/",
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "CEI Westling, JH Guppy, J Bush, J Barth, C Herberz",
+        "title": "Harry J. Witchel*, C\u00e4cilia Oberndorfer2, Robert Needham3, Aoife Healy 3",
+        "publication": "NA",
+        "year": "NA",
+        "url": "https://core.ac.uk/download/pdf/161346017.pdf",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -248,7 +266,7 @@
         "publication": "International Journal of \u2026",
         "year": "2018",
         "url": "https://journals.sagepub.com/doi/abs/10.1177/1747954118778664",
-        "doi": "https://doi.org/10.1177/1747954118778664",
+        "doi": "TODO",
         "product": "TODO"
     },
     {
@@ -267,7 +285,7 @@
         "year": "NA",
         "url": "https://robonation.org/app/uploads/sites/4/2019/10/McGill_RS14_Paper.pdf",
         "doi": "TODO",
-        "product": "x-IMU"
+        "product": "TODO"
     },
     {
         "authors": "A Depari, P Ferrari, A Flammini",
@@ -311,8 +329,17 @@
         "publication": "\u2026 International Conference on \u2026",
         "year": "2014",
         "url": "https://ieeexplore.ieee.org/abstract/document/7275464/",
-        "doi": "https://doi.org/10.1109/IPIN.2014.7275464",
-        "product": "???IMU"
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "DM Rodr\u00edguez Mart\u00edn, C P\u00e9rez L\u00f3pez",
+        "title": "A waist-worn inertial measurement unit for Parkinson's disease long-term monitoring",
+        "publication": "Sensors",
+        "year": "2017",
+        "url": "https://upcommons.upc.edu/handle/2117/104742",
+        "doi": "TODO",
+        "product": "TODO"
     },
     {
         "authors": "ER Brooks, AC Benson, AS Fox, LM Bruce",
@@ -392,7 +419,7 @@
         "publication": "\u2026 Circuits and Systems \u2026",
         "year": "2017",
         "url": "https://ieeexplore.ieee.org/abstract/document/8325108/",
-        "doi": "https://doi.org/10.1109/BIOCAS.2017.8325108",
+        "doi": "TODO",
         "product": "TODO"
     },
     {
@@ -419,7 +446,7 @@
         "publication": "2017 XXVI \u2026",
         "year": "2017",
         "url": "https://ieeexplore.ieee.org/abstract/document/8171641/",
-        "doi": "https://doi.org/10.1109/ICAT.2017.8171641",
+        "doi": "TODO",
         "product": "TODO"
     },
     {
@@ -455,15 +482,6 @@
         "publication": "2021 Joint Conference-11th \u2026",
         "year": "2022",
         "url": "https://ieeexplore.ieee.org/abstract/document/9932227/",
-        "doi": "TODO",
-        "product": "NGIMU"
-    },
-    {
-        "authors": "O Castro Ruiz",
-        "title": "Design of a bench to allocate accelerometers and gyroscopes on a sailplane",
-        "publication": "NA",
-        "year": "2016",
-        "url": "https://upcommons.upc.edu/bitstream/handle/2117/97679/ANNEX_27.pdf",
         "doi": "TODO",
         "product": "TODO"
     },
