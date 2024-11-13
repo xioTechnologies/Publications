@@ -1,46 +1,13 @@
 [
-    {
-        "authors": "R Chandrasiri, N Abhayasinghe",
-        "title": "Bluetooth embedded inertial measurement unit for real-time data collection for gait analysis",
-        "publication": "\u2026 Conference on Indoor \u2026",
-        "year": "2013",
-        "url": "https://www.researchgate.net/profile/Nimsiri-Abhayasinghe/publication/257554683_Bluetooth_Embedded_Inertial_Measurement_Unit_for_Real-Time_Data_Collection_for_Gait_Analysis/links/0c9605256a79e67a3a000000/Bluetooth-Embedded-Inertial-Measurement-Unit-for-Real-Time-Data-Collection-for-Gait-Analysis.pdf",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "R Islam, M Bennasar, S Holland",
-        "title": "Democratizing Clinical Movement Analysis: Assessing the Versatility of MoJoXlab with Open-protocol Inertial Sensors",
-        "publication": "Procedia Computer \u2026",
-        "year": "2024",
-        "url": "https://oro.open.ac.uk/97622/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "P Hunter",
-        "title": "Re-engineering data storage",
-        "publication": "Engineering & Technology",
-        "year": "2013",
-        "url": "https://ieeexplore.ieee.org/abstract/document/6781803/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
+
+
+
     {
         "authors": "D Cristaudo, B Bruder, JA Puleo",
         "title": "Intrumented surrogate munitions for nearshore unexploded ordnance mobility studies\u2014Design and measurement capabilities",
         "publication": "OCEANS 2017-Anchorage",
         "year": "2017",
         "url": "https://ieeexplore.ieee.org/abstract/document/8232074/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "RMA van der Slikke, MAM Berger, DJJ Bregman",
-        "title": "Wearable wheelchair mobility performance measurement in basketball, rugby, and tennis: lessons for classification and training",
-        "publication": "Sensors",
-        "year": "2020",
-        "url": "https://www.mdpi.com/1424-8220/20/12/3518",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -59,15 +26,6 @@
         "publication": "2023 IEEE \u2026",
         "year": "2023",
         "url": "https://ieeexplore.ieee.org/abstract/document/10171888/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "T Mitchell, S Madgwick, I Heap",
-        "title": "Musical Interaction with Hand Posture and Orientation: A Toolbox of Gestural Control Mechanisms.",
-        "publication": "NIME",
-        "year": "2012",
-        "url": "https://uwe-repository.worktribe.com/preview/947194/272_Final_Manuscript.pdf",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -97,31 +55,13 @@
         "url": "https://www.academia.edu/download/82044149/lasg_whitepapers_2019_197.pdf",
         "doi": "TODO",
         "product": "TODO"
-    },
+    },  
     {
         "authors": "T Michailidis, J Hockman",
         "title": "Affordances of vibrations in performances and composition",
         "publication": "NA",
         "year": "2018",
         "url": "https://www.open-access.bcu.ac.uk/6181/1/affordances-vibrational-excitation.pdf",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "N Muthukrishnan, JJ Abbas, N Krishnamurthi",
-        "title": "A wearable sensor system to measure step-based gait parameters for parkinson's disease rehabilitation",
-        "publication": "Sensors",
-        "year": "2020",
-        "url": "https://www.mdpi.com/1424-8220/20/22/6417",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "T Rantalainen, L Karavirta, H Pirkola, T Rantanen",
-        "title": "Gait variability using waist-and ankle-worn inertial measurement units in healthy older adults",
-        "publication": "Sensors",
-        "year": "2020",
-        "url": "https://www.mdpi.com/1424-8220/20/10/2858",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -149,17 +89,8 @@
         "publication": "Sensors (Basel \u2026",
         "year": "2024",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11478697/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "SH Eom, SJ Na, SH Lee, SH Park, EH Lee",
-        "title": "A Preliminary Study of Ankle Variable Hybrid Above-knee Prostheses.",
-        "publication": "ICINCO (1)",
-        "year": "2019",
-        "url": "https://www.scitepress.org/Papers/2019/79528/79528.pdf",
-        "doi": "TODO",
-        "product": "TODO"
+        "doi": "https://doi.org/10.3390/s24196343",
+        "product": "???IMU"
     },
     {
         "authors": "NF Ribeiro, CP Santos",
@@ -167,24 +98,6 @@
         "publication": "2017 IEEE 5th Portuguese Meeting on \u2026",
         "year": "2017",
         "url": "https://ieeexplore.ieee.org/abstract/document/7889458/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "MN Muhammad, Z Salcic, I Kevin",
-        "title": "Subtractive clustering as ZUPT detector",
-        "publication": "2014 IEEE 11th Intl Conf \u2026",
-        "year": "2014",
-        "url": "https://ieeexplore.ieee.org/abstract/document/7306973/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "G Spreitzer, I Schalko, RM Boes",
-        "title": "SmartWood: field-based analysis of large wood movement dynamics using inertial measurement units (IMUs)",
-        "publication": "Environmental Sciences \u2026",
-        "year": "2024",
-        "url": "https://link.springer.com/article/10.1186/s12302-024-00916-7",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -203,8 +116,8 @@
         "publication": "Computer Methods in \u2026",
         "year": "2019",
         "url": "https://www.tandfonline.com/doi/full/10.1080/10255842.2020.1714976",
-        "doi": "TODO",
-        "product": "TODO"
+        "doi": "https://doi.org/10.1080/10255842.2020.1714976",
+        "product": "???IMU"
     },
     {
         "authors": "S Cardarelli, P di Florio, A Mengarelli",
@@ -243,15 +156,6 @@
         "product": "TODO"
     },
     {
-        "authors": "K Jeulink",
-        "title": "Smart sports exercises project: the detection of (in) correct motion during resistance training",
-        "publication": "NA",
-        "year": "2020",
-        "url": "https://essay.utwente.nl/81958/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "E Moreau, B Herman, P Chatelain",
         "title": "Design and Characterization of a Robotic Cyber-Physical System for Real-Time Flow-Device Experiments",
         "publication": "2024 10th IEEE RAS \u2026",
@@ -261,21 +165,12 @@
         "product": "TODO"
     },
     {
-        "authors": "SW Kresie, DA Hawkins",
-        "title": "Research Article Advances in Orthopedics and Sports Medicine AOASM-139",
-        "publication": "NA",
-        "year": "NA",
-        "url": "https://kosmospublishers.com/wp-content/uploads/2021/05/Evaluation-of-an-IMU-Based-Wearable-Device-for-ACL-Injury-Research.pdf",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "C Blackwell",
         "title": "Analyzing Walking with Ankle Foot Orthoses Using Shank-mounted Wearable Movement Sensors",
         "publication": "Proceedings of the 25th International ACM \u2026",
         "year": "2023",
         "url": "https://dl.acm.org/doi/abs/10.1145/3597638.3615654",
-        "doi": "TODO",
+        "doi": "https://doi.org/10.1145/3597638.3615654",
         "product": "TODO"
     },
     {
@@ -302,26 +197,8 @@
         "publication": "Sensors",
         "year": "2020",
         "url": "https://www.mdpi.com/1424-8220/20/9/2518",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "J Witulska, P Stefaniak, B Jachnik, A Skoczylas",
-        "title": "Recognition of LHD position and maneuvers in underground mining excavations\u2014identification and parametrization of turns",
-        "publication": "Applied Sciences",
-        "year": "2021",
-        "url": "https://www.mdpi.com/2076-3417/11/13/6075",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "D Maton, JT Economou, D Galv\u00e3o Wall",
-        "title": "Subtractive clustering Takagi-Sugeno position tracking for humans by low-cost inertial sensors and velocity classification",
-        "publication": "Measurement and \u2026",
-        "year": "2023",
-        "url": "https://journals.sagepub.com/doi/abs/10.1177/00202940231155496",
-        "doi": "TODO",
-        "product": "TODO"
+        "doi": "https://doi.org/10.3390/s20092518",
+        "product": "???IMU"
     },
     {
         "authors": "T Rantalainen, KD Hesketh, C Rodda",
@@ -342,57 +219,12 @@
         "product": "TODO"
     },
     {
-        "authors": "JB Dost, O Gronz, MC Casper",
-        "title": "The potential of Smartstone probes in landslide experiments: how to read motion data",
-        "publication": "Natural Hazards and \u2026",
-        "year": "2020",
-        "url": "https://nhess.copernicus.org/articles/20/3501/2020/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "P Stefaniak, W Koperska, A Skoczylas, J Witulska",
-        "title": "Methods of optimization of mining operations in a deep mine\u2013tracking the dynamic overloads using IoT sensor",
-        "publication": "IEEE \u2026",
-        "year": "2023",
-        "url": "https://ieeexplore.ieee.org/abstract/document/10168902/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "V Della-Libera, A Llaria, G Terrasson",
         "title": "Wearable inertial sensors to recognize basic human motion: What technology for what activity?",
         "publication": "2020 IEEE Conference \u2026",
         "year": "2020",
         "url": "https://ieeexplore.ieee.org/abstract/document/9274718/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "HJ Witchel, C Oberndorfer, R Needham",
-        "title": "Thigh-derived inertial sensor metrics to assess the sit-to-stand and stand-to-sit transitions in the timed up and go (TUG) task for quantifying mobility impairment in \u2026",
-        "publication": "Frontiers in \u2026",
-        "year": "2018",
-        "url": "https://www.frontiersin.org/articles/10.3389/fneur.2018.00684/full",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "L Turchet",
-        "title": "The Hyper-Zampogna.",
-        "publication": "Proceedings of Sound and Music Computing \u2026",
-        "year": "2016",
-        "url": "https://iris.unitn.it/handle/11572/226233",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "V de Vette",
-        "title": "Using the Recovery Phase in Wheelchair Racing to Estimate the Resistance Forces",
-        "publication": "NA",
-        "year": "2023",
-        "url": "https://repository.tudelft.nl/file/File_299fb8d2-a379-4f24-acab-1c99ba0292b4?preview=1",
-        "doi": "TODO",
+        "doi": "https://doi.org/10.1109/ICPS48405.2020.9274718",
         "product": "TODO"
     },
     {
@@ -401,51 +233,6 @@
         "publication": "\u2026 Conference on Intelligent \u2026",
         "year": "2022",
         "url": "https://ieeexplore.ieee.org/abstract/document/10210947/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "L Jap, A Holzapfel",
-        "title": "Real-time mapping of periodic dance movements to control tempo in electronic dance music",
-        "publication": "16th Sound & Music Computing Conference \u2026",
-        "year": "2019",
-        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1303432",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "CEI Westling, JH Guppy, J Bush, J Barth, C Herberz",
-        "title": "Harry J. Witchel*, C\u00e4cilia Oberndorfer2, Robert Needham3, Aoife Healy 3",
-        "publication": "NA",
-        "year": "NA",
-        "url": "https://core.ac.uk/download/pdf/161346017.pdf",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "J Hoffman",
-        "title": "Q&A: The sound catcher",
-        "publication": "NA",
-        "year": "2012",
-        "url": "https://www.nature.com/articles/486472a",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "MP van Dijk, RMA van der Slikke, R Rupf",
-        "title": "Obtaining wheelchair kinematics with one sensor only? The trade-off between number of inertial sensors and accuracy for measuring wheelchair mobility \u2026",
-        "publication": "Journal of \u2026",
-        "year": "2022",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0021929021006357",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "D Roggen, A Pouryazdan, M Ciliberto",
-        "title": "Poster: BlueSense-Designing an extensible platform for wearable motion sensing, sensor research and IoT applications.",
-        "publication": "EWSN",
-        "year": "2018",
-        "url": "https://www.ewsn.org/file-repository/ewsn-2018/177_178_roggen.pdf",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -464,7 +251,7 @@
         "publication": "International Journal of \u2026",
         "year": "2018",
         "url": "https://journals.sagepub.com/doi/abs/10.1177/1747954118778664",
-        "doi": "TODO",
+        "doi": "https://doi.org/10.1177/1747954118778664",
         "product": "TODO"
     },
     {
@@ -477,49 +264,13 @@
         "product": "TODO"
     },
     {
-        "authors": "S Wilson, H Eberle, Y Hayashi, SOH Madgwick",
-        "title": "Formulation of a new gradient descent MARG orientation algorithm: Case study on robot teleoperation",
-        "publication": "\u2026 Systems and Signal \u2026",
-        "year": "2019",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0888327019303012",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "A Hass, C Grimm",
-        "title": "Evaluation of the separation mechanism of the asteroid landing module MASCOT by analyzing test data of a microgravity experiment",
-        "publication": "NA",
-        "year": "2014",
-        "url": "https://elib.dlr.de/104842/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "RB Boudreau, S Carciumaru, Y Chen, DDE Noah",
         "title": "McGill Robotics\u2013Development of the Autonomous Underwater Vehicle: Asimov",
         "publication": "NA",
         "year": "NA",
         "url": "https://robonation.org/app/uploads/sites/4/2019/10/McGill_RS14_Paper.pdf",
         "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "O Majidzadeh Gorjani, A Proto, J Vanus, P Bilik",
-        "title": "Indirect recognition of predefined human activities",
-        "publication": "Sensors",
-        "year": "2020",
-        "url": "https://www.mdpi.com/1424-8220/20/17/4829",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "T Svenns",
-        "title": "SENSITIV: designing for interactive dance and the experience of control",
-        "publication": "NA",
-        "year": "2020",
-        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1466897",
-        "doi": "TODO",
-        "product": "TODO"
+        "product": "x-IMU"
     },
     {
         "authors": "A Depari, P Ferrari, A Flammini",
@@ -540,47 +291,11 @@
         "product": "TODO"
     },
     {
-        "authors": "M Yu, N Krishnan, J Dean, G Lv",
-        "title": "Centroidal Momentum Shaping for Task-Invariant Assistance: Preliminary Validation on a Bilateral Hip Exoskeleton",
-        "publication": "Authorea Preprints",
-        "year": "2024",
-        "url": "https://www.techrxiv.org/doi/full/10.36227/techrxiv.172683945.59325123",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "A Ahmadi, F Destelle, L Unzueta",
-        "title": "3D human gait reconstruction and monitoring using body-worn inertial sensors and kinematic modeling",
-        "publication": "IEEE Sensors \u2026",
-        "year": "2016",
-        "url": "https://ieeexplore.ieee.org/abstract/document/7516603/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "A Farrukh, R West",
-        "title": "FlyOS: rethinking integrated modular avionics for autonomous multicopters",
-        "publication": "Real-Time Systems",
-        "year": "2023",
-        "url": "https://link.springer.com/article/10.1007/s11241-023-09399-w",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "F Darwaish, S Redpath, K Greenwood",
         "title": "Characterizing on-road vibrations in Ontario's neonatal patient transport",
         "publication": "2021 IEEE \u2026",
         "year": "2021",
         "url": "https://ieeexplore.ieee.org/abstract/document/9478679/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "TH Nown, MA Grealy, I Andonovic, A Kerr, C Tachtatzis",
-        "title": "A novel online position estimation method and movement sonification system: the Soniccup",
-        "publication": "Sensors",
-        "year": "2024",
-        "url": "https://www.mdpi.com/1424-8220/24/19/6279",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -594,49 +309,13 @@
         "product": "TODO"
     },
     {
-        "authors": "JA Moreno-P\u00e9rez, I Ruiz-Garc\u00eda, I Navarro-Marchal",
-        "title": "System Based on an Inertial Measurement Unit for Accurate Flight Time Determination in Vertical Jumps",
-        "publication": "Sensors",
-        "year": "2023",
-        "url": "https://www.mdpi.com/1424-8220/23/13/6022",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "JO Nilsson, AK Gupta, P H\u00e4ndel",
         "title": "Foot-mounted inertial navigation made easy",
         "publication": "\u2026 International Conference on \u2026",
         "year": "2014",
         "url": "https://ieeexplore.ieee.org/abstract/document/7275464/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "B Sawaryn, M Klaassen, BJ Van Beijnum, H Zwart",
-        "title": "Identification of Movements and Postures Using Wearable Sensors for Implementation in a Bi-Hormonal Artificial Pancreas System",
-        "publication": "Sensors",
-        "year": "2021",
-        "url": "https://www.mdpi.com/1424-8220/21/17/5954",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "C Butera",
-        "title": "IMU-based upper limb kinematics: from exosuit control to motor primitives classification",
-        "publication": "NA",
-        "year": "2022",
-        "url": "https://www.politesi.polimi.it/handle/10589/208668",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "DM Rodr\u00edguez Mart\u00edn, C P\u00e9rez L\u00f3pez",
-        "title": "A waist-worn inertial measurement unit for Parkinson's disease long-term monitoring",
-        "publication": "Sensors",
-        "year": "2017",
-        "url": "https://upcommons.upc.edu/handle/2117/104742",
-        "doi": "TODO",
-        "product": "TODO"
+        "doi": "https://doi.org/10.1109/IPIN.2014.7275464",
+        "product": "???IMU"
     },
     {
         "authors": "ER Brooks, AC Benson, AS Fox, LM Bruce",
@@ -662,15 +341,6 @@
         "publication": "The Australasian Sound Archive",
         "year": "2022",
         "url": "https://search.informit.org/doi/abs/10.3316/informit.833279439608619",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "HY Tang, SH Tan, TY Su, CJ Chiang, HH Chen",
-        "title": "Upper body posture recognition using inertial sensors and recurrent neural networks",
-        "publication": "Applied Sciences",
-        "year": "2021",
-        "url": "https://www.mdpi.com/2076-3417/11/24/12101",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -711,96 +381,6 @@
         "product": "TODO"
     },
     {
-        "authors": "D Stanev, K Filip, D Bitzas, S Zouras, G Giarmatzis",
-        "title": "Real-time musculoskeletal kinematics and dynamics analysis using marker-and IMU-based solutions in rehabilitation",
-        "publication": "Sensors",
-        "year": "2021",
-        "url": "https://www.mdpi.com/1424-8220/21/5/1804",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "V Otlet, C Vandamme, T Warlop, F Crevecoeur",
-        "title": "Effects of overground gait training assisted by a wearable exoskeleton in patients with Parkinson's disease",
-        "publication": "\u2026 of neuroengineering and \u2026",
-        "year": "2023",
-        "url": "https://link.springer.com/article/10.1186/s12984-023-01280-y",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "M Wiser, L A'Hearn, C Tamayo, L Kelly",
-        "title": "9-Axis Motion Tracking to Aid Therapeutic Recovery via Visualization, Analysis and Progress Monitoring",
-        "publication": "NA",
-        "year": "2024",
-        "url": "https://scholarcommons.scu.edu/cseng_senior/271/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "D Rodr\u00edguez-Mart\u00edn, C P\u00e9rez-L\u00f3pez, A Sam\u00e0, A Catal\u00e0",
-        "title": "A waist-worn inertial measurement unit for long-term monitoring of Parkinson's disease patients",
-        "publication": "Sensors",
-        "year": "2017",
-        "url": "https://www.mdpi.com/1424-8220/17/4/827",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "N Daddaoua, HP Jedema",
-        "title": "Deliberative Decision-Making in Macaques Removes Reward-Driven Response Vigor",
-        "publication": "Frontiers in Behavioral \u2026",
-        "year": "2021",
-        "url": "https://www.frontiersin.org/articles/10.3389/fnbeh.2021.674169/full",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "Y Wang, Q Yang, L Drukker, A Papageorghiou",
-        "title": "Task model-specific operator skill assessment in routine fetal ultrasound scanning",
-        "publication": "International Journal of \u2026",
-        "year": "2022",
-        "url": "https://link.springer.com/article/10.1007/s11548-022-02642-y",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "M Rantakokko, E Matikainen-Tervola",
-        "title": "Gait Features in Different Environments Contributing to Participation in Outdoor Activities in Old Age (GaitAge): Protocol for an Observational Cross-Sectional \u2026",
-        "publication": "JMIR Research \u2026",
-        "year": "2024",
-        "url": "https://www.researchprotocols.org/2024/1/e52898/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "H Hoelzl, I Han, A de Campo",
-        "title": "The Airborne Instruments nUFO\u2013a Movement Based Musical Instrument",
-        "publication": "Mensch und Computer 2019-Workshopband",
-        "year": "2019",
-        "url": "https://dl.gi.de/items/32c2f480-195e-4ba5-b163-70dc110120db",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "A S\u0142y\u017c",
-        "title": "Sound response to physicality: Artistic expressions of movement sonification",
-        "publication": "NA",
-        "year": "2022",
-        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1672626",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "J Mar\u00edn, T Blanco, J de la Torre, JJ Mar\u00edn",
-        "title": "Gait analysis in a box: a system based on magnetometer-free IMUs or clusters of optical markers with automatic event detection",
-        "publication": "Sensors",
-        "year": "2020",
-        "url": "https://www.mdpi.com/1424-8220/20/12/3338",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "T Milekovic, EM Moraud, N Macellari, C Moerman",
         "title": "A spinal cord neuroprosthesis for locomotor deficits due to Parkinson's disease",
         "publication": "Nature Medicine",
@@ -810,48 +390,12 @@
         "product": "TODO"
     },
     {
-        "authors": "N Ghahremani Arekhloo, H Wang, H Parvizi",
-        "title": "Motion artifact variability in biomagnetic wearable devices",
-        "publication": "Frontiers in Medical \u2026",
-        "year": "2024",
-        "url": "https://www.frontiersin.org/journals/medical-technology/articles/10.3389/fmedt.2024.1457535/full",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "F Michaud, R Pazos, U Lugr\u00eds, J Cuadrado",
-        "title": "The Use of Wearable Inertial Sensors and Workplace-Based Exercises to Reduce Lateral Epicondylitis in the Workstation of a Textile Logistics Center",
-        "publication": "Sensors",
-        "year": "2023",
-        "url": "https://www.mdpi.com/1424-8220/23/11/5116",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "P Kartoidjojo",
-        "title": "Volleyball Spike Quality",
-        "publication": "NA",
-        "year": "2020",
-        "url": "http://essay.utwente.nl/88111/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "MP van Dijk, MJM Hoozemans, MAM Berger",
-        "title": "From theory to practice: Monitoring mechanical power output during wheelchair field and court sports using inertial measurement units",
-        "publication": "Journal of \u2026",
-        "year": "2024",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0021929024001295",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "A Ibrahim, D Doy, C Loureiro, E Pignat",
         "title": "Inexpensive 1024-channel 3D telesonography system on FPGA",
         "publication": "\u2026 Circuits and Systems \u2026",
         "year": "2017",
         "url": "https://ieeexplore.ieee.org/abstract/document/8325108/",
-        "doi": "TODO",
+        "doi": "https://doi.org/10.1109/BIOCAS.2017.8325108",
         "product": "TODO"
     },
     {
@@ -873,57 +417,12 @@
         "product": "TODO"
     },
     {
-        "authors": "B Di Donato, J Dooley, L Coccioli",
-        "title": "HarpCI, empowering performers to control and transform harp sounds in live performance",
-        "publication": "Contemporary Music Review",
-        "year": "2019",
-        "url": "https://www.tandfonline.com/doi/abs/10.1080/07494467.2019.1706351",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "YZY Zhang, JGY Zhang, RZJ Guo, ZZR Zhu, FWZ Zhao",
-        "title": "Pedestrian Inertial Navigation with Building Floor Plans for Indoor Environments via Particle Filter",
-        "publication": "\u96fb\u8166\u5b78\u520a",
-        "year": "2022",
-        "url": "http://www.csroc.org.tw/journal/JOC33-3/JOC3303-02.pdf",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "D Bilic, T Uzunovic, E Golubovic",
         "title": "Internet of things-based system for physical rehabilitation monitoring",
         "publication": "2017 XXVI \u2026",
         "year": "2017",
         "url": "https://ieeexplore.ieee.org/abstract/document/8171641/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "G Tomasch, K Winer",
-        "title": "Limits of absolute heading accuracy using inexpensive mems sensors",
-        "publication": "Hackaday Journal of What You Don't Know",
-        "year": "2019",
-        "url": "https://hackaday.com/wp-content/uploads/2019/03/hackaday_journal-gregorytomasch_kriswiner-heading_accuracy_using_mems_sensors.pdf",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "A Persson",
-        "title": "Platform development of body area network for gait symmetry analysis using IMU and UWB technology",
-        "publication": "NA",
-        "year": "2018",
-        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1213054",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "M Schinckus, B Raucent, O Cartiaux",
-        "title": "Spatiotemporal analysis of cane-assisted gait in post-stroke patients using inertial measurement units",
-        "publication": "NA",
-        "year": "NA",
-        "url": "https://dial.uclouvain.be/downloader/downloader.php?pid=thesis%3A14917&datastream=PDF_01",
-        "doi": "TODO",
+        "doi": "https://doi.org/10.1109/ICAT.2017.8171641",
         "product": "TODO"
     },
     {
@@ -960,25 +459,7 @@
         "year": "2022",
         "url": "https://ieeexplore.ieee.org/abstract/document/9932227/",
         "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "OC Ruiz, R Villar, R Weyler",
-        "title": "Design of a bench to allocate accelerometers and gyroscopes on a sailplane",
-        "publication": "NA",
-        "year": "2016",
-        "url": "https://core.ac.uk/download/pdf/81578544.pdf",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "V Otlet, C Vandamme, T Warlop, F Crevecoeur",
-        "title": "E ects of overground gait training assisted by a wearable exoskeleton in patients with Parkinson's",
-        "publication": "NA",
-        "year": "NA",
-        "url": "https://dial.uclouvain.be/pr/boreal/object/boreal%3A280094/datastream/PDF_02/view",
-        "doi": "TODO",
-        "product": "TODO"
+        "product": "NGIMU"
     },
     {
         "authors": "O Castro Ruiz",
@@ -998,6 +479,26 @@
         "doi": "TODO",
         "product": "TODO"
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         "authors": "RMA van der Slikke, DJJ Bregman",
         "title": "The future of classification in wheelchair sports: can data science and technological advancement offer an alternative point of view?",

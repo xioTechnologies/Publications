@@ -1,2 +1,110 @@
 [
+    {
+        "authors": "A Persson",
+        "title": "Platform development of body area network for gait symmetry analysis using IMU and UWB technology",
+        "publication": "NA",
+        "year": "2018",
+        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1213054",
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "G Tomasch, K Winer",
+        "title": "Limits of absolute heading accuracy using inexpensive mems sensors",
+        "publication": "Hackaday Journal of What You Don't Know",
+        "year": "2019",
+        "url": "https://hackaday.com/wp-content/uploads/2019/03/hackaday_journal-gregorytomasch_kriswiner-heading_accuracy_using_mems_sensors.pdf",
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "M Wiser, L A'Hearn, C Tamayo, L Kelly",
+        "title": "9-Axis Motion Tracking to Aid Therapeutic Recovery via Visualization, Analysis and Progress Monitoring",
+        "publication": "NA",
+        "year": "2024",
+        "url": "https://scholarcommons.scu.edu/cseng_senior/271/",
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "JA Moreno-P\u00e9rez, I Ruiz-Garc\u00eda, I Navarro-Marchal",
+        "title": "System Based on an Inertial Measurement Unit for Accurate Flight Time Determination in Vertical Jumps",
+        "publication": "Sensors",
+        "year": "2023",
+        "url": "https://www.mdpi.com/1424-8220/23/13/6022",
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "A Farrukh, R West",
+        "title": "FlyOS: rethinking integrated modular avionics for autonomous multicopters",
+        "publication": "Real-Time Systems",
+        "year": "2023",
+        "url": "https://link.springer.com/article/10.1007/s11241-023-09399-w",
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "D Roggen, A Pouryazdan, M Ciliberto",
+        "title": "Poster: BlueSense-Designing an extensible platform for wearable motion sensing, sensor research and IoT applications.",
+        "publication": "EWSN",
+        "year": "2018",
+        "url": "https://www.ewsn.org/file-repository/ewsn-2018/177_178_roggen.pdf",
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "J Hoffman",
+        "title": "Q&A: The sound catcher",
+        "publication": "NA",
+        "year": "2012",
+        "url": "https://www.nature.com/articles/486472a",
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "JB Dost, O Gronz, MC Casper",
+        "title": "The potential of Smartstone probes in landslide experiments: how to read motion data",
+        "publication": "Natural Hazards and \u2026",
+        "year": "2020",
+        "url": "https://nhess.copernicus.org/articles/20/3501/2020/",
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "D Maton, JT Economou, D Galv\u00e3o Wall",
+        "title": "Subtractive clustering Takagi-Sugeno position tracking for humans by low-cost inertial sensors and velocity classification",
+        "publication": "Measurement and \u2026",
+        "year": "2023",
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/00202940231155496",
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "K Jeulink",
+        "title": "Smart sports exercises project: the detection of (in) correct motion during resistance training",
+        "publication": "NA",
+        "year": "2020",
+        "url": "https://essay.utwente.nl/81958/",
+        "doi": "TODO",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "G Spreitzer, I Schalko, RM Boes",
+        "title": "SmartWood: field-based analysis of large wood movement dynamics using inertial measurement units (IMUs)",
+        "publication": "Environmental Sciences \u2026",
+        "year": "2024",
+        "url": "https://link.springer.com/article/10.1186/s12302-024-00916-7",
+        "doi": "TODO",
+        "product": "TODO"
+    },
+    {
+        "authors": "P Hunter",
+        "title": "Re-engineering data storage",
+        "publication": "Engineering & Technology",
+        "year": "2013",
+        "url": "https://ieeexplore.ieee.org/abstract/document/6781803/",
+        "doi": "TODO",
+        "product": "TODO"
+    }
 ]
