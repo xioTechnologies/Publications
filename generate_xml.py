@@ -5,7 +5,10 @@ publications = read_publications("publications.json")
 
 for publication in publications:
     if publication.doi == "TODO" or publication.product == "TODO":
-        raise Exception(f"TODO: {publication.title}")
+        raise Exception(f'"TODO" for {publication.title}')
+
+    if publication.year == "NA" or publication.publication == "NA":
+        raise Exception(f'"NA" for {publication.title}')
 
 publications = sorted(publications, key=lambda publication: int(publication.year), reverse=True)
 
