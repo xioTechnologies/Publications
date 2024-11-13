@@ -90,15 +90,6 @@
         "product": "TODO"
     },
     {
-        "authors": "SH Eom, SJ Na, SH Lee, SH Park, EH Lee",
-        "title": "A Preliminary Study of Ankle Variable Hybrid Above-knee Prostheses.",
-        "publication": "ICINCO (1)",
-        "year": "2019",
-        "url": "https://www.scitepress.org/Papers/2019/79528/79528.pdf",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "NF Ribeiro, CP Santos",
         "title": "Inertial measurement units: A brief state of the art on gait analysis",
         "publication": "2017 IEEE 5th Portuguese Meeting on \u2026",
@@ -1224,15 +1215,6 @@
         "product": "TODO"
     },
     {
-        "authors": "L Larsson, A Schwaller, M Nystr\u00f6m, M Stridh",
-        "title": "Head movement compensation and multi-modal event detection in eye-tracking data for unconstrained head movements",
-        "publication": "Journal of neuroscience \u2026",
-        "year": "2016",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0165027016302023",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "B des Bouvrie",
         "title": "Improving rgbd indoor mapping with imu data",
         "publication": "Rgbd Camera",
@@ -1827,15 +1809,6 @@
         "product": "TODO"
     },
     {
-        "authors": "J Hugmark",
-        "title": "Inertial-aided EKF-based Structure from Motionfor Robust Real-time Augmented Reality",
-        "publication": "NA",
-        "year": "2013",
-        "url": "https://www.diva-portal.org/smash/get/diva2:699697/FULLTEXT01.pdf",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "\u0415\u042e \u0411\u0435\u043b\u043e\u0432\u0430",
         "title": "\u041e\u0431\u0437\u043e\u0440 \u0441\u0438\u0441\u0442\u0435\u043c \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0434\u0430\u043d\u043d\u044b\u0445 \u043d\u0430 \u0444\u043b\u0435\u0448-\u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u044f\u0445",
         "publication": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u0421\u041f\u0431\u0413\u042d\u0422\u0423 \u041b\u042d\u0422\u0418",
@@ -1859,15 +1832,6 @@
         "publication": "NA",
         "year": "2020",
         "url": "https://jyx.jyu.fi/handle/123456789/69167",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "M Holm, C Roepstorff, M Svedberg",
-        "title": "Validering av Inertial Measurment Units som insamlare av data f\u00f6r drivande av OpenSim-modell",
-        "publication": "NA",
-        "year": "2012",
-        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:533588",
         "doi": "TODO",
         "product": "TODO"
     },

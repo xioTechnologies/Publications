@@ -14,7 +14,7 @@ class Publication:
     product: str
 
     def __eq__(self, other):
-        return self.title.lower() == other.title.lower()
+        return self.title.lower().rstrip(".") == other.title.lower().rstrip(".")
 
 
 def read_publications(file_name: str) -> List[Publication]:
