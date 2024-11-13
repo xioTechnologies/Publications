@@ -1746,15 +1746,6 @@
         "product": "x-IMU"
     },
     {
-        "authors": "Rantalainen, Timo and Hesketh, Kylie D and Rodda, Christine and Duckham, Rachel L",
-        "title": "Validity of hip-worn inertial measurement unit compared to jump mat for jump height measurement in adolescents",
-        "publication": "Scandinavian journal of medicine & science in sports",
-        "year": "2018",
-        "url": "https://doi.org/10.1111/sms.13243",
-        "doi": "https://doi.org/10.1111/sms.13243",
-        "product": "x-BIMU"
-    },
-    {
         "authors": "Islam, Riasat, Simon Holland, Theodoros Georgiou, Blaine Price, and Paul Mulholland",
         "title": "Wearable Haptic Devices for Long-Term Gait Re-education for Neurological Conditions",
         "publication": "Haptic Technologies for Healthcare, EuroHaptics 2018",
@@ -1869,24 +1860,6 @@
         "year": "2018",
         "url": "https://doi.org/10.1016/j.jveb.2018.04.003",
         "doi": "https://doi.org/10.1016/j.jveb.2018.04.003",
-        "product": "x-IMU"
-    },
-    {
-        "authors": "Ghobadi, Mostafa",
-        "title": "Physiological signal analysis for home-based activity monitoring",
-        "publication": "PhD Dissertation",
-        "year": "2018",
-        "url": "https://ubir.buffalo.edu/xmlui/handle/10477/78131",
-        "doi": "https://ubir.buffalo.edu/xmlui/handle/10477/78131",
-        "product": "x-IMU"
-    },
-    {
-        "authors": "Witchel, Harry J. and Oberndorfer, C\u00e4cilia and Needham, Robert and Healy, Aoife and Westling, Carina E. I. and Guppy, Joseph H. and Bush, Jake and Barth, Jens and Herberz, Chantal and Roggen, Daniel and Eskofier, Bj\u00f6rn M. and Rashid, Waqar and Chockalingam, Nachiappan and Klucken, Jochen",
-        "title": "Thigh-Derived Inertial Sensor Metrics to Assess the Sit-to-Stand and Stand-to-Sit Transitions in the Timed Up and Go (TUG) Task for Quantifying Mobility Impairment in Multiple Sclerosis",
-        "publication": "Frontiers in Neurology",
-        "year": "2018",
-        "url": "https://doi.org/10.3389/fneur.2018.00684",
-        "doi": "https://doi.org/10.3389/fneur.2018.00684",
         "product": "x-IMU"
     },
     {
@@ -2034,15 +2007,6 @@
         "product": "x-IMU"
     },
     {
-        "authors": "Kumawat, Animesh Singh, Kshitij Agarwal, Hossein Rouhani, and Albert H. Vette",
-        "title": "Design and Evaluation of an Instrumented Wobble Board for Assessing and Training Dynamic Seated Balance",
-        "publication": "Journal Biomechanics Eng.\u00a02018;140(4):041006-041006-10",
-        "year": "2017",
-        "url": "http://dx.doi.org/10.1115/1.4038747",
-        "doi": "http://dx.doi.org/10.1115/1.4038747",
-        "product": "x-IMU"
-    },
-    {
         "authors": "Williams, Andrew D",
         "title": "Instrumenting and Validating a Vibrotactile Device to Assess and Rehabilitate Dynamic Seated Balance",
         "publication": "PhD Dissertation",
@@ -2059,15 +2023,6 @@
         "url": "https://qspace.library.queensu.ca/bitstream/handle/1974/22673/Girard_Celine_I_201709_MSc.pdf?sequence=4",
         "doi": "https://qspace.library.queensu.ca/bitstream/handle/1974/22673/Girard_Celine_I_201709_MSc.pdf?sequence=4",
         "product": "x-IMU"
-    },
-    {
-        "authors": "Visi, Federico and Georgiou, Theodoros and Holland, Simon and Pinzone, Ornella and Donaldson, Glenis and Tetley, Josie",
-        "title": "Assessing the accuracy of an algorithm for the estimation of spatial gait parameters using inertial measurement units: application to healthy subject and hemiparetic stroke survivor",
-        "publication": "Proceedings of the 4th International Conference on Movement Computing",
-        "year": "2017",
-        "url": "https://doi.org/10.1145/3077981.3078034",
-        "doi": "https://doi.org/10.1145/3077981.3078034",
-        "product": "x-OSC"
     },
     {
         "authors": "Niewiadomski, Radoslaw, Maurizio Mancini, Stefano Piana, Paolo Alborno, Gualtiero Volpe, and Antonio Camurri",
@@ -2142,33 +2097,6 @@
         "product": "x-IMU"
     },
     {
-        "authors": "Williams, Andrew D",
-        "title": "Instrumenting and Validating a Vibrotactile Device to Assess and Rehabilitate Dynamic Seated Balance",
-        "publication": "Masters Theses",
-        "year": "2017",
-        "url": "https://doi.org/10.7939/R3HD7P63Q",
-        "doi": "https://doi.org/10.7939/R3HD7P63Q",
-        "product": "x-IMU"
-    },
-    {
-        "authors": "Harry J. Witchel, Robert Needham, Aoife Healy, Joseph H. Guppy, Jake Bush, C\u00e4cilia Oberndorfer, Chantal Herberz, Carina E. I. Westling, Dawit Kim, Daniel Roggen, Jens Barth, Bj\u00f6rn M. Eskofier, Waqar Rashid, Nachiappan Chockalingam, and Jochen Klucken",
-        "title": "Using wearable inertial sensors to compare different versions of the dual task paradigm during walking",
-        "publication": "Proceedings of the European Conference on Cognitive Ergonomics 2017",
-        "year": "2017",
-        "url": "https://doi.org/10.1145/3121283.3121285",
-        "doi": "https://doi.org/10.1145/3121283.3121285",
-        "product": "x-IMU"
-    },
-    {
-        "authors": "Joe D. Chalkley, Thomas T. Ranji, Carina E. I. Westling, Nachiappan Chockalingam, and Harry J. Witchel",
-        "title": "Wearable Sensor Metric for Fidgeting: Screen Engagement Rather Than Interest Causes NIMI of Wrists and Ankles",
-        "publication": "Proceedings of the European Conference on Cognitive Ergonomics 2017",
-        "year": "2017",
-        "url": "https://doi.org/10.1145/3121283.3121290",
-        "doi": "https://doi.org/10.1145/3121283.3121290",
-        "product": "x-IMU"
-    },
-    {
         "authors": "Brown, Dom and Renney, Nathan and Stark, Adam and Nash, Chris and Mitchell, Tom",
         "title": "Leimu: gloveless music interaction using a wrist mounted leap motion",
         "publication": "Proceedings of the International Conference On New Interfaces for Musical Expression NIME2016",
@@ -2202,15 +2130,6 @@
         "year": "2016",
         "url": "https://doi.org/10.1109/IROS.2016.7759835",
         "doi": "https://doi.org/10.1109/IROS.2016.7759835",
-        "product": "x-IMU"
-    },
-    {
-        "authors": "Ahmadi, Amin, Fran\u00e7ois Destelle, Luis Unzueta, David S. Monaghan, Maria Teresa Linaza, Kieran Moran, and Noel E. O\u2019Connor",
-        "title": "3D human gait reconstruction and monitoring using body-worn inertial sensors and kinematic modeling.",
-        "publication": "IEEE Sensors Journal\u00a0(\u00a0Volume: 16\u00a0,\u00a0Issue: 24\u00a0, Dec.15, 15 2016\u00a0)",
-        "year": "2016",
-        "url": "https://doi.org/10.1109/JSEN.2016.2593011",
-        "doi": "https://doi.org/10.1109/JSEN.2016.2593011",
         "product": "x-IMU"
     },
     {
@@ -2329,15 +2248,6 @@
         "url": "http://fenix.univ.rzeszow.pl/~mkepski/Kepski_PhD_Thesis.pdf",
         "doi": "http://fenix.univ.rzeszow.pl/~mkepski/Kepski_PhD_Thesis.pdf",
         "product": "x-IMU"
-    },
-    {
-        "authors": "Turchet, Luca",
-        "title": "The Hyper-Zampogna",
-        "publication": "Proceedings of the Sound and Music Computing Conference",
-        "year": "2016",
-        "url": "https://doi.org/10.5281/zenodo.851321",
-        "doi": "https://doi.org/10.5281/zenodo.851321",
-        "product": "x-OSC"
     },
     {
         "authors": "Camurri, Antonio, Corrado Canepa, Nicola Ferrari, Maurizio Mancini, Radoslaw Niewiadomski, Stefano Piana, Gualtiero Volpe, Jean-Marc Matos, Pablo Palacio, and Muriel Romero",
@@ -2877,24 +2787,6 @@
         "year": "2013",
         "url": "https://doi.org/10.1109/IPDPSW.2013.215",
         "doi": "https://doi.org/10.1109/IPDPSW.2013.215",
-        "product": "x-IMU"
-    },
-    {
-        "authors": "Meyer, Benjamin, Kristian Ehlers, Christoph Osterloh, and Erik Maehle",
-        "title": "Smart-E an autonomous omnidirectional underwater robot",
-        "publication": "Paladyn, Journal of Behavioral Robotics\u00a04",
-        "year": "2013",
-        "url": "https://doi.org/10.2478/pjbr-2013-0015",
-        "doi": "https://doi.org/10.2478/pjbr-2013-0015",
-        "product": "x-IMU"
-    },
-    {
-        "authors": "Mitchell, Thomas J and Madgwick, Sebastian and Heap, Imogen",
-        "title": "Musical interaction with hand posture and orientation: A toolbox of gestural control mechanisms",
-        "publication": "The International Conference on New Interfaces for Musical Expression (NIME) 2012",
-        "year": "2012",
-        "url": "http://eprints.uwe.ac.uk/18267/1/272_Final_Manuscript.pdf",
-        "doi": "http://eprints.uwe.ac.uk/18267/1/272_Final_Manuscript.pdf",
         "product": "x-IMU"
     },
     {
