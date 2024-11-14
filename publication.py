@@ -1,5 +1,6 @@
 import json
 from dataclasses import dataclass, asdict
+from difflib import SequenceMatcher
 from typing import List
 
 
@@ -14,7 +15,7 @@ class Publication:
     product: str
 
     def __eq__(self, other: "Publication"):
-        return self.title.lower().rstrip(".") == other.title.lower().rstrip(".")
+        return SequenceMatcher(None, self.title.lower(), other.title.lower()).ratio() > 0.9
 
 
 def read_publications(file_name: str) -> List[Publication]:

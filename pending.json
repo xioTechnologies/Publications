@@ -1,37 +1,10 @@
 [
     {
-        "authors": "D Cristaudo, B Bruder, JA Puleo",
-        "title": "Intrumented surrogate munitions for nearshore unexploded ordnance mobility studies\u2014Design and measurement capabilities",
-        "publication": "OCEANS 2017-Anchorage",
-        "year": "2017",
-        "url": "https://ieeexplore.ieee.org/abstract/document/8232074/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "CD Favier, JA Deane, AH McGregor",
         "title": "Design and preliminary testing of a low-cost balance perturbation system for the evaluation of real life postural adjustment on public transport",
         "publication": "Journal of medical \u2026",
         "year": "2019",
         "url": "https://www.tandfonline.com/doi/abs/10.1080/03091902.2019.1673845",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "K Gibb, N Yovchev, C Aubertin",
-        "title": "Developing an Instrumentation Package to Measure Noise and Vibration in Neonatal Patient Transport",
-        "publication": "2023 IEEE \u2026",
-        "year": "2023",
-        "url": "https://ieeexplore.ieee.org/abstract/document/10171888/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "T Rantalainen, T Finni, S Walker",
-        "title": "Jump height from inertial recordings: A tutorial for a sports scientist",
-        "publication": "Scandinavian journal of \u2026",
-        "year": "2020",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/sms.13546",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -171,15 +144,6 @@
         "product": "TODO"
     },
     {
-        "authors": "M Merad, E De Montalivet, M Legrand",
-        "title": "Assessment of an automatic prosthetic elbow control strategy using residual limb motion for transhumeral amputated individuals with socket or osseointegrated \u2026",
-        "publication": "\u2026 on Medical Robotics \u2026",
-        "year": "2020",
-        "url": "https://ieeexplore.ieee.org/abstract/document/8972569/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "P Pierleoni, A Belli, L Palma, M Mercuri",
         "title": "Validation of a gait analysis algorithm for wearable sensors",
         "publication": "\u2026 on Sensing and \u2026",
@@ -194,15 +158,6 @@
         "publication": "Sensors",
         "year": "2020",
         "url": "https://www.mdpi.com/1424-8220/20/9/2518",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "T Rantalainen, KD Hesketh, C Rodda",
-        "title": "Validity of hip\u2010worn inertial measurement unit compared to jump mat for jump height measurement in adolescents",
-        "publication": "\u2026 Journal of Medicine \u2026",
-        "year": "2018",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/sms.13243",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -306,15 +261,6 @@
         "product": "TODO"
     },
     {
-        "authors": "F Darwaish, S Redpath, K Greenwood",
-        "title": "Characterizing on-road vibrations in Ontario's neonatal patient transport",
-        "publication": "2021 IEEE \u2026",
-        "year": "2021",
-        "url": "https://ieeexplore.ieee.org/abstract/document/9478679/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "D Sanchez-Martinez, CA Jara",
         "title": "Approaches to Automatic Assembling of Plastic Toys",
         "publication": "Iberian Robotics \u2026",
@@ -347,15 +293,6 @@
         "publication": "Sports Biomechanics",
         "year": "2021",
         "url": "https://www.tandfonline.com/doi/abs/10.1080/14763141.2021.2009906",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "A Farrukh, R West",
-        "title": "FLYOS: Integrated Modular Avionics for Autonomous Multicopters",
-        "publication": "2022 IEEE 28th Real-Time and Embedded \u2026",
-        "year": "2022",
-        "url": "https://ieeexplore.ieee.org/abstract/document/9804654/",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -401,15 +338,6 @@
         "publication": "IEEE Sensors Journal",
         "year": "2020",
         "url": "https://ieeexplore.ieee.org/abstract/document/9044713/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "T Milekovic, EM Moraud, N Macellari, C Moerman",
-        "title": "A spinal cord neuroprosthesis for locomotor deficits due to Parkinson's disease",
-        "publication": "Nature Medicine",
-        "year": "2023",
-        "url": "https://www.nature.com/articles/s41591-023-02584-1",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -482,24 +410,6 @@
         "publication": "2021 Joint Conference-11th \u2026",
         "year": "2022",
         "url": "https://ieeexplore.ieee.org/abstract/document/9932227/",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "H Saidi, M Serrano, P Irani, C Hurter",
-        "title": "On-body tangible interaction: using the body to support tangible manipulations for immersive visualization",
-        "publication": "Proceedings of the 30th \u2026",
-        "year": "2018",
-        "url": "https://dl.acm.org/doi/abs/10.1145/3286689.3286692",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "RMA van der Slikke, DJJ Bregman",
-        "title": "The future of classification in wheelchair sports: can data science and technological advancement offer an alternative point of view?",
-        "publication": "\u2026 Journal of Sports \u2026",
-        "year": "2018",
-        "url": "https://journals.humankinetics.com/view/journals/ijspp/13/6/article-p742.xml",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -675,15 +585,6 @@
         "product": "TODO"
     },
     {
-        "authors": "E Leroy, P Fisette, G Abedrabbo Ode",
-        "title": "Analysis of the spine through a multibody model and IMU technology",
-        "publication": "PhD thesis",
-        "year": "2019",
-        "url": "https://dial.uclouvain.be/downloader/downloader.php?pid=thesis%3A19491&datastream=PDF_01&cover=cover-mem",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "S Roox, K Hennen",
         "title": "Locomotor coordination in children with Developmental Coordination Disorder and typically developing children while walking and running to the beat of a \u2026",
         "publication": "NA",
@@ -707,15 +608,6 @@
         "publication": "\u2026 on Intelligent Robots \u2026",
         "year": "2012",
         "url": "https://www.iti.uni-luebeck.de/fileadmin/Rob/MONSUN/Paper/OMA12.pdf",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "A Proto, M Schmidt, J Vondrak, J Jargus",
-        "title": "Wearable Prototype for Body Heat Energy Harvesting in Real-Life Scenarios",
-        "publication": "Available at SSRN \u2026",
-        "year": "NA",
-        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044505",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -1017,15 +909,6 @@
         "product": "TODO"
     },
     {
-        "authors": "V Otlet, R Ronsse",
-        "title": "\" Towards artificial sensory feedback for lower-limb amputees: how does a vibrotactile stimulation of the patellar tendon influence the gait pattern of able-bodied \u2026",
-        "publication": "\u2026 de Louvain, Universit\u00e9 Catholique de Louvain",
-        "year": "2019",
-        "url": "https://dial.uclouvain.be/downloader/downloader.php?pid=thesis%3A19443&datastream=PDF_01&cover=cover-mem",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "X Zhang",
         "title": "Smart Sensor and Tracking System for Underground Mining",
         "publication": "NA",
@@ -1193,15 +1076,6 @@
         "publication": "International \u2026",
         "year": "2020",
         "url": "https://journals.sagepub.com/doi/abs/10.1177/1729881420911767",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "D Bisig, P Palacio, M Romero",
-        "title": "Piano&Dancer-Interaction Between a Dancer and an AcousticInstrument",
-        "publication": "19th Generative Art Conference GA2016",
-        "year": "2016",
-        "url": "http://bitingbit.org/publications/pdf/pianodancer_moco2017.pdf",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -1512,15 +1386,6 @@
         "product": "TODO"
     },
     {
-        "authors": "N Muthukrishnan",
-        "title": "A Wearable Real-Time Auditory Feedback System to Improve Gait and Posture in Parkinson's Disease",
-        "publication": "NA",
-        "year": "2022",
-        "url": "https://search.proquest.com/openview/1c7c8aa75aa11ee0125f2bcbedee127e/1?pq-origsite=gscholar&cbl=18750&diss=y",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "J De Jaeger, R Ronsse, V Otlet",
         "title": "Influence of different environmental contexts on gait parameters in patients with Parkinson's disease",
         "publication": "NA",
@@ -1638,15 +1503,6 @@
         "product": "TODO"
     },
     {
-        "authors": "G Duprez, R Ronsse",
-        "title": "Augmented feedback for the lower-limb amputees: can a rhythmic stimulation desynchronise the gait of healthy subjects?",
-        "publication": "NA",
-        "year": "NA",
-        "url": "https://dial.uclouvain.be/downloader/downloader.php?pid=thesis%3A25169&datastream=PDF_01&cover=cover-mem",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "F Haider, FA Salim, SBY Tasdemir, V Naghashi",
         "title": "Kubra Cengiz6, Dees BW Postma2, Robby van Delden2, Dennis Reidsma2, Bert-Jan van Beijnum2, Saturnino Luz1 1The University of Edinburgh, UK \u2026",
         "publication": "NA",
@@ -1746,15 +1602,6 @@
         "product": "TODO"
     },
     {
-        "authors": "C Draguet, R Ronsse",
-        "title": "\" Locomotion intention detection for lower-limb amputees by using Dynamic Bayesian Networks",
-        "publication": "NA",
-        "year": "NA",
-        "url": "https://dial.uclouvain.be/downloader/downloader.php?pid=thesis%3A25101&datastream=PDF_01&cover=cover-mem",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
         "authors": "B Said",
         "title": "Za\u0159\u00edzen\u00ed pro anal\u00fdzu pohybu pomoc\u00ed inerci\u00e1ln\u00edch senzor\u016f",
         "publication": "NA",
@@ -1796,15 +1643,6 @@
         "publication": "Sensors and Microsystems \u2026",
         "year": "2013",
         "url": "https://link.springer.com/chapter/10.1007/978-3-319-00684-0_64",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "F Khobkhun",
-        "title": "An Investigation of the Contribution of Axial Rigidity to Turning Deficits in Individuals with Parkinson's Disease",
-        "publication": "NA",
-        "year": "2019",
-        "url": "https://search.proquest.com/openview/5c6fb0f309e4396061596fdb07e0e72f/1?pq-origsite=gscholar&cbl=2026366&diss=y",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -1922,15 +1760,6 @@
         "publication": "NA",
         "year": "2022",
         "url": "https://jyx.jyu.fi/handle/123456789/81428",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "HE Sa\u00efdi, M Serrano, P Irani, C Hurter",
-        "title": "Utilisation du corps comme support \u00e0 l'interaction \u00e0 distance avec un dispositif \u00e0 multiple degr\u00e9s de libert\u00e9s",
-        "publication": "\u2026 francophone sur l' \u2026",
-        "year": "2018",
-        "url": "https://hal.science/hal-01898853/",
         "doi": "TODO",
         "product": "TODO"
     },
@@ -2129,15 +1958,6 @@
         "publication": "NA",
         "year": "2022",
         "url": "https://repositorio.unicordoba.edu.co/bitstreams/fdde879f-4ece-4046-a3ff-269d07886acd/download",
-        "doi": "TODO",
-        "product": "TODO"
-    },
-    {
-        "authors": "M Kepski",
-        "title": "Detekcja upadku i wybranych akcji na sekwencjach obraz\\'ow cyfrowych",
-        "publication": "arXiv preprint arXiv:1706.08107",
-        "year": "2017",
-        "url": "https://arxiv.org/abs/1706.08107",
         "doi": "TODO",
         "product": "TODO"
     },
