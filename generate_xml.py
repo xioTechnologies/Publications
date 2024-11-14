@@ -3,12 +3,14 @@ from publication import read_publications
 
 publications = read_publications("publications.json")
 
-for index, publication in enumerate(publications):
-    if "TODO" in [publication.doi, publication.product]:
-        raise Exception(f'"TODO" for index {index}: "{publication.title}"')
+for publication in [p for p in publications if publications.count(p) > 1]:
+    print(f"Duplicate: {publication.title}")
 
-    if "NA" in [publication.year, publication.publication]:
-        raise Exception(f'"NA" for index {index}: "{publication.title}"')
+for publication in [p for p in publications if "TODO" in [p.doi, p.product]]:
+    print(f"TODO: {publication.title}")
+
+for publication in [p for p in publications if "NA" in [p.year, p.publication]]:
+    print(f"NA: {publication.title}")
 
 publications = sorted(publications, key=lambda publication: int(publication.year), reverse=True)
 
