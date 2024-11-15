@@ -6,9 +6,6 @@ publications = read_publications("publications.json")
 for publication in [p for p in publications if publications.count(p) > 1]:
     print(f"Duplicate: {publication.title}")
 
-for publication in [p for p in publications if "TODO" in [p.doi, p.product]]:
-    print(f"TODO: {publication.title}")
-
 for publication in [p for p in publications if "NA" in [p.year, p.publication]]:
     print(f"NA: {publication.title}")
 
