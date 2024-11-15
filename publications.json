@@ -99,24 +99,6 @@
         "product": "x-OSC"
     },
     {
-        "authors": "M Rantakokko, E Matikainen-Tervola",
-        "title": "Gait Features in Different Environments Contributing to Participation in Outdoor Activities in Old Age (GaitAge): Protocol for an Observational Cross-Sectional \u2026",
-        "publication": "JMIR Research \u2026",
-        "year": "2024",
-        "url": "https://www.researchprotocols.org/2024/1/e52898/",
-        "doi": "https://doi.org/10.2196/52898",
-        "product": "NGIMU"
-    },
-    {
-        "authors": "Y Wang, Q Yang, L Drukker, A Papageorghiou",
-        "title": "Task model-specific operator skill assessment in routine fetal ultrasound scanning",
-        "publication": "International Journal of \u2026",
-        "year": "2022",
-        "url": "https://link.springer.com/article/10.1007/s11548-022-02642-y",
-        "doi": "https://doi.org/10.1007/s11548-022-02642-y",
-        "product": "NGIMU"
-    },
-    {
         "authors": "N Daddaoua, HP Jedema",
         "title": "Deliberative Decision-Making in Macaques Removes Reward-Driven Response Vigor",
         "publication": "Frontiers in Behavioral \u2026",
@@ -133,24 +115,6 @@
         "url": "https://www.mdpi.com/1424-8220/17/4/827",
         "doi": "https://doi.org/10.3390/s17040827",
         "product": "x-IMU"
-    },
-    {
-        "authors": "V Otlet, C Vandamme, T Warlop, F Crevecoeur",
-        "title": "Effects of overground gait training assisted by a wearable exoskeleton in patients with Parkinson's disease",
-        "publication": "\u2026 of neuroengineering and \u2026",
-        "year": "2023",
-        "url": "https://link.springer.com/article/10.1186/s12984-023-01280-y",
-        "doi": "https://doi.org/10.1186/s12984-023-01280-y",
-        "product": "NGIMU"
-    },
-    {
-        "authors": "D Stanev, K Filip, D Bitzas, S Zouras, G Giarmatzis",
-        "title": "Real-time musculoskeletal kinematics and dynamics analysis using marker-and IMU-based solutions in rehabilitation",
-        "publication": "Sensors",
-        "year": "2021",
-        "url": "https://www.mdpi.com/1424-8220/21/5/1804",
-        "doi": "https://doi.org/10.3390/s21051804",
-        "product": "NGIMU"
     },
     {
         "authors": "HY Tang, SH Tan, TY Su, CJ Chiang, HH Chen",
@@ -198,15 +162,6 @@
         "product": "NGIMU"
     },
     {
-        "authors": "T Svenns",
-        "title": "SENSITIV: designing for interactive dance and the experience of control",
-        "publication": "NA",
-        "year": "2020",
-        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1466897",
-        "doi": "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-280814",
-        "product": "NGIMU"
-    },
-    {
         "authors": "O Majidzadeh Gorjani, A Proto, J Vanus, P Bilik",
         "title": "Indirect recognition of predefined human activities",
         "publication": "Sensors",
@@ -234,15 +189,6 @@
         "product": "x-IMU"
     },
     {
-        "authors": "MP van Dijk, RMA van der Slikke, R Rupf",
-        "title": "Obtaining wheelchair kinematics with one sensor only? The trade-off between number of inertial sensors and accuracy for measuring wheelchair mobility \u2026",
-        "publication": "Journal of \u2026",
-        "year": "2022",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0021929021006357",
-        "doi": "https://doi.org/10.1016/j.jbiomech.2021.110879",
-        "product": "NGIMU"
-    },
-    {
         "authors": "L Jap, A Holzapfel",
         "title": "Real-time mapping of periodic dance movements to control tempo in electronic dance music",
         "publication": "16th Sound & Music Computing Conference \u2026",
@@ -268,15 +214,6 @@
         "url": "https://iris.unitn.it/handle/11572/226233",
         "doi": "https://hdl.handle.net/11572/226233",
         "product": "x-OSC"
-    },
-    {
-        "authors": "HJ Witchel, C Oberndorfer, R Needham",
-        "title": "Thigh-derived inertial sensor metrics to assess the sit-to-stand and stand-to-sit transitions in the timed up and go (TUG) task for quantifying mobility impairment in \u2026",
-        "publication": "Frontiers in \u2026",
-        "year": "2018",
-        "url": "https://www.frontiersin.org/articles/10.3389/fneur.2018.00684/full",
-        "doi": "https://doi.org/10.3389/fneur.2018.00684",
-        "product": "x-IMU"
     },
     {
         "authors": "P Stefaniak, W Koperska, A Skoczylas, J Witulska",
@@ -1597,8 +1534,8 @@
         "title": "Thigh-derived inertial sensor metrics to assess the sit-to-stand and stand-to-sit transitions in the timed up and go (TUG) task for quantifying mobility impairment in multiple sclerosis",
         "publication": "Frontiers in neurology,\u00a09, 684",
         "year": "2018",
-        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6149240/",
-        "doi": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6149240/",
+        "url": "https://doi.org/10.3389/fneur.2018.00684",
+        "doi": "https://doi.org/10.3389/fneur.2018.00684",
         "product": "x-IMU"
     },
     {

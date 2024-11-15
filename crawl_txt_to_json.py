@@ -19,8 +19,8 @@ with open("crawl.txt", "r", encoding="utf-8") as file:
                 publication=dictionary["bib"]["venue"],
                 year=dictionary["bib"]["pub_year"],
                 url=dictionary["pub_url"],
-                doi="TODO",
-                product="TODO",
+                doi="NA",
+                product="NA",
             )
         )
 
