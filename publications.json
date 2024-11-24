@@ -1,8 +1,17 @@
 [
     {
+        "authors": "Alfin Junaedy, ORCID Icon, Hiroyuki Masuta ORCID Icon, Yotaro Fuse ORCID Icon, Kei Sawai, Tatsuo Motoyoshi, and Noboru Takagi",
+        "title": "Online Topological Mapping on a Quadcopter with Fast Growing Neural Gas",
+        "publication": "Journal of Advanced Computational Intelligence and Intelligent Informatics",
+        "year": "2024",
+        "url": "doi.org/10.20965/jaciii.2024.p1354",
+        "doi": "doi.org/10.20965/jaciii.2024.p1354",
+        "product": "NGIMU"
+    },
+    {
         "authors": "OC Ruiz, R Villar, R Weyler",
         "title": "Design of a bench to allocate accelerometers and gyroscopes on a sailplane",
-        "publication": "NA",
+        "publication": "Bachelor Thesis",
         "year": "2016",
         "url": "https://core.ac.uk/download/pdf/81578544.pdf",
         "doi": "https://core.ac.uk/download/pdf/81578544.pdf",
@@ -11,8 +20,8 @@
     {
         "authors": "M Schinckus, B Raucent, O Cartiaux",
         "title": "Spatiotemporal analysis of cane-assisted gait in post-stroke patients using inertial measurement units",
-        "publication": "NA",
-        "year": "NA",
+        "publication": "Masters Thesis",
+        "year": "2018",
         "url": "https://dial.uclouvain.be/downloader/downloader.php?pid=thesis%3A14917&datastream=PDF_01",
         "doi": "https://dial.uclouvain.be/memoire/ucl/object/thesis:14917",
         "product": "x-IMU"
@@ -47,7 +56,7 @@
     {
         "authors": "P Kartoidjojo",
         "title": "Volleyball Spike Quality",
-        "publication": "NA",
+        "publication": "Bachelor Thesis",
         "year": "2020",
         "url": "http://essay.utwente.nl/88111/",
         "doi": "https://purl.utwente.nl/essays/88111",
@@ -83,7 +92,7 @@
     {
         "authors": "A S\u0142y\u017c",
         "title": "Sound response to physicality: Artistic expressions of movement sonification",
-        "publication": "NA",
+        "publication": "Masters Thesis",
         "year": "2022",
         "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1672626",
         "doi": "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akmh%3Adiva-4624",
@@ -128,7 +137,7 @@
     {
         "authors": "C Butera",
         "title": "IMU-based upper limb kinematics: from exosuit control to motor primitives classification",
-        "publication": "NA",
+        "publication": "Masters Thesis",
         "year": "2022",
         "url": "https://www.politesi.polimi.it/handle/10589/208668",
         "doi": "https://hdl.handle.net/10589/208668",
@@ -173,7 +182,7 @@
     {
         "authors": "A Hass, C Grimm",
         "title": "Evaluation of the separation mechanism of the asteroid landing module MASCOT by analyzing test data of a microgravity experiment",
-        "publication": "NA",
+        "publication": "Bachelors Thesis",
         "year": "2014",
         "url": "https://elib.dlr.de/104842/",
         "doi": "https://elib.dlr.de/104842/",
@@ -200,7 +209,7 @@
     {
         "authors": "V de Vette",
         "title": "Using the Recovery Phase in Wheelchair Racing to Estimate the Resistance Forces",
-        "publication": "NA",
+        "publication": "Master Thesis ",
         "year": "2023",
         "url": "https://repository.tudelft.nl/file/File_299fb8d2-a379-4f24-acab-1c99ba0292b4?preview=1",
         "doi": "http://resolver.tudelft.nl/uuid:77e611f1-fe58-4984-8760-c835bc616631",
@@ -235,9 +244,9 @@
     },
     {
         "authors": "SW Kresie, DA Hawkins",
-        "title": "Research Article Advances in Orthopedics and Sports Medicine AOASM-139",
-        "publication": "NA",
-        "year": "NA",
+        "title": "Evaluation of an IMU-Based Wearable Device for ACL Injury Research",
+        "publication": "Research Article Advances in Orthopedics and Sports Medicine AOASM-139",
+        "year": "2021",
         "url": "https://kosmospublishers.com/wp-content/uploads/2021/05/Evaluation-of-an-IMU-Based-Wearable-Device-for-ACL-Injury-Research.pdf",
         "doi": "http://dx.doi.org/10.37722/AOASM.2021201",
         "product": "NGIMU"
@@ -1465,15 +1474,6 @@
         "url": "https://doi.org/10.3390/s19040840",
         "doi": "https://doi.org/10.3390/s19040840",
         "product": "x-IMU"
-    },
-    {
-        "authors": "Scott W. Kresie, David A. Hawkins",
-        "title": "Evaluation of an IMU-Based Wearable Device for ACL Injury Research",
-        "publication": "Adv Ortho and Sprts Med: AOASM-139",
-        "year": "2018",
-        "url": "https://doi.org/10.37722/AOASM.2021201",
-        "doi": "https://doi.org/10.37722/AOASM.2021201",
-        "product": "NGIMU"
     },
     {
         "authors": "Fabien B. Wagner, Jean-Baptiste Mignardot, Camille G. Le Goff-Mignardot, Robin Demesmaeker, Salif Komi, Marco Capogrosso, Andreas Rowald, Ismael Se\u00e1\u00f1ez, Miroslav Caban, Elvira Pirondini, Molywan Vat, Laura A. McCracken, Roman Heimgartner, Isabelle Fodor, Anne Watrin, Perrine Seguin, Edoardo Paoles, Katrien Van Den Keybus, Gr\u00e9goire Eberle, Brigitte Schurch, Etienne Pralong, Fabio Becce, John Prior, Nicholas Buse, Rik Buschman, Esra Neufeld, Niels Kuster, Stefano Carda, Joachim von Zitzewitz, Vincent Delattre, Tim Denison, Hendrik Lambert, Karen Minassian, Jocelyne Bloch, Gr\u00e9goire Courtine",
