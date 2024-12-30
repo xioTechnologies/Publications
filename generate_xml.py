@@ -6,7 +6,7 @@ publications = read_publications("publications.json")
 for publication in [p for p in publications if publications.count(p) > 1]:
     print(f"Duplicate: {publication.title}")
 
-for publication in [p for p in publications if "NA" in [p.year, p.publication]]:
+for publication in [p for p in publications if "NA" in [p.publication, p.year, p.doi, p.product]]:
     print(f"NA: {publication.title}")
 
 publications = sorted(publications, key=lambda publication: int(publication.year), reverse=True)

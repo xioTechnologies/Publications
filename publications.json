@@ -1,5 +1,14 @@
 [
     {
+        "authors": "N Abhayasinghe, I Murray",
+        "title": "The application of \u201cOff-the-shelf\u201d components for building IMUs for navigation research",
+        "publication": "2014 International Conference on \u2026",
+        "year": "2014",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7275475/",
+        "doi": "https://doi.org/10.1109/IPIN.2014.7275475",
+        "product": "x-IMU"
+    },
+    {
         "authors": "Alfin Junaedy, ORCID Icon, Hiroyuki Masuta ORCID Icon, Yotaro Fuse ORCID Icon, Kei Sawai, Tatsuo Motoyoshi, and Noboru Takagi",
         "title": "Online Topological Mapping on a Quadcopter with Fast Growing Neural Gas",
         "publication": "Journal of Advanced Computational Intelligence and Intelligent Informatics",

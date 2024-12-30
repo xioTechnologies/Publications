@@ -2161,6 +2161,14 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>N Abhayasinghe, I Murray</author>
+		<title>The application of “Off-the-shelf” components for building IMUs for navigation research</title>
+		<publication>2014 International Conference on …</publication>
+		<year>2014</year>
+		<doi>https://doi.org/10.1109/IPIN.2014.7275475</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
 		<author>A Hass, C Grimm</author>
 		<title>Evaluation of the separation mechanism of the asteroid landing module MASCOT by analyzing test data of a microgravity experiment</title>
 		<publication>Bachelors Thesis</publication>
