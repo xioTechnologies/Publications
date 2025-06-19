@@ -1,4 +1,5 @@
 import ast
+
 from publication import Publication, write_publications
 
 publications = []

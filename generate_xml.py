@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+
 from publication import read_publications
 
 publications = read_publications("publications.json")
