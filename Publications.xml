@@ -1286,7 +1286,7 @@
 		<publication>IEEE Journal of Oceanic …</publication>
 		<year>2018</year>
 		<doi>https://doi.org/10.1109/JOE.2018.2871227</doi>
-		<product>X-IMU</product>
+		<product>x-IMU</product>
 	</paper>
 	<paper>
 		<author>J Foltyn, R Halfar, M Cerny</author>
@@ -1294,7 +1294,7 @@
 		<publication>2018 IEEE 20th …</publication>
 		<year>2018</year>
 		<doi>https://doi.org/10.1109/HealthCom.2018.8531166</doi>
-		<product>X-BIMU</product>
+		<product>x-BIMU</product>
 	</paper>
 	<paper>
 		<author>T Michailidis, J Hockman</author>
@@ -1590,7 +1590,7 @@
 		<publication>Sensors</publication>
 		<year>2017</year>
 		<doi>http://dx.doi.org/10.3390/s17040827</doi>
-		<product>X-IMU</product>
+		<product>x-IMU</product>
 	</paper>
 	<paper>
 		<author>D Rodríguez-Martín, C Pérez-López, A Samà, A Català</author>
@@ -2230,7 +2230,7 @@
 		<publication>… International Conference on …</publication>
 		<year>2014</year>
 		<doi>https://doi.org/10.1109/IPIN.2014.7275464</doi>
-		<product>X-BIMU</product>
+		<product>x-BIMU</product>
 	</paper>
 	<paper>
 		<author>N Abhayasinghe, I Murray</author>
