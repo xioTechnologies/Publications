@@ -10,6 +10,9 @@ for publication in [p for p in publications if publications.count(p) > 1]:
 for publication in [p for p in publications if "NA" in [p.publication, p.year, p.doi, p.product]]:
     print(f"NA: {publication.title}")
 
+for publication in [p for p in publications if p.product not in ["x-IMU", "x-BIMU", "x-OSC", "NGIMU", "x-IMU3"]]:
+    print(f"Invalid Product: {publication.title}")
+
 publications = sorted(publications, key=lambda publication: int(publication.year), reverse=True)
 
 root = ET.Element("publications", {"xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"})
