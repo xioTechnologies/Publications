@@ -18,15 +18,6 @@
         "product": "NA"
     },
     {
-        "authors": "T Michailidis, J Hockman",
-        "title": "Affordances of vibrations in performances and composition",
-        "publication": "NA",
-        "year": "2018",
-        "url": "https://www.open-access.bcu.ac.uk/6181/1/affordances-vibrational-excitation.pdf",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
         "authors": "M Maglov",
         "title": "\u201cHuman vs. Machine\u201d Divide is a False Dichotomy: Interview with Dr. Kelly Snook",
         "publication": "INSAM Journal of Contemporary Music, Art and \u2026",
@@ -50,8 +41,8 @@
         "publication": "Sensors (Basel \u2026",
         "year": "2024",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11478697/",
-        "doi": "NA",
-        "product": "NA"
+        "doi": "https://doi.org/10.3390/s24196343",
+        "product": "X-IMU3"
     },
     {
         "authors": "NF Ribeiro, CP Santos",
@@ -63,21 +54,12 @@
         "product": "NA"
     },
     {
-        "authors": "J Foltyn, R Halfar, M Cerny",
-        "title": "Multipurpose Sensor for Human Movement Analysis",
-        "publication": "2018 IEEE 20th \u2026",
-        "year": "2018",
-        "url": "https://ieeexplore.ieee.org/abstract/document/8531166/",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
         "authors": "M Merad, E de Montalivet, M Legrand",
         "title": "Improving the control of prostheses in arm amputees with approaches based on motor coordination",
         "publication": "Computer Methods in \u2026",
         "year": "2019",
         "url": "https://www.tandfonline.com/doi/full/10.1080/10255842.2020.1714976",
-        "doi": "NA",
+        "doi": "https://doi.org/10.1080/10255842.2020.1714976",
         "product": "NA"
     },
     {
@@ -104,7 +86,7 @@
         "publication": "\u2026 Conference on Medical \u2026",
         "year": "2022",
         "url": "https://link.springer.com/chapter/10.1007/978-3-031-16449-1_10",
-        "doi": "NA",
+        "doi": "https://doi.org/10.48550/arXiv.2207.12833",
         "product": "NA"
     },
     {
@@ -113,7 +95,7 @@
         "publication": "2023 Symposium on \u2026",
         "year": "2023",
         "url": "https://ieeexplore.ieee.org/abstract/document/10390088/",
-        "doi": "NA",
+        "doi": "https://doi.org/10.1109/SIoT60039.2023.10390088",
         "product": "NA"
     },
     {
@@ -144,29 +126,11 @@
         "product": "NA"
     },
     {
-        "authors": "F Khobkhun, MA Hollands, J Richards, A Ajjimaporn",
-        "title": "Can we accurately measure axial segment coordination during turning using inertial measurement units (IMUs)?",
-        "publication": "Sensors",
-        "year": "2020",
-        "url": "https://www.mdpi.com/1424-8220/20/9/2518",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
         "authors": "O Postolache, JMD Pereira, M Ribeiro",
         "title": "Assistive smart sensing devices for gait rehabilitation monitoring",
         "publication": "ICTs for Improving Patients \u2026",
         "year": "2015",
         "url": "https://link.springer.com/chapter/10.1007/978-3-662-48645-0_20",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
-        "authors": "V Della-Libera, A Llaria, G Terrasson",
-        "title": "Wearable inertial sensors to recognize basic human motion: What technology for what activity?",
-        "publication": "2020 IEEE Conference \u2026",
-        "year": "2020",
-        "url": "https://ieeexplore.ieee.org/abstract/document/9274718/",
         "doi": "NA",
         "product": "NA"
     },
@@ -198,31 +162,13 @@
         "product": "NA"
     },
     {
-        "authors": "SM Brice, M Hurley, EJ Phillips",
-        "title": "Use of inertial measurement units for measuring torso and pelvis orientation, and shoulder\u2013pelvis separation angle in the discus throw",
-        "publication": "International Journal of \u2026",
-        "year": "2018",
-        "url": "https://journals.sagepub.com/doi/abs/10.1177/1747954118778664",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
-        "authors": "B Bruder, D Cristaudo, JA Puleo",
-        "title": "Smart surrogate munitions for nearshore unexploded ordnance mobility/burial studies",
-        "publication": "IEEE Journal of Oceanic \u2026",
-        "year": "2018",
-        "url": "https://ieeexplore.ieee.org/abstract/document/8488584/",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
         "authors": "RB Boudreau, S Carciumaru, Y Chen, DDE Noah",
         "title": "McGill Robotics\u2013Development of the Autonomous Underwater Vehicle: Asimov",
-        "publication": "NA",
-        "year": "NA",
+        "publication": "McGill Robotics",
+        "year": "2014",
         "url": "https://robonation.org/app/uploads/sites/4/2019/10/McGill_RS14_Paper.pdf",
         "doi": "NA",
-        "product": "NA"
+        "product": "X-IMU"
     },
     {
         "authors": "A Depari, P Ferrari, A Flammini",
@@ -230,24 +176,6 @@
         "publication": "2019 IEEE Sensors \u2026",
         "year": "2019",
         "url": "https://ieeexplore.ieee.org/abstract/document/8706106/",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
-        "authors": "A Trujillo-Le\u00f3n, R Ady, D Reversat",
-        "title": "Robotic cane controlled to adapt automatically to its user gait characteristics",
-        "publication": "Frontiers in Robotics and \u2026",
-        "year": "2020",
-        "url": "https://www.frontiersin.org/articles/10.3389/frobt.2020.00105/full",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
-        "authors": "A Ahmadi, F Destelle, L Unzueta",
-        "title": "3D human gait reconstruction and monitoring using body-worn inertial sensors and kinematic modeling",
-        "publication": "IEEE Sensors \u2026",
-        "year": "2016",
-        "url": "https://ieeexplore.ieee.org/abstract/document/7516603/",
         "doi": "NA",
         "product": "NA"
     },
@@ -261,65 +189,11 @@
         "product": "NA"
     },
     {
-        "authors": "JO Nilsson, AK Gupta, P H\u00e4ndel",
-        "title": "Foot-mounted inertial navigation made easy",
-        "publication": "\u2026 International Conference on \u2026",
-        "year": "2014",
-        "url": "https://ieeexplore.ieee.org/abstract/document/7275464/",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
-        "authors": "DM Rodr\u00edguez Mart\u00edn, C P\u00e9rez L\u00f3pez",
-        "title": "A waist-worn inertial measurement unit for Parkinson's disease long-term monitoring",
-        "publication": "Sensors",
-        "year": "2017",
-        "url": "https://upcommons.upc.edu/handle/2117/104742",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
-        "authors": "ER Brooks, AC Benson, AS Fox, LM Bruce",
-        "title": "Quantifying jumps and external load in netball using VERT inertial measurement units",
-        "publication": "Sports Biomechanics",
-        "year": "2021",
-        "url": "https://www.tandfonline.com/doi/abs/10.1080/14763141.2021.2009906",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
-        "authors": "N Harrison, G Parton",
-        "title": "New technology and approaches for audio education as a response to COVID-19",
-        "publication": "The Australasian Sound Archive",
-        "year": "2022",
-        "url": "https://search.informit.org/doi/abs/10.3316/informit.833279439608619",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
-        "authors": "C Charsmar-Etor",
-        "title": "Improving Objectivity and Reliability of Observational Risk Assessment Tools by using Technical Instruments",
-        "publication": "NA",
-        "year": "2023",
-        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1820622",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
         "authors": "S Zahiri-Rad, AP Weiss, A Kr\u00f6pfl",
         "title": "Visible light based positioning by continuous frequency-modulated LEDs in combination with fingerprinting",
         "publication": "2022 45th International \u2026",
         "year": "2022",
         "url": "https://ieeexplore.ieee.org/abstract/document/9812836/",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
-        "authors": "F Khobkhun, M Hollands, J Tretriluxana",
-        "title": "Benefits of task\u2010specific movement program on en bloc turning in Parkinson's disease: A randomized controlled trial",
-        "publication": "Physiotherapy \u2026",
-        "year": "2022",
-        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pri.1963",
         "doi": "NA",
         "product": "NA"
     },

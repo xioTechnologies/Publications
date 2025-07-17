@@ -313,6 +313,14 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>N Harrison, G Parton</author>
+		<title>New technology and approaches for audio education as a response to COVID-19</title>
+		<publication>The Australasian Sound Archive</publication>
+		<year>2022</year>
+		<doi>https://search.informit.org/doi/epdf/10.3316/informit.833279439608619</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
 		<author>YZY Zhang, JGY Zhang, RZJ Guo, ZZR Zhu, FWZ Zhao</author>
 		<title>Pedestrian Inertial Navigation with Building Floor Plans for Indoor Environments via Particle Filter</title>
 		<publication>電腦學刊</publication>
@@ -710,6 +718,30 @@
 		<publication>Diagnostics </publication>
 		<year>2021</year>
 		<doi>https://doi.org/10.3390/diagnostics11010008</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>A Trujillo-León, R Ady, D Reversat</author>
+		<title>Robotic cane controlled to adapt automatically to its user gait characteristics</title>
+		<publication>Frontiers in Robotics and …</publication>
+		<year>2020</year>
+		<doi>https://doi.org/10.3389/frobt.2020.00105</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>V Della-Libera, A Llaria, G Terrasson</author>
+		<title>Wearable inertial sensors to recognize basic human motion: What technology for what activity?</title>
+		<publication>2020 IEEE Conference …</publication>
+		<year>2020</year>
+		<doi>https://doi.org/10.1109/ICPS48405.2020.9274718</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>F Khobkhun, MA Hollands, J Richards, A Ajjimaporn</author>
+		<title>Can we accurately measure axial segment coordination during turning using inertial measurement units (IMUs)?</title>
+		<publication>Sensors</publication>
+		<year>2020</year>
+		<doi>https://doi.org/10.3390/s20092518</doi>
 		<product>x-IMU</product>
 	</paper>
 	<paper>
@@ -1249,6 +1281,30 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>B Bruder, D Cristaudo, JA Puleo</author>
+		<title>Smart surrogate munitions for nearshore unexploded ordnance mobility/burial studies</title>
+		<publication>IEEE Journal of Oceanic …</publication>
+		<year>2018</year>
+		<doi>https://doi.org/10.1109/JOE.2018.2871227</doi>
+		<product>X-IMU</product>
+	</paper>
+	<paper>
+		<author>J Foltyn, R Halfar, M Cerny</author>
+		<title>Multipurpose Sensor for Human Movement Analysis</title>
+		<publication>2018 IEEE 20th …</publication>
+		<year>2018</year>
+		<doi>https://doi.org/10.1109/HealthCom.2018.8531166</doi>
+		<product>X-BIMU</product>
+	</paper>
+	<paper>
+		<author>T Michailidis, J Hockman</author>
+		<title>Affordances of vibrations in performances and composition</title>
+		<publication>15th Sound and Music Computing Conference (SMC2018)</publication>
+		<year>2018</year>
+		<doi>https://doi.org/10.5281/ZENODO.1422618</doi>
+		<product>x-OSC</product>
+	</paper>
+	<paper>
 		<author>M Schinckus, B Raucent, O Cartiaux</author>
 		<title>Spatiotemporal analysis of cane-assisted gait in post-stroke patients using inertial measurement units</title>
 		<publication>Masters Thesis</publication>
@@ -1527,6 +1583,14 @@
 		<year>2018</year>
 		<doi>https://doi.org/10.1016/j.jveb.2018.04.003</doi>
 		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>DM Rodríguez Martín, C Pérez López</author>
+		<title>A waist-worn inertial measurement unit for Parkinson's disease long-term monitoring</title>
+		<publication>Sensors</publication>
+		<year>2017</year>
+		<doi>http://dx.doi.org/10.3390/s17040827</doi>
+		<product>X-IMU</product>
 	</paper>
 	<paper>
 		<author>D Rodríguez-Martín, C Pérez-López, A Samà, A Català</author>
@@ -2159,6 +2223,14 @@
 		<year>2015</year>
 		<doi>http://hdl.handle.net/11250/293279</doi>
 		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>JO Nilsson, AK Gupta, P Händel</author>
+		<title>Foot-mounted inertial navigation made easy</title>
+		<publication>… International Conference on …</publication>
+		<year>2014</year>
+		<doi>https://doi.org/10.1109/IPIN.2014.7275464</doi>
+		<product>X-BIMU</product>
 	</paper>
 	<paper>
 		<author>N Abhayasinghe, I Murray</author>

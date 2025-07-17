@@ -1,5 +1,86 @@
 [
     {
+        "authors": "N Harrison, G Parton",
+        "title": "New technology and approaches for audio education as a response to COVID-19",
+        "publication": "The Australasian Sound Archive",
+        "year": "2022",
+        "url": "https://search.informit.org/doi/abs/10.3316/informit.833279439608619",
+        "doi": "https://search.informit.org/doi/epdf/10.3316/informit.833279439608619",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "DM Rodr\u00edguez Mart\u00edn, C P\u00e9rez L\u00f3pez",
+        "title": "A waist-worn inertial measurement unit for Parkinson's disease long-term monitoring",
+        "publication": "Sensors",
+        "year": "2017",
+        "url": "https://upcommons.upc.edu/handle/2117/104742",
+        "doi": "http://dx.doi.org/10.3390/s17040827",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "JO Nilsson, AK Gupta, P H\u00e4ndel",
+        "title": "Foot-mounted inertial navigation made easy",
+        "publication": "\u2026 International Conference on \u2026",
+        "year": "2014",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7275464/",
+        "doi": "https://doi.org/10.1109/IPIN.2014.7275464",
+        "product": "X-BIMU"
+    },
+    {
+        "authors": "A Trujillo-Le\u00f3n, R Ady, D Reversat",
+        "title": "Robotic cane controlled to adapt automatically to its user gait characteristics",
+        "publication": "Frontiers in Robotics and \u2026",
+        "year": "2020",
+        "url": "https://www.frontiersin.org/articles/10.3389/frobt.2020.00105/full",
+        "doi": "https://doi.org/10.3389/frobt.2020.00105",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "B Bruder, D Cristaudo, JA Puleo",
+        "title": "Smart surrogate munitions for nearshore unexploded ordnance mobility/burial studies",
+        "publication": "IEEE Journal of Oceanic \u2026",
+        "year": "2018",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8488584/",
+        "doi": "https://doi.org/10.1109/JOE.2018.2871227",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "V Della-Libera, A Llaria, G Terrasson",
+        "title": "Wearable inertial sensors to recognize basic human motion: What technology for what activity?",
+        "publication": "2020 IEEE Conference \u2026",
+        "year": "2020",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9274718/",
+        "doi": "https://doi.org/10.1109/ICPS48405.2020.9274718",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "F Khobkhun, MA Hollands, J Richards, A Ajjimaporn",
+        "title": "Can we accurately measure axial segment coordination during turning using inertial measurement units (IMUs)?",
+        "publication": "Sensors",
+        "year": "2020",
+        "url": "https://www.mdpi.com/1424-8220/20/9/2518",
+        "doi": "https://doi.org/10.3390/s20092518",
+        "product": "x-IMU"
+    },
+    {
+        "authors": "J Foltyn, R Halfar, M Cerny",
+        "title": "Multipurpose Sensor for Human Movement Analysis",
+        "publication": "2018 IEEE 20th \u2026",
+        "year": "2018",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8531166/",
+        "doi": "https://doi.org/10.1109/HealthCom.2018.8531166",
+        "product": "X-BIMU"
+    },
+    {
+        "authors": "T Michailidis, J Hockman",
+        "title": "Affordances of vibrations in performances and composition",
+        "publication": "15th Sound and Music Computing Conference (SMC2018)",
+        "year": "2018",
+        "url": "https://www.open-access.bcu.ac.uk/6181/1/affordances-vibrational-excitation.pdf",
+        "doi": "https://doi.org/10.5281/ZENODO.1422618",
+        "product": "x-OSC"
+    },
+    {
         "authors": "N Abhayasinghe, I Murray",
         "title": "The application of \u201cOff-the-shelf\u201d components for building IMUs for navigation research",
         "publication": "2014 International Conference on \u2026",
