@@ -15,7 +15,7 @@
         "year": "2019",
         "url": "https://www.academia.edu/download/82044149/lasg_whitepapers_2019_197.pdf",
         "doi": "NA",
-        "product": "x-OSC"
+        "product": "NA"
     },
     {
         "authors": "M Maglov",
@@ -68,7 +68,7 @@
         "publication": "2023 Symposium on \u2026",
         "year": "2023",
         "url": "https://ieeexplore.ieee.org/abstract/document/10390088/",
-        "doi": "https://doi.org/10.1109/SIoT60039.2023.10390088",
+        "doi": "NA",
         "product": "NA"
     },
     {
@@ -86,7 +86,7 @@
         "publication": "Proceedings of the 25th International ACM \u2026",
         "year": "2023",
         "url": "https://dl.acm.org/doi/abs/10.1145/3597638.3615654",
-        "doi": "https://doi.org/10.1145/3597638.3615654",
+        "doi": "NA",
         "product": "NA"
     },
     {
@@ -95,17 +95,17 @@
         "publication": "\u2026 Conference on Intelligent \u2026",
         "year": "2022",
         "url": "https://ieeexplore.ieee.org/abstract/document/10210947/",
-        "doi": "https://doi.org/10.1109/ICITBS55627.2022.00073",
+        "doi": "NA",
         "product": "NA"
     },
     {
         "authors": "RB Boudreau, S Carciumaru, Y Chen, DDE Noah",
         "title": "McGill Robotics\u2013Development of the Autonomous Underwater Vehicle: Asimov",
-        "publication": "McGill Robotics",
-        "year": "2014",
+        "publication": "NA",
+        "year": "NA",
         "url": "https://robonation.org/app/uploads/sites/4/2019/10/McGill_RS14_Paper.pdf",
         "doi": "NA",
-        "product": "X-IMU"
+        "product": "NA"
     },
     {
         "authors": "A Depari, P Ferrari, A Flammini",
@@ -113,7 +113,7 @@
         "publication": "2019 IEEE Sensors \u2026",
         "year": "2019",
         "url": "https://ieeexplore.ieee.org/abstract/document/8706106/",
-        "doi": "https://doi.org/10.1109/SAS.2019.8706106",
+        "doi": "NA",
         "product": "NA"
     },
     {
@@ -122,7 +122,7 @@
         "publication": "Iberian Robotics \u2026",
         "year": "2022",
         "url": "https://link.springer.com/chapter/10.1007/978-3-031-21062-4_49",
-        "doi": "https://doi.org/10.1007/978-3-031-21062-4_49",
+        "doi": "NA",
         "product": "NA"
     },
     {
@@ -131,7 +131,7 @@
         "publication": "Virtual Reality",
         "year": "2022",
         "url": "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003340003-11/enactive-steering-simulations-scientific-computing-brandon-mechtley-julian-stein-todd-ingalls-sha-xin-wei-christopher-roberts",
-        "doi": "https://doi.org/10.1201/9781003340003",
+        "doi": "NA",
         "product": "NA"
     },
     {
@@ -149,7 +149,7 @@
         "publication": "\u2026 and Machine Theory",
         "year": "2021",
         "url": "https://www.sciencedirect.com/science/article/pii/S0094114X21001324",
-        "doi": "https://doi.org/10.1016/j.mechmachtheory.2021.104374",
+        "doi": "NA",
         "product": "NA"
     },
     {
@@ -374,15 +374,6 @@
         "publication": "SPE Drilling & \u2026",
         "year": "2020",
         "url": "https://onepetro.org/DC/article-abstract/35/01/125/450716",
-        "doi": "NA",
-        "product": "NA"
-    },
-    {
-        "authors": "A Sarni",
-        "title": "Measurement of Dynamic Pressure Gradients on the Surface of Bottom Resting Short Cylinders",
-        "publication": "NA",
-        "year": "2020",
-        "url": "https://search.proquest.com/openview/b5956fb7c3036f265958f0495a28892b/1?pq-origsite=gscholar&cbl=51922&diss=y",
         "doi": "NA",
         "product": "NA"
     },
