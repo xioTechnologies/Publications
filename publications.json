@@ -1,5 +1,365 @@
 [
     {
+        "authors": "MN Muhammad",
+        "title": "Indoor Pedestrian Positioning and Tracking using INS and RF Sensor Fusion",
+        "publication": "The university of Auckland",
+        "year": "2018",
+        "url": "https://researchspace.auckland.ac.nz/handle/2292/44102",
+        "doi": "https://hdl.handle.net/2292/44102",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "F Haider, FA Salim, DBW Postma",
+        "title": "A super-bagging method for volleyball action recognition using wearable sensors",
+        "publication": "Multimodal \u2026",
+        "year": "2020",
+        "url": "https://www.mdpi.com/2414-4088/4/2/33",
+        "doi": "https://doi.org/10.3390/mti4020033",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "H Sneck, C Gudinas",
+        "title": "Submersible Dynamic Structure Sensor",
+        "publication": "UNHMP-​OP-​SG ; ​20-​04",
+        "year": "2020",
+        "url": "https://repository.library.noaa.gov/view/noaa/38538",
+        "doi": "https://repository.library.noaa.gov/view/noaa/38538/noaa_38538_DS1.pdf",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "I de Thysebaert, R Ronsse, A Jankovski",
+        "title": "Augmented feedback for lower-limb amputees-Gait perturbation by vibrotactile stimulation of the patellar tendon: proof of concept",
+        "publication": "Ecole polytechnique de Louvain",
+        "year": "2018",
+        "url": "https://dial.uclouvain.be/downloader/downloader.php?pid=thesis%3A17200&datastream=PDF_01&cover=cover-mem",
+        "doi": "https://hdl.handle.net/2078.2/6760",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "J Forsberg",
+        "title": "A mobile application for improving running performance using interactive sonification",
+        "publication": "KTH, School of Computer Science and Communication ",
+        "year": "2014",
+        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:785840",
+        "doi": "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-159577",
+        "product": "x-OSC"
+    },
+    {
+        "authors": "R Stagni",
+        "title": "Proceedings of the XII International Symposium on 3D Analysis of Human Movement Book of Abstracts",
+        "publication": "Book of Abstracts",
+        "year": "2012",
+        "url": "https://amsacta.unibo.it/id/eprint/3360/1/3DAHM2012_Proceedings_on_line.pdf",
+        "doi": "https://doi.org/10.6092/unibo%2Famsacta%2F3360",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "T Rietveld, RJK Vegter, RMA van der Slikke",
+        "title": "Six IMU-based components describe wheelchair mobility performance during wheelchair tennis matches",
+        "publication": "\u2026 in wheelchair tennis",
+        "year": "2022",
+        "url": "https://research.rug.nl/files/252507832/Complete_thesis.pdf#page=150",
+        "doi": "https://doi.org/10.33612/diss.252507812",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "BB Said",
+        "title": "Device for Analysis of Movement Using Inertial Sensors",
+        "publication": "MASARYK UNIVERSITY FACULTY OF INFORMATICS",
+        "year": "2018",
+        "url": "https://is.muni.cz/th/hx416/DP_BedrichSaid_Archive.pdf",
+        "doi": "https://is.muni.cz/th/hx416/DP_BedrichSaid.pdf",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "N DUBBINI",
+        "title": "Study and development of algorithms for home monitoring of the Parkinsonian patient based on wearable sensors",
+        "publication": "NA",
+        "year": "2020",
+        "url": "https://tesi.univpm.it/bitstream/20.500.12075/7989/1/TESI_pdfa.pdf",
+        "doi": "https://hdl.handle.net/20.500.12075/7989",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "F Jamil, DH Kim",
+        "title": "Improving accuracy of the alpha\u2013beta filter algorithm using an ANN-based learning mechanism in indoor navigation system",
+        "publication": "Sensors",
+        "year": "2019",
+        "url": "https://www.mdpi.com/1424-8220/19/18/3946",
+        "doi": "https://doi.org/10.3390/s19183946",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "J Foottit",
+        "title": "Touchable: Adapting a Haptic Feedback Glove for Use in Rehabilitation Contexts",
+        "publication": "NA",
+        "year": "2016",
+        "url": "https://openrepository.aut.ac.nz/handle/10292/10057",
+        "doi": "https://hdl.handle.net/10292/10057",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "M Eisersi\u00f6, A Bystr\u00f6m, J Yngvesson",
+        "title": "Rein tension signals elicit different behavioral responses when comparing bitted bridle and halter",
+        "publication": "Frontiers in Veterinary \u2026",
+        "year": "2021",
+        "url": "https://www.frontiersin.org/articles/10.3389/fvets.2021.652015/full",
+        "doi": "https://doi.org/10.3389/fvets.2021.652015",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "R van der Slikke",
+        "title": "Out of the lab, onto the court: Wheelchair Mobility Performance quantified",
+        "publication": "Delft University of Technology",
+        "year": "2018",
+        "url": "https://research.tudelft.nl/en/publications/out-of-the-lab-onto-the-court-wheelchair-mobility-performance-qua",
+        "doi": "https://doi.org/10.4233/uuid:d8cffad9-efaf-400b-8e36-5d8eb8becc86",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "Q Wang, L Ye, H Luo, A Men, F Zhao, C Ou",
+        "title": "Pedestrian walking distance estimation based on smartphone mode recognition",
+        "publication": "Remote Sensing",
+        "year": "2019",
+        "url": "https://www.mdpi.com/2072-4292/11/9/1140",
+        "doi": "https://doi.org/10.3390/rs11091140",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "I DE THYSEBAERT, R RONSSE, A JANKOVSKI",
+        "title": "Augmented feedback for lower-limb amputees",
+        "publication": "Ecole polytechnique de Louvain (EPL)",
+        "year": "2018",
+        "url": "https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A17200/datastream/PDF_01/view",
+        "doi": "NA",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "M Merad, ET De Montalivet, A Touillet",
+        "title": "Can we achieve intuitive prosthetic elbow control based on healthy upper limb motor strategies?",
+        "publication": "Frontiers in \u2026",
+        "year": "2018",
+        "url": "https://www.frontiersin.org/articles/10.3389/fnbot.2018.00001/full",
+        "doi": "https://doi.org/10.3389/fnbot.2018.00001",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "S Schulz, F Lier, I L\u00fctkebohle",
+        "title": "Robot reality-A motion capture system that makes robots become human and vice versa",
+        "publication": "2013 IEEE International \u2026",
+        "year": "2013",
+        "url": "https://ieeexplore.ieee.org/abstract/document/6630862/",
+        "doi": "https://doi.org/10.1109/ICRA.2013.6630862",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "L Andersson L\u00f3pez",
+        "title": "SENSITIV\u2013Mapping Design of Movement Data to Sound Parameters when Creating a Sonic Interaction Design Tool for Interactive Dance",
+        "publication": "Computer and Information Sciences",
+        "year": "2020",
+        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1466272",
+        "doi": "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-280699",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "TH Nown",
+        "title": "Creating a real-time movement sonification system for hemiparetic upper limb rehabilitation for survivors of stroke",
+        "publication": "Department of Biomedical Engineering, University of Strathclyde, Glasgow",
+        "year": "2024",
+        "url": "https://stax.strath.ac.uk/concern/theses/df65v826q",
+        "doi": "https://doi.org/10.48730/jgqh-wq14",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "C Osterloh, B Meyer, A Amory, T Pionteck",
+        "title": "Monsun ii\u2013towards autonomous underwater swarms for environmental monitoring",
+        "publication": "\u2026 on Intelligent Robots \u2026",
+        "year": "2012",
+        "url": "https://www.iti.uni-luebeck.de/fileadmin/Rob/MONSUN/Paper/OMA12.pdf",
+        "doi": "https://www.iti.uni-luebeck.de/fileadmin/Rob/MONSUN/Paper/OMA12.pdf",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "D Bisig, P Palacio, M Romero",
+        "title": "PIANO & DANCER (Paper) Topics: Dance and Music",
+        "publication": "19h Generative Art Conference GA2016",
+        "year": "NA",
+        "url": "https://www.generativeart.com/GA2016WEB/Bisig_PianoDancer.pdf",
+        "doi": "https://www.generativeart.com/GA2016WEB/Bisig_PianoDancer.pdf",
+        "product": "x-OSC"
+    },
+    {
+        "authors": "S Roox, K Hennen",
+        "title": "Locomotor coordination in children with Developmental Coordination Disorder and typically developing children while walking and running to the beat of a \u2026",
+        "publication": "UHASSELT - Knowledge in Action",
+        "year": "2021",
+        "url": "https://documentserver.uhasselt.be/bitstream/1942/34983/1/544920c1-e004-4d9f-a632-6a180ec6ba44.pdf",
+        "doi": "https://documentserver.uhasselt.be/bitstream/1942/34983/1/544920c1-e004-4d9f-a632-6a180ec6ba44.pdf",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "M Goetschalckx, P Feys, E Rameckers",
+        "title": "Auditory\u2013motor synchronization in developmental coordination disorder: Effects on interlimb coordination during walking and running",
+        "publication": "Annals of the New \u2026",
+        "year": "2024",
+        "url": "https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.15228",
+        "doi": "https://doi.org/10.1111/nyas.15228",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "J Mar\u00edn, JJ Mar\u00edn",
+        "title": "Forces: A motion capture-based ergonomic method for the today's world",
+        "publication": "Sensors",
+        "year": "2021",
+        "url": "https://www.mdpi.com/1424-8220/21/15/5139",
+        "doi": "https://doi.org/10.3390/s21155139",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "P Pierleoni, S Raggiunto, A Belli, M Paniccia",
+        "title": "A single wearable sensor for gait analysis in Parkinson's disease: A preliminary study",
+        "publication": "Applied Sciences",
+        "year": "2022",
+        "url": "https://www.mdpi.com/2076-3417/12/11/5486",
+        "doi": "https://doi.org/10.3390/app12115486",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "MP van Dijk, M Kok, MAM Berger",
+        "title": "Machine learning to improve orientation estimation in sports situations challenging for inertial sensor use",
+        "publication": "Frontiers in Sports and \u2026",
+        "year": "2021",
+        "url": "https://www.frontiersin.org/articles/10.3389/fspor.2021.670263/full",
+        "doi": "https://doi.org/10.3389/fspor.2021.670263",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "M Serrano",
+        "title": "Ubiquitous interaction: mobile, multi-display and freeform interfaces",
+        "publication": "Informatics Human Computer Interaction",
+        "year": "2018",
+        "url": "https://hal.science/tel-01959335/",
+        "doi": "https://hal.science/tel-01959335v1",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "MA Huang, EA Clancy",
+        "title": "Walker Activity Tracking Using Machine Learning",
+        "publication": "NA",
+        "year": "NA",
+        "url": "https://users.wpi.edu/~ted/full_text_confer/2022huang_clancy_hpec.pdf",
+        "doi": "https://users.wpi.edu/~ted/full_text_confer/2022huang_clancy_hpec.pdf",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "X He, A Farajidavar",
+        "title": "A novel motion monitoring system for activities of daily living",
+        "publication": "EAI Endorsed Transactions on Pervasive Health and \u2026",
+        "year": "2017",
+        "url": "https://eudl.eu/doi/10.4108/eai.21-3-2017.152392",
+        "doi": "http://dx.doi.org/10.4108/eai.21-3-2017.152392",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "N M\u00e5rten",
+        "title": "Assessment of a Wearable Motion Analysis System: Predicting ground reaction forces and joint angles with IMU: s and pressure insole sensors",
+        "publication": "NA",
+        "year": "2023",
+        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1796606",
+        "doi": "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-336533",
+        "product": "x-IMU3"
+    },
+    {
+        "authors": "FA Salim, DBW Postma, F Haider, S Luz",
+        "title": "Enhancing volleyball training: empowering athletes and coaches through advanced sensing and analysis",
+        "publication": "Frontiers in Sports and \u2026",
+        "year": "2024",
+        "url": "https://www.frontiersin.org/articles/10.3389/fspor.2024.1326807/full",
+        "doi": "https://doi.org/10.3389/fspor.2024.1326807",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "L Poukens, L Bellinkx",
+        "title": "The effects of a walking to music intervention on synchronization and gait in patients with cerebellar disorders",
+        "publication": "NA",
+        "year": "2021",
+        "url": "https://documentserver.uhasselt.be/handle/1942/34988",
+        "doi": "http://hdl.handle.net/1942/34988",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "AD Williams, AH Vette",
+        "title": "A vibrotactile feedback device for seated balance assessment and training",
+        "publication": "JoVE (Journal of Visualized Experiments)",
+        "year": "2019",
+        "url": "https://www.jove.com/t/58611/a-vibrotactile-feedback-device-for-seated-balance-assessment",
+        "doi": "https://dx.doi.org/10.3791/58611",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "Z Salem, AP Weiss, FP Wenzl",
+        "title": "Sit-to-stand and stand-to-sit activities recognition by visible light sensing",
+        "publication": "2021 Joint Conference-11th \u2026",
+        "year": "2022",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9932227/",
+        "doi": "https://ieeexplore.ieee.org/abstract/document/9932227/",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "F H\u00f6flinger, J M\u00fcller, R Zhang",
+        "title": "A wireless micro inertial measurement unit (IMU)",
+        "publication": "IEEE Transactions \u2026",
+        "year": "2013",
+        "url": "https://ieeexplore.ieee.org/abstract/document/6544690/",
+        "doi": "https://doi.org/10.1109/TIM.2013.2255977",
+        "product": "X-IMU"
+    },
+    {
+        "authors": "G Coviello, G Avitabile",
+        "title": "Multiple synchronized inertial measurement unit sensor boards platform for activity monitoring",
+        "publication": "IEEE Sensors Journal",
+        "year": "2020",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9044713/",
+        "doi": "https://doi.org/10.1109/JSEN.2020.2982744",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "S Zahiri-Rad, AP Weiss, A Kr\u00f6pfl",
+        "title": "Visible light based positioning by continuous frequency-modulated LEDs in combination with fingerprinting",
+        "publication": "2022 45th International \u2026",
+        "year": "2022",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9812836/",
+        "doi": "https://doi.org/10.1109/ISSE54558.2022.9812836",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "Q Men, C Teng, L Drukker, AT Papageorghiou",
+        "title": "Multimodal-GuideNet: Gaze-probe bidirectional guidance in obstetric ultrasound scanning",
+        "publication": "\u2026 Conference on Medical \u2026",
+        "year": "2022",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-16449-1_10",
+        "doi": "https://doi.org/10.48550/arXiv.2207.12833",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "M Merad, E de Montalivet, M Legrand",
+        "title": "Improving the control of prostheses in arm amputees with approaches based on motor coordination",
+        "publication": "Computer Methods in \u2026",
+        "year": "2019",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/10255842.2020.1714976",
+        "doi": "https://doi.org/10.1080/10255842.2020.1714976",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "Y Weizman, L B\u00e4umker, FK Fuss",
+        "title": "Application of Sensor Technology in Wheelchair Sports for Real-Time Data Collection during Training and Competition and for Assessment of Performance \u2026",
+        "publication": "Sensors (Basel \u2026",
+        "year": "2024",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11478697/",
+        "doi": "https://doi.org/10.3390/s24196343",
+        "product": "NGIMU"
+    },
+    {
         "authors": "N Harrison, G Parton",
         "title": "New technology and approaches for audio education as a response to COVID-19",
         "publication": "The Australasian Sound Archive",

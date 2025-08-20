@@ -1,5 +1,365 @@
 [
     {
+        "authors": "A Farrukh, R West",
+        "title": "smartflight: An environmentally-aware adaptive real-time flight management system",
+        "publication": "32nd Euromicro Conference on Real-Time \u2026",
+        "year": "2020",
+        "url": "https://drops.dagstuhl.de/opus/volltexte/2020/12387/",
+        "doi": "https://doi.org/10.4230/LIPIcs.ECRTS.2020.24",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "JPD de Matos Gomes",
+        "title": "Smartwatch-based drone navigation for inventory management assistance",
+        "publication": "NA",
+        "year": "2020",
+        "url": "https://repositorio-aberto.up.pt/handle/10216/132954",
+        "doi": "https://hdl.handle.net/10216/132954",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "D Weber, C G\u00fchmann, T Seel",
+        "title": "RIANN\u2014A robust neural network outperforms attitude estimation filters",
+        "publication": "Ai",
+        "year": "2021",
+        "url": "https://www.mdpi.com/2673-2688/2/3/28",
+        "doi": "https://doi.org/10.3390/ai2030028",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "J Lee, CH Bae, A Jang, S Yang",
+        "title": "Determining the most appropriate assistive walking device using the inertial measurement unit-based gait analysis system in disabled patients",
+        "publication": "Annals of rehabilitation \u2026",
+        "year": "2020",
+        "url": "https://synapse.koreamed.org/articles/1150835",
+        "doi": "https://doi.org/10.5535/arm.2020.44.1.48",
+        "product": "NA"
+    },
+    {
+        "authors": "C Papathanasis",
+        "title": "Hybrid sensor fusion with dual quaternion based EKF for pose estimation",
+        "publication": "NA",
+        "year": "NA",
+        "url": "https://campar.in.tum.de/files/busam/2017WS_MSc/MSc_Haris_final.pdf",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "T Alhersh, S Brahim Belhaouari",
+        "title": "Action recognition using local visual descriptors and inertial data",
+        "publication": "European Conference on \u2026",
+        "year": "2019",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-030-34255-5_9",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "CS Jao",
+        "title": "Foot-Mounted Pedestrian Inertial Navigation Systems for Self-Contained Tracking",
+        "publication": "NA",
+        "year": "2023",
+        "url": "https://search.proquest.com/openview/11b93e56cdb183ade0f9ac01d332c39e/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "P Sauer, B Lubiatowski, S Chorode\u0144ski",
+        "title": "RSQ Motion-a prototype of the motion analysis system in the joints",
+        "publication": "\u2026 Workshop on Robot \u2026",
+        "year": "2019",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8787371/",
+        "doi": "https://doi.org/10.1109/RoMoCo.2019.8787371",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "X Zhang",
+        "title": "Smart Sensor and Tracking System for Underground Mining",
+        "publication": "NA",
+        "year": "2016",
+        "url": "https://harvest.usask.ca/bitstream/handle/10388/7304/ZHANG-THESIS-2016.pdf?sequence=1",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "XZ Zheng, S Watanabe",
+        "title": "CordVIEW II: A New Fine-Diameter Cord-Like Vehicle System for Search and Inspection in Exploring Workspace, Mark II\u2013Basic Functional Segments, Integration, and \u2026",
+        "publication": "2018 IEEE International Conference \u2026",
+        "year": "2018",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8812325/",
+        "doi": "https://doi.org/10.1109/ICInfA.2018.8812325",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "A Chakraborty",
+        "title": "Detecting GA Aircraft Hazardous State Using a Low-Cost Attitude and Heading Reference System",
+        "publication": "NA",
+        "year": "2018",
+        "url": "https://search.proquest.com/openview/54f971d1a55655ed0d008db1ef1d19aa/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "B Schmeier, JP Kopetz, B Kordts",
+        "title": "Manipulating virtual objects in augmented reality using a new ball-shaped input device",
+        "publication": "12th Augmented Human \u2026",
+        "year": "2021",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3460881.3460935",
+        "doi": "https://doi.org/10.1145/3460881.3460935",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "T Forsberg, N Grip, N Sabourova",
+        "title": "Non-iterative calibration for accelerometers with three non-orthogonal axes, reliable measurement setups and simple supplementary equipment",
+        "publication": "Measurement Science and \u2026",
+        "year": "2013",
+        "url": "https://iopscience.iop.org/article/10.1088/0957-0233/24/3/035002/meta",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "TA Bracken, MD Naish",
+        "title": "Multimodal noncontact tracking of surgical instruments",
+        "publication": "2015 IEEE International Conference \u2026",
+        "year": "2015",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7139856/",
+        "doi": "https://doi.org/10.1109/ICRA.2015.7139856",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "D Weber, C G\u00fchmann, T Seel",
+        "title": "RIANN\u2014A Robust Neural Network Outperforms Attitude Estimation Filters. AI 2021, 2, 444\u2013463",
+        "publication": "Beitrag in Fachzeitschrift ",
+        "year": "2021",
+        "url": "https://depositonce.tu-berlin.de/bitstreams/a6e56731-fe68-4a8e-bfe4-0d88be2ff25e/download",
+        "doi": "https://doi.org/10.3390/ai2030028",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "P Bo\u0163ek, A Mudrikova",
+        "title": "Implementation of INS for control of robots with a DC motor",
+        "publication": "Industry 4.0",
+        "year": "2019",
+        "url": "https://stumejournals.com/journals/i4/2019/3/116",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "D Comotti, M Galizzi, A Vitali",
+        "title": "neMEMSi: One step forward in wireless attitude and heading reference systems",
+        "publication": "2014 International Symposium \u2026",
+        "year": "2014",
+        "url": "https://ieeexplore.ieee.org/abstract/document/6782521/",
+        "doi": "https://doi.org/10.1109/ISISS.2014.6782521",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "YS Cho, SH Jang, JS Cho, MJ Kim",
+        "title": "Evaluation of validity and reliability of inertial measurement unit-based gait analysis systems",
+        "publication": "Annals of \u2026",
+        "year": "2018",
+        "url": "https://synapse.koreamed.org/articles/1150407",
+        "doi": "https://doi.org/10.5535/arm.2018.42.6.872",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "A Lavrinec, O Orozovic, K Williams, MG Jones",
+        "title": "Observations of dense phase pneumatic conveying using an inertial measurement unit",
+        "publication": "Powder Technology",
+        "year": "2019",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0032591018309434",
+        "doi": "https://doi.org/10.1016/j.powtec.2018.11.039",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "YG Kim, S Kim, JH Park, S Yang, M Jang, YJ Yun",
+        "title": "Explainable Deep-Learning-Based Gait Analysis of Hip\u2013Knee Cyclogram for the Prediction of Adolescent Idiopathic Scoliosis Progression",
+        "publication": "Sensors",
+        "year": "2024",
+        "url": "https://www.mdpi.com/1424-8220/24/14/4504",
+        "doi": "https://doi.org/10.3390/s24144504",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "S Lee, H Lee, J Lee, H Ryu, IY Kim, J Kim",
+        "title": "Clip-On IMU system for assessing age-related changes in hand functions",
+        "publication": "Sensors",
+        "year": "2020",
+        "url": "https://www.mdpi.com/1424-8220/20/21/6313",
+        "doi": "https://doi.org/10.3390/s20216313",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "K Brzostowski",
+        "title": "Toward the unaided estimation of human walking speed based on sparse modeling",
+        "publication": "IEEE Transactions on Instrumentation and \u2026",
+        "year": "2018",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8294265/",
+        "doi": "https://doi.org/10.1109/TIM.2018.2800198",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "AF de S\u00e1 Resende",
+        "title": "Ergowear: Development of a Smart Garment for Postural Monitoring and Biofeedback",
+        "publication": "NA",
+        "year": "2022",
+        "url": "https://search.proquest.com/openview/d73888eda584f9e57b2d44c58c6901eb/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+        "doi": "https://hdl.handle.net/1822/82523",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "T Wada, M Mizutani, J Lee, D Rowlands, D James",
+        "title": "3D visualisation of wearable inertial/magnetic sensors",
+        "publication": "Proceedings",
+        "year": "2018",
+        "url": "https://www.mdpi.com/2504-3900/2/6/292",
+        "doi": "https://doi.org/10.3390/proceedings2060292",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "D Cristaudo",
+        "title": "Experimental study of burial and mobility of unexploded ordnance in the swash zone",
+        "publication": "NA",
+        "year": "2020",
+        "url": "https://udspace.udel.edu/handle/19716/31454",
+        "doi": "https://udspace.udel.edu/handle/19716/31454",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "THS Li, PH Kuo, CH Cheng, CC Hung",
+        "title": "Sequential sensor fusion-based real-time LSTM gait pattern controller for biped robot",
+        "publication": "IEEE Sensors \u2026",
+        "year": "2020",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9169709/",
+        "doi": "https://doi.org/10.1109/JSEN.2020.3016968",
+        "product": "NA"
+    },
+    {
+        "authors": "MB Del Rosario, NH Lovell",
+        "title": "Quaternion-based complementary filter for attitude determination of a smartphone",
+        "publication": "IEEE Sensors Journal",
+        "year": "2016",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7480371/",
+        "doi": "https://doi.org/10.1109/JSEN.2016.2574124",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "J Cappelle, L Monteyne, J Van Mulders, S Goossens",
+        "title": "Low-complexity design and validation of wireless motion sensor node to support physiotherapy",
+        "publication": "Sensors",
+        "year": "2020",
+        "url": "https://www.mdpi.com/1424-8220/20/21/6362",
+        "doi": "https://doi.org/10.3390/s20216362",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "Y Zhuang, Y Wang, X Yang, T Ma",
+        "title": "Visible light positioning system using a smartphone's built-in ambient light sensor and inertial measurement unit",
+        "publication": "Optics Letters",
+        "year": "2024",
+        "url": "https://opg.optica.org/abstract.cfm?uri=ol-49-8-2105",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "JCK Chow, JD Hol, H Luinge",
+        "title": "Tightly-coupled joint user self-calibration of accelerometers, gyroscopes, and magnetometers",
+        "publication": "Drones",
+        "year": "2018",
+        "url": "https://www.mdpi.com/2504-446X/2/1/6",
+        "doi": "https://doi.org/10.3390/drones2010006",
+        "product": "NA"
+    },
+    {
+        "authors": "S Gilooly",
+        "title": "Measurement of dynamic pressure gradients on the surface of short cylinders",
+        "publication": "NA",
+        "year": "2018",
+        "url": "https://search.proquest.com/openview/c44cb45606b2ba6ed4fcb20f64dfd31d/1?pq-origsite=gscholar&cbl=18750",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "K Kim, CW Park",
+        "title": "Paddling Posture Correction System Using IMU Sensors",
+        "publication": "Journal of Sensor Science and Technology",
+        "year": "2018",
+        "url": "https://koreascience.kr/article/JAKO201812055795655.page",
+        "doi": "https://doi.org/10.5369/JSST.2018.27.2.86",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "J Mendoza-Choquemamani",
+        "title": "Comparison and evaluation between a low-cost IMU and INS VN-300 in AHRS mode",
+        "publication": "\u2026 on Aerospace and \u2026",
+        "year": "2021",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9666920/",
+        "doi": "https://doi.org/10.1109/INCAS53599.2021.9666920",
+        "product": "Algoritnm"
+    },
+    {
+        "authors": "Z Xiao, H Wen, A Markham",
+        "title": "Robust pedestrian dead reckoning (R-PDR) for arbitrary mobile device placement",
+        "publication": "\u2026 Conference on Indoor \u2026",
+        "year": "2014",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7275483/",
+        "doi": "https://doi.org/10.1109/IPIN.2014.7275483",
+        "product": "NA"
+    },
+    {
+        "authors": "D Bilic, T Uzunovic, E Golubovic",
+        "title": "Internet of things-based system for physical rehabilitation monitoring",
+        "publication": "2017 XXVI \u2026",
+        "year": "2017",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8171641/",
+        "doi": "https://doi.org/10.1109/ICAT.2017.8171641",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "S Abbas, N Ali, M Mudasir",
+        "title": "Patient Assessment Using Step-Up-And-Over Test",
+        "publication": "Asian Journal of Multidisciplinary Studies",
+        "year": "2018",
+        "url": "https://core.ac.uk/download/pdf/229670500.pdf",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "A Ibrahim, D Doy, C Loureiro, E Pignat",
+        "title": "Inexpensive 1024-channel 3D telesonography system on FPGA",
+        "publication": "\u2026 Circuits and Systems \u2026",
+        "year": "2017",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8325108/",
+        "doi": "https://doi.org/10.1109/BIOCAS.2017.8325108",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "N Bai, Y Tian, Y Liu, Z Yuan, Z Xiao",
+        "title": "A high-precision and low-cost IMU-based indoor pedestrian positioning technique",
+        "publication": "IEEE Sensors \u2026",
+        "year": "2020",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9007659/",
+        "doi": "https://doi.org/10.1109/JSEN.2020.2976102",
+        "product": "x-IMU User Manual 5.2"
+    },
+    {
+        "authors": "P Pierleoni, A Belli, L Palma, M Mercuri",
+        "title": "Validation of a gait analysis algorithm for wearable sensors",
+        "publication": "\u2026 on Sensing and \u2026",
+        "year": "2019",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9043647/",
+        "doi": "https://doi.org/10.1109/ISSI47111.2019.9043647",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "O Postolache, JMD Pereira, M Ribeiro",
+        "title": "Assistive smart sensing devices for gait rehabilitation monitoring",
+        "publication": "ICTs for Improving Patients \u2026",
+        "year": "2015",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-662-48645-0_20",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
         "authors": "CEI Westling, JH Guppy, J Bush, J Barth, C Herberz",
         "title": "Harry J. Witchel*, C\u00e4cilia Oberndorfer2, Robert Needham3, Aoife Healy 3",
         "publication": "NA",
