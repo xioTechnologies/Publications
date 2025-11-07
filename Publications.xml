@@ -405,7 +405,7 @@
 		<title>Diseño e implementación de un guante electrónico para favorecer la productividad y seguridad en talleres industriales en la Institución Educativa INEM de …</title>
 		<publication>Universidad de cordoba</publication>
 		<year>2022</year>
-		<doi>NA</doi>
+		<doi>https://doi.org/10.25044/25392190.1037</doi>
 		<product>x-OSC</product>
 	</paper>
 	<paper>
@@ -2321,14 +2321,6 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
-		<author>J Foottit</author>
-		<title>Touchable: Adapting a Haptic Feedback Glove for Use in Rehabilitation Contexts</title>
-		<publication>Auckland University of Technology</publication>
-		<year>2016</year>
-		<doi>https://hdl.handle.net/10292/10057</doi>
-		<product>Algorithm</product>
-	</paper>
-	<paper>
 		<author>D Bisig, P Palacio, M Romero</author>
 		<title>PIANO &amp; DANCER (Paper) Topics: Dance and Music</title>
 		<publication>19h Generative Art Conference GA2016</publication>
@@ -2571,7 +2563,7 @@
 	<paper>
 		<author>박성우</author>
 		<title>다중 센서 기반의 위치 및 자세 추정 방법을 이용한 레이저 치료 로봇 시스템 개발에 관한 연구</title>
-		<publication>NA</publication>
+		<publication>Seoul National University Graduate School</publication>
 		<year>2015</year>
 		<doi>https://s-space.snu.ac.kr/handle/10371/122452</doi>
 		<product>x-IMU</product>
