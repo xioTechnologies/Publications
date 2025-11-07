@@ -1,5 +1,347 @@
 [
     {
+        "authors": "P Marantos, Y Koveos",
+        "title": "UAV state estimation using adaptive complementary filters",
+        "publication": "IEEE Transactions on \u2026",
+        "year": "2015",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7297816/",
+        "doi": "https://doi.org/10.1109/TCST.2015.2480012",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "S Muzaffar, IM Elfadel",
+        "title": "Self-synchronized, continuous body weight monitoring using flexible force sensors and ground reaction force signal processing",
+        "publication": "IEEE Sensors Journal",
+        "year": "2020",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9091546/",
+        "doi": "https://doi.org/10.1109/JSEN.2020.2994129",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "FR Jenssen",
+        "title": "Dynamic Analysis of ROV Operation",
+        "publication": "NA",
+        "year": "2015",
+        "url": "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2350695",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "Z Salimi, MW Ferguson-Pell",
+        "title": "A Simple 2D Wheelchair Positioning: Correcting IMU's Data Using One Encoder and Applying Kalman Filtering",
+        "publication": "ASME \u2026",
+        "year": "2013",
+        "url": "https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2013/V015T16A007/260032",
+        "doi": "https://doi.org/10.1115/IMECE2013-65210",
+        "product": "orientation filter"
+    },
+    {
+        "authors": "H Razavi, H Salarieh, A Alasty",
+        "title": "Optimization-based gravity-assisted calibration and axis alignment of 9-degrees of freedom inertial measurement unit without external equipment",
+        "publication": "Proceedings of the \u2026",
+        "year": "2020",
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/0954410019861778",
+        "doi": "https://doi.org/10.1177/0954410019861778",
+        "product": "NA"
+    },
+    {
+        "authors": "B Fan, Q Li, T Liu",
+        "title": "Improving the accuracy of wearable sensor orientation using a two-step complementary filter with state machine-based adaptive strategy",
+        "publication": "Measurement Science and Technology",
+        "year": "2018",
+        "url": "https://iopscience.iop.org/article/10.1088/1361-6501/aae125/meta",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "D Weber, C G\u00fchmann, T Seel",
+        "title": "Neural networks versus conventional filters for inertial-sensor-based attitude estimation",
+        "publication": "2020 IEEE 23rd International \u2026",
+        "year": "2020",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9190634/",
+        "doi": "https://doi.org/10.23919/FUSION45008.2020.9190634",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "T Forsberg, N Grip, N Sabourova",
+        "title": "Non-iterative calibration for accelerometers with three non-orthogonal axes and cross-axis interference",
+        "publication": "NA",
+        "year": "2012",
+        "url": "https://www.academia.edu/download/92377025/FULLTEXT01.pdf",
+        "doi": "https://doi.org/10.1088/0957-0233/24/3/035002",
+        "product": "NA"
+    },
+    {
+        "authors": "M Muraccini, AL Mangia, M Lannocca, A Cappello",
+        "title": "Magnetometer calibration and field mapping through thin plate splines",
+        "publication": "Sensors",
+        "year": "2019",
+        "url": "https://www.mdpi.com/1424-8220/19/2/280",
+        "doi": "https://doi.org/10.3390/s19020280",
+        "product": "NA"
+    },
+    {
+        "authors": "R Nordlander",
+        "title": "Pose Estimation in an Outdoors Augmented Reality Mobile Application",
+        "publication": "NA",
+        "year": "2018",
+        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1242988",
+        "doi": "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Altu%3Adiva-70653",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "Y Wang",
+        "title": "A Reconfigurable and wearable wireless sensor system and its case study in the training of hammer throwers",
+        "publication": "NA",
+        "year": "2020",
+        "url": "https://search.proquest.com/openview/48f545345f93d10703819d9130b0c08c/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "doi": "NA",
+        "product": "orientation filter"
+    },
+    {
+        "authors": "L Xie, J Tian, G Ding, Q Zhao",
+        "title": "Holding-manner-free heading change estimation for smartphone-based indoor positioning",
+        "publication": "2017 IEEE 86th Vehicular \u2026",
+        "year": "2017",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8288251/",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "C Coopmans, M Podhradsky",
+        "title": "Fractional-order complementary filters for small unmanned aerial system attitude estimation",
+        "publication": "2018 11th International \u2026",
+        "year": "2018",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8330140/",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "A Mohamed, P Sujeet, V Ullas",
+        "title": "Gauntlet-X1: Smart Glove System for American Sign Language translation using Hand Activity Recognition",
+        "publication": "NA",
+        "year": "2020",
+        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1510273",
+        "doi": "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-428743",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "J Storms, D Tilbury",
+        "title": "Dynamic weight-shifting for improved maneuverability and rollover prevention in high-speed mobile manipulators",
+        "publication": "Journal of Dynamic Systems \u2026",
+        "year": "2016",
+        "url": "https://asmedigitalcollection.asme.org/dynamicsystems/article-abstract/138/10/101007/384305",
+        "doi": "https://doi.org/10.1115/1.4033841",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "B des Bouvrie",
+        "title": "Improving rgbd indoor mapping with imu data",
+        "publication": "Rgbd Camera",
+        "year": "2011",
+        "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f5fdb0189378a67c16a8536055bea86140fe940a",
+        "doi": "NA",
+        "product": "orientation filter "
+    },
+    {
+        "authors": "A Ichkov, I Gehring, P M\u00e4h\u00f6nen, L Simi\u0107",
+        "title": "Millimeter-wave beam misalignment effects of small-and large-scale user mobility based on urban measurements",
+        "publication": "\u2026 of the 5th ACM Workshop on \u2026",
+        "year": "2021",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3477081.3481672",
+        "doi": "https://doi.org/10.1145/3477081.3481672",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "R Dominguez, M Post, A Fabisch",
+        "title": "Common data fusion framework: an open-source common data fusion framework for space robotics",
+        "publication": "International \u2026",
+        "year": "2020",
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/1729881420911767",
+        "doi": "https://doi.org/10.1177/1729881420911767",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "HS Lee, H Ryu, SU Lee, J Cho, S You, JH Park",
+        "title": "Analysis of gait characteristics using hip-knee cyclograms in patients with hemiplegic stroke",
+        "publication": "Sensors",
+        "year": "2021",
+        "url": "https://www.mdpi.com/1424-8220/21/22/7685",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "SPC SPC",
+        "title": "SPC BENCHMARK 2C\u2122(SPC-2C) SPC BENCHMARK 2C/ENERGY\u2122 EXTENSION (SPC-2C/E) OFFICIAL SPECIFICATION",
+        "publication": "NA",
+        "year": "2012",
+        "url": "http://18.217.248.56/sites/default/files/files/specifications/SPC-2C_SPC-2CE_v1.4.pdf",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "NF Ribeiro, CP Santos",
+        "title": "Inertial measurement units: A brief state of the art on gait analysis",
+        "publication": "2017 IEEE 5th Portuguese Meeting on \u2026",
+        "year": "2017",
+        "url": "https://ieeexplore.ieee.org/abstract/document/7889458/",
+        "doi": "https://doi.org/10.1109/ENBENG.2017.7889458",
+        "product": "NA"
+    },
+    {
+        "authors": "M Maglov",
+        "title": "\u201cHuman vs. Machine\u201d Divide is a False Dichotomy: Interview with Dr. Kelly Snook",
+        "publication": "INSAM Journal of Contemporary Music, Art and \u2026",
+        "year": "2020",
+        "url": "https://www.ceeol.com/search/article-detail?id=901856",
+        "doi": "NA",
+        "product": "MI.MU"
+    },
+    {
+        "authors": "\u039a \u039a\u03b1\u0390\u03c3\u03b7\u03c2",
+        "title": "\u0391\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03b1\u03c3\u03ba\u03ae\u03c3\u03b5\u03c9\u03bd \u03c0\u03c1\u03bf\u03c0\u03cc\u03bd\u03b7\u03c3\u03b7\u03c2 \u03b4\u03cd\u03bd\u03b1\u03bc\u03b7\u03c2 \u03bc\u03b5 \u03b5\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03b7 \u03bc\u03c0\u03ac\u03c1\u03b1 \u03bc\u03b5 \u03c4\u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03b4\u03c5\u03bd\u03b1\u03bc\u03bf\u03b4\u03b1\u03c0\u03ad\u03b4\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03b5\u03c0\u03b9\u03c4\u03b1\u03c7\u03c5\u03bd\u03c3\u03b9\u03cc\u03bc\u03b5\u03c4\u03c1\u03bf\u03c5",
+        "publication": "NA",
+        "year": "2022",
+        "url": "https://ir.lib.uth.gr/xmlui/bitstream/handle/11615/60061/25663.pdf?sequence=1",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "\u4e2d\u6d32\u4fca\u4fe1\uff0c \u6c60\u53f8\uff0c \u5c71\u5185\u5eb7\u664b\uff0c \u6589\u85e4\u5b5d\u6d69",
+        "title": "\u30a6\u30a7\u30a2\u30e9\u30d6\u30eb\u7aef\u672b\u3092\u7528\u3044\u305f\u98f2\u98df\u5e97\u7528\u30ad\u30c3\u30c1\u30f3\u30c7\u30a3\u30b9\u30d7\u30ec\u30a4\u64cd\u4f5c\u306b\u95a2\u3059\u308b\u57fa\u790e\u691c\u8a0e",
+        "publication": "\u30d2\u30e5\u30fc\u30de\u30f3\u30a4\u30f3\u30bf\u30d5\u30a7\u30fc\u30b9\u5b66\u4f1a \u2026",
+        "year": "2018",
+        "url": "https://www.jstage.jst.go.jp/article/his/20/1/20_115/_article/-char/ja/",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "\u6751\u7530\u548c\u9686\uff0c \u5e02\u8c37\u6d69\u4e00\u90ce\uff0c \u524d\u7530\u6b63\u767b",
+        "title": "\u6163\u6027\u30bb\u30f3\u30b5\u3092\u7528\u3044\u305f\u30c9\u30ed\u30c3\u30d7\u30b8\u30e3\u30f3\u30d7\u306e\u6e2c\u5b9a\u6cd5",
+        "publication": "\u4f53\u80b2\u6e2c\u5b9a\u8a55\u4fa1\u7814\u7a76",
+        "year": "2023",
+        "url": "https://www.jstage.jst.go.jp/article/jjtehpe/advpub/0/advpub_jjtehpe.HPM202308/_article/-char/ja/",
+        "doi": "https://doi.org/10.14859/jjtehpe.HPM202308",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "\u6751\u7530\u548c\u9686\uff0c \u524d\u7530\u6b63\u767b",
+        "title": "\u6163\u6027\u30bb\u30f3\u30b5\u3092\u7528\u3044\u305f\u30c9\u30ed\u30c3\u30d7\u30b8\u30e3\u30f3\u30d7\u52d5\u4f5c\u306e\u6e2c\u5b9a\u6cd5",
+        "publication": "\u2026 \u30b9\u30dd\u30fc\u30c4\u30fb\u30a2\u30f3\u30c9\u30fb\u30d2\u30e5\u30fc\u30de\u30f3\u30fb\u30c0\u30a4\u30ca\u30df\u30af\u30b9\u8b1b\u6f14\u8ad6\u6587 \u2026",
+        "year": "2021",
+        "url": "https://www.jstage.jst.go.jp/article/jsmeshd/2021/0/2021_C-10-1/_article/-char/ja/",
+        "doi": "https://doi.org/10.1299/jsmeshd.2021.C-10-1",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "CC Gaviria Castro, JJ Mosquera Perea",
+        "title": "Computaci\u00f3n en la nube de c\u00f3digo abierto",
+        "publication": "NA",
+        "year": "2016",
+        "url": "http://repositorio.itm.edu.co/handle/20.500.12622/4481",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "\u0414\u0415 \u0427\u0438\u043a\u0440\u0438\u043d, \u0421\u0412 \u0413\u043e\u043b\u043e\u0443\u0441\u043e\u0432",
+        "title": "\u0418\u0421\u041f\u041e\u041b\u042c\u0417\u041e\u0412\u0410\u041d\u0418\u0415 \u041e\u041f\u0422\u0418\u041c\u0418\u0417\u0410\u0426\u0418\u041e\u041d\u041d\u041e\u0413\u041e \u041f\u041e\u0414\u0425\u041e\u0414\u0410 \u0414\u041b\u042f \u0410\u0412\u0422\u041e\u041c\u0410\u0422\u0418\u0417\u0418\u0420\u041e\u0412\u0410\u041d\u041d\u041e\u0419 \u041a\u0410\u041b\u0418\u0411\u0420\u041e\u0412\u041a\u0418 \u041c\u0418\u041a\u0420\u041e\u042d\u041b\u0415\u041a\u0422\u0420\u041e\u041c\u0415\u0425\u0410\u041d\u0418\u0427\u0415\u0421\u041a\u041e\u0419 \u2026",
+        "publication": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u042e\u0436\u043d\u043e\u0433\u043e \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u2026",
+        "year": "2021",
+        "url": "https://cyberleninka.ru/article/n/ispolzovanie-optimizatsionnogo-podhoda-dlya-avtomatizirovannoy-kalibrovki-mikroelektromehanicheskoy-inertsialnoy-navigatsionnoy",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "P Sauer, P Szulczy\u0144ski, B Lubiatowski",
+        "title": "Zastosowanie filtru Kalmana do diagnostyki biomechaniki cz\u0142owieka",
+        "publication": "Medical Robotics \u2026",
+        "year": "2018",
+        "url": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-fbe6dcd9-798c-47a2-a1a4-dd47b119cefc",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "JD Quinche Guerra",
+        "title": "Dotaci\u00f3n de la capacidad de localizaci\u00f3n y mapeo simult\u00e1neo indoor a un robot m\u00f3vil terrestre usando sensores IMU y LIDAR sobre el Framework ROS",
+        "publication": "NA",
+        "year": "2018",
+        "url": "https://repositorio.escuelaing.edu.co/handle/001/943",
+        "doi": "https://repositorio.escuelaing.edu.co/handle/001/943",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "M Syrov\u00fd",
+        "title": "Objektivizace rozsahu z\u00e1kladn\u00edho pohybu d\u00edl\u010d\u00edch \u010d\u00e1st\u00ed t\u011bla p\u0159i rehabilitaci",
+        "publication": "NA",
+        "year": "NA",
+        "url": "https://cyber.felk.cvut.cz/novakpe/BPDP/Aktualni/SyrovyMarek/Objektivizace%20rozsahu%20z%C3%A1kladn%C3%ADho%20pohybu%20d%C3%ADl%C4%8D%C3%ADch%20%C4%8D%C3%A1st%C3%AD%20t%C4%9Bla%20p%C5%99i%20rehabilitaci.pdf",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "H Charte Garc\u00eda",
+        "title": "Monitorizaci\u00f3n de la actividad diaria mediante el uso de una unidad de medici\u00f3n inercial",
+        "publication": "NA",
+        "year": "2014",
+        "url": "https://upcommons.upc.edu/handle/2099.1/22001",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "K Franti\u0161ek",
+        "title": "N\u00e1vrh konstrukce a \u0159\u00edzen\u00ed dvoukolov\u00e9ho autonomn\u00edho robota",
+        "publication": "NA",
+        "year": "2019",
+        "url": "https://dspace.cvut.cz/handle/10467/83655",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "ACB Miranda",
+        "title": "Modela\u00e7\u00e3o, Simula\u00e7\u00e3o e Controlo de um Veleiro com Vela Asa",
+        "publication": "NA",
+        "year": "2021",
+        "url": "https://search.proquest.com/openview/b84e516e78c9735057a7f3abfad9a346/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "JI Dominguez Medrano",
+        "title": "Guante inteligente que reconoce gestos de manos para reproducci\u00f3n de audio",
+        "publication": "NA",
+        "year": "NA",
+        "url": "https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/15512",
+        "doi": "NA",
+        "product": "Algorithm"
+    },
+    {
+        "authors": "K Wikholm, E Solberg",
+        "title": "Tr\u00e5dl\u00f6s plattform f\u00f6r datainsamling p\u00e5 conveyorband",
+        "publication": "NA",
+        "year": "2018",
+        "url": "https://odr.chalmers.se/bitstream/20.500.12380/255463/1/255463.pdf",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "J Garc\u00eda Li\u00f1eira",
+        "title": "Evaluaci\u00f3n y valoraci\u00f3n del equilibrio postural en escolares entre 6 y 12 a\u00f1os mediante el uso de dispositivos acelerom\u00e9tricos",
+        "publication": "NA",
+        "year": "2022",
+        "url": "https://investigo.biblioteca.uvigo.es/xmlui/handle/11093/3049",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "GJ Rodr\u00edguez Jord\u00e1n",
+        "title": "Modelo para el an\u00e1lisis y clasificaci\u00f3n de indicadores biomec\u00e1nicos mediante se\u00f1ales multiaxiales",
+        "publication": "NA",
+        "year": "NA",
+        "url": "https://tesis.ipn.mx/bitstream/handle/123456789/22410/T1833.pdf?sequence=1&isAllowed=y",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
         "authors": "A Farrukh, R West",
         "title": "smartflight: An environmentally-aware adaptive real-time flight management system",
         "publication": "32nd Euromicro Conference on Real-Time \u2026",
