@@ -1,6 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <publications xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<paper>
+		<author>TH Nown</author>
+		<title>Creating a real-time movement sonification system for hemiparetic upper limb rehabilitation for survivors of stroke</title>
+		<publication>Department of Biomedical Engineering, University of Strathclyde, Glasgow</publication>
+		<year>2024</year>
+		<doi>https://doi.org/10.48730/jgqh-wq14</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>M Goetschalckx, P Feys, E Rameckers</author>
+		<title>Auditory–motor synchronization in developmental coordination disorder: Effects on interlimb coordination during walking and running</title>
+		<publication>Annals of the New …</publication>
+		<year>2024</year>
+		<doi>https://doi.org/10.1111/nyas.15228</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>FA Salim, DBW Postma, F Haider, S Luz</author>
+		<title>Enhancing volleyball training: empowering athletes and coaches through advanced sensing and analysis</title>
+		<publication>Frontiers in Sports and …</publication>
+		<year>2024</year>
+		<doi>https://doi.org/10.3389/fspor.2024.1326807</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>Y Weizman, L Bäumker, FK Fuss</author>
+		<title>Application of Sensor Technology in Wheelchair Sports for Real-Time Data Collection during Training and Competition and for Assessment of Performance …</title>
+		<publication>Sensors (Basel …</publication>
+		<year>2024</year>
+		<doi>https://doi.org/10.3390/s24196343</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
 		<author>Alfin Junaedy, ORCID Icon, Hiroyuki Masuta ORCID Icon, Yotaro Fuse ORCID Icon, Kei Sawai, Tatsuo Motoyoshi, and Noboru Takagi</author>
 		<title>Online Topological Mapping on a Quadcopter with Fast Growing Neural Gas</title>
 		<publication>Journal of Advanced Computational Intelligence and Intelligent Informatics</publication>
@@ -151,6 +183,30 @@
 		<year>2024</year>
 		<doi>https://doi.org/10.1016/j.jbiomech.2024.111927</doi>
 		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>LI Heringa</author>
+		<title>Using Inertial Sensors to Estimate the Normal Force on the Castor Wheels during Handrim Wheelchair Propulsion In-Field</title>
+		<publication> Delft University of Technology</publication>
+		<year>2023</year>
+		<doi>https://resolver.tudelft.nl/uuid:2b690cae-759d-4921-a98b-cb1563741114</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>A SANTONI</author>
+		<title>Analisi e implementazione di procedure di calibrazione di sensori inerziali per applicazioni nell'ambito dell'analisi del movimento umano.</title>
+		<publication>UniversitÃ  Politecnica delle Marche</publication>
+		<year>2023</year>
+		<doi>https://hdl.handle.net/20.500.12075/17905</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>N Mårten</author>
+		<title>Assessment of a Wearable Motion Analysis System: Predicting ground reaction forces and joint angles with IMU: s and pressure insole sensors</title>
+		<publication>School of Engineering Sciences in Chemistry, Biotechnology and Health (CBH)</publication>
+		<year>2023</year>
+		<doi>https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-336533</doi>
+		<product>x-IMU3</product>
 	</paper>
 	<paper>
 		<author>F Michaud, R Pazos, U Lugrís, J Cuadrado</author>
@@ -311,6 +367,102 @@
 		<year>2023</year>
 		<doi>https://doi.org/10.1093/milmed/usad082</doi>
 		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>PL Várkonyi, M Kocsis, T Ther</author>
+		<title>Rigid impacts of three-dimensional rocking structures</title>
+		<publication>Nonlinear Dynamics</publication>
+		<year>2022</year>
+		<doi>https://ui.adsabs.harvard.edu/link_gateway/2022NonDy.107.1839V/doi:10.1007/s11071-021-06934-x</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>A Egenvall, H Engström, A Byström</author>
+		<title>Pilot-study of ridden walk on the circle–effects of progressive collection and lateral exercises</title>
+		<publication>Comparative Exercise Physiology</publication>
+		<year>2022</year>
+		<doi>https://doi.org/10.3920/CEP210019</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>P Stefaniak, W Koperska, A Skoczylas, M Stachowiak</author>
+		<title>Application of spectral entropy in haul truck joint damage detection</title>
+		<publication>Sensors</publication>
+		<year>2022</year>
+		<doi>https://doi.org/10.3390/s22197358</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>W Heikkinen</author>
+		<title>Jalan ja lantion resultanttikulmanopeuden sekä resultanttikiihtyvyyden muutokset ei-väsyttävän juoksun aikana</title>
+		<publication>University of JyvÃ¤skylÃ¤, Faculty of Sport and Health Sciences</publication>
+		<year>2022</year>
+		<doi>https://urn.fi/URN:NBN:fi:jyu-202206023049</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>AD Peralta de Aguas</author>
+		<title>Diseño e implementación de un guante electrónico para favorecer la productividad y seguridad en talleres industriales en la Institución Educativa INEM de …</title>
+		<publication>Universidad de cordoba</publication>
+		<year>2022</year>
+		<doi>NA</doi>
+		<product>x-OSC</product>
+	</paper>
+	<paper>
+		<author>V Huttunen</author>
+		<title>Aivojen subkortikaalisten rakenteiden morfometrian yhteys motoriseen suorituskykyyn CP-vammaisilla lapsilla</title>
+		<publication>University of JyvÃ¤skylÃ¤</publication>
+		<year>2022</year>
+		<doi>https://urn.fi/URN:NBN:fi:jyu-202206293695</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>T Rietveld, RJK Vegter, RMA van der Slikke</author>
+		<title>Six IMU-based components describe wheelchair mobility performance during wheelchair tennis matches</title>
+		<publication>… in wheelchair tennis</publication>
+		<year>2022</year>
+		<doi>https://doi.org/10.33612/diss.252507812</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>P Pierleoni, S Raggiunto, A Belli, M Paniccia</author>
+		<title>A single wearable sensor for gait analysis in Parkinson's disease: A preliminary study</title>
+		<publication>Applied Sciences</publication>
+		<year>2022</year>
+		<doi>https://doi.org/10.3390/app12115486</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>MA Huang, EA Clancy</author>
+		<title>Walker Activity Tracking Using Machine Learning</title>
+		<publication>26th Annual IEEE High Performance Extreme Computing Virtual Conference</publication>
+		<year>2022</year>
+		<doi>https://users.wpi.edu/~ted/full_text_confer/2022huang_clancy_hpec.pdf</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>Z Salem, AP Weiss, FP Wenzl</author>
+		<title>Sit-to-stand and stand-to-sit activities recognition by visible light sensing</title>
+		<publication>2021 Joint Conference-11th …</publication>
+		<year>2022</year>
+		<doi>https://ieeexplore.ieee.org/abstract/document/9932227/</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>S Zahiri-Rad, AP Weiss, A Kröpfl</author>
+		<title>Visible light based positioning by continuous frequency-modulated LEDs in combination with fingerprinting</title>
+		<publication>2022 45th International …</publication>
+		<year>2022</year>
+		<doi>https://doi.org/10.1109/ISSE54558.2022.9812836</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>Q Men, C Teng, L Drukker, AT Papageorghiou</author>
+		<title>Multimodal-GuideNet: Gaze-probe bidirectional guidance in obstetric ultrasound scanning</title>
+		<publication>… Conference on Medical …</publication>
+		<year>2022</year>
+		<doi>https://doi.org/10.48550/arXiv.2207.12833</doi>
+		<product>NGIMU</product>
 	</paper>
 	<paper>
 		<author>N Harrison, G Parton</author>
@@ -502,6 +654,118 @@
 		<publication>Nat Med</publication>
 		<year>2022</year>
 		<doi>https://doi.org/10.1038/s41591-021-01663-5</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>MH Rahmani, R Berkvens, M Weyn</author>
+		<title>Chest-worn inertial sensors: A survey of applications and methods</title>
+		<publication>Sensors</publication>
+		<year>2021</year>
+		<doi>https://doi.org/10.3390/s21082875</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>J Roufs, A Vos</author>
+		<title>Faculteit Revalidatiewetenschappen</title>
+		<publication>University of Hasselt</publication>
+		<year>2021</year>
+		<doi>https://documentserver.uhasselt.be/bitstream/1942/38289/1/dfce53e2-fbae-4e61-9021-206e530611e7.pdf</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>M Connysson, M Rhodin, A Bergh</author>
+		<title>Effects of horse housing on musculoskeletal system post-exercise recovery</title>
+		<publication>Comparative Exercise …</publication>
+		<year>2021</year>
+		<doi>https://doi.org/10.3920/CEP200088</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>P Valadão, H Piitulainen, EA Haapala</author>
+		<title>Exercise intervention protocol in children and young adults with cerebral palsy: the effects of strength, flexibility and gait training on physical performance …</title>
+		<publication>BMC Sports Science …</publication>
+		<year>2021</year>
+		<doi>https://doi.org/10.1186/s13102-021-00242-y</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>OM Alaoui</author>
+		<title>Developing a Human-Machine Control Interface for the Detection of Motion Intentions in a Self-Balanced Lower-Limb Exoskeleton</title>
+		<publication> Institut des SystÃ¨mes Intelligents et de Robotique</publication>
+		<year>2021</year>
+		<doi>https://www.theses.fr/2021SORUS534</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>A Stevens, H Malmberg</author>
+		<title>Rörelseanalysprogram för IMU-data</title>
+		<publication>KTH Royal Institute of Technology</publication>
+		<year>2021</year>
+		<doi>https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-298042</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>有水賢吾</author>
+		<title>測域センサおよび RGBD カメラを用いた森林内自己位置推定</title>
+		<publication>森林利用学会誌</publication>
+		<year>2021</year>
+		<doi>https://doi.org/10.18945/jjfes.36.63</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>F Pinti</author>
+		<title>Sviluppo e test di sistemi, algoritmi e metodi per la validazione di smart object in applicazioni illuminotecniche e ambient assisted living</title>
+		<publication>UniversitÃ  Politecnica delle Marche</publication>
+		<year>2021</year>
+		<doi>https://hdl.handle.net/11566/287691</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>J Marín Boné</author>
+		<title>Diseño en tres niveles en el ámbito de la salud. Captura de movimiento para análisis de la marcha en rehabilitación.</title>
+		<publication>Tesis De La Universidad</publication>
+		<year>2021</year>
+		<doi>https://zaguan.unizar.es/record/106313/files/TESIS-2021-229.pdf</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>M Eisersiö, A Byström, J Yngvesson</author>
+		<title>Rein tension signals elicit different behavioral responses when comparing bitted bridle and halter</title>
+		<publication>Frontiers in Veterinary …</publication>
+		<year>2021</year>
+		<doi>https://doi.org/10.3389/fvets.2021.652015</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>S Roox, K Hennen</author>
+		<title>Locomotor coordination in children with Developmental Coordination Disorder and typically developing children while walking and running to the beat of a …</title>
+		<publication>UHASSELT - Knowledge in Action</publication>
+		<year>2021</year>
+		<doi>https://documentserver.uhasselt.be/bitstream/1942/34983/1/544920c1-e004-4d9f-a632-6a180ec6ba44.pdf</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>J Marín, JJ Marín</author>
+		<title>Forces: A motion capture-based ergonomic method for the today's world</title>
+		<publication>Sensors</publication>
+		<year>2021</year>
+		<doi>https://doi.org/10.3390/s21155139</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>MP van Dijk, M Kok, MAM Berger</author>
+		<title>Machine learning to improve orientation estimation in sports situations challenging for inertial sensor use</title>
+		<publication>Frontiers in Sports and …</publication>
+		<year>2021</year>
+		<doi>https://doi.org/10.3389/fspor.2021.670263</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>L Poukens, L Bellinkx</author>
+		<title>The effects of a walking to music intervention on synchronization and gait in patients with cerebellar disorders</title>
+		<publication>UHasselt</publication>
+		<year>2021</year>
+		<doi>http://hdl.handle.net/1942/34988</doi>
 		<product>NGIMU</product>
 	</paper>
 	<paper>
@@ -719,6 +983,62 @@
 		<year>2021</year>
 		<doi>https://doi.org/10.3390/diagnostics11010008</doi>
 		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>SA Mirazimzadeh, V McArthur</author>
+		<title>Automatic Page-Turner for Pianists with Wearable Motion Detector</title>
+		<publication>… 2020, Copenhagen, Denmark, July 19–24 …</publication>
+		<year>2020</year>
+		<doi>http://dx.doi.org/10.1007/978-3-030-60117-1_15</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>FA Salim, F Haider, D Postma</author>
+		<title>Towards automatic modeling of volleyball players' behavior for analysis, feedback, and hybrid training</title>
+		<publication>Journal for the …</publication>
+		<year>2020</year>
+		<doi>https://doi.org/10.1123/jmpb.2020-0012</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>F Haider, FA Salim, DBW Postma</author>
+		<title>A super-bagging method for volleyball action recognition using wearable sensors</title>
+		<publication>Multimodal …</publication>
+		<year>2020</year>
+		<doi>https://doi.org/10.3390/mti4020033</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>H Sneck, C Gudinas</author>
+		<title>Submersible Dynamic Structure Sensor</title>
+		<publication>UNHMP-â€‹OP-â€‹SG ; â€‹20-â€‹04</publication>
+		<year>2020</year>
+		<doi>https://repository.library.noaa.gov/view/noaa/38538/noaa_38538_DS1.pdf</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>N DUBBINI</author>
+		<title>Study and development of algorithms for home monitoring of the Parkinsonian patient based on wearable sensors</title>
+		<publication>UniversitÃ  Politecnica delle Marche</publication>
+		<year>2020</year>
+		<doi>https://hdl.handle.net/20.500.12075/7989</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>L Andersson López</author>
+		<title>SENSITIV–Mapping Design of Movement Data to Sound Parameters when Creating a Sonic Interaction Design Tool for Interactive Dance</title>
+		<publication>Computer and Information Sciences</publication>
+		<year>2020</year>
+		<doi>https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-280699</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>G Coviello, G Avitabile</author>
+		<title>Multiple synchronized inertial measurement unit sensor boards platform for activity monitoring</title>
+		<publication>IEEE Sensors Journal</publication>
+		<year>2020</year>
+		<doi>https://doi.org/10.1109/JSEN.2020.2982744</doi>
+		<product>NGIMU</product>
 	</paper>
 	<paper>
 		<author>A Trujillo-León, R Ady, D Reversat</author>
@@ -1033,6 +1353,78 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>E Yılmaz</author>
+		<title>Modeling and nonlinear adaptive control of an aerial manipulation system</title>
+		<publication>Graduate School of Engineering and Natural Sciences</publication>
+		<year>2019</year>
+		<doi>https://research.sabanciuniv.edu/id/eprint/39256</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>F Salim, F Haider, SBY Tasdemir, V Naghashi</author>
+		<title>A searching and automatic video tagging tool for events of interest during volleyball training sessions</title>
+		<publication>2019 International …</publication>
+		<year>2019</year>
+		<doi>https://doi.org/10.1145/3340555.3358660</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>L Goff-Mignardot, CG Marie</author>
+		<title>Neuroprosthetic Technologies to Evaluate and Train Leg Motor Control in Neurologically Impaired Individuals</title>
+		<publication>EPFL</publication>
+		<year>2019</year>
+		<doi>https://doi.org/10.5075/epfl-thesis-9339</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>B Mechtley, T Ingalls, J Stein, C Rawls</author>
+		<title>SC: A Modular Software Suite for Composing Continuously-Evolving Responsive Environments</title>
+		<publication>… Systems Group White …</publication>
+		<year>2019</year>
+		<doi>https://papers.cumincad.org/cgi-bin/works/Show?lasg_whitepapers_2019_197</doi>
+		<product>x-OSC</product>
+	</paper>
+	<paper>
+		<author>平野砂峰旅， 落晃子</author>
+		<title>無線マイコン TWE-LITE を用いたセンサシステムの開発とそのコンテンツ制作</title>
+		<publication>研究報告デジタルコンテンツクリエーション …</publication>
+		<year>2019</year>
+		<doi>https://ipsj.ixsq.nii.ac.jp/records/197184</doi>
+		<product>x-OSC</product>
+	</paper>
+	<paper>
+		<author>F Jamil, DH Kim</author>
+		<title>Improving accuracy of the alpha–beta filter algorithm using an ANN-based learning mechanism in indoor navigation system</title>
+		<publication>Sensors</publication>
+		<year>2019</year>
+		<doi>https://doi.org/10.3390/s19183946</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>Q Wang, L Ye, H Luo, A Men, F Zhao, C Ou</author>
+		<title>Pedestrian walking distance estimation based on smartphone mode recognition</title>
+		<publication>Remote Sensing</publication>
+		<year>2019</year>
+		<doi>https://doi.org/10.3390/rs11091140</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>AD Williams, AH Vette</author>
+		<title>A vibrotactile feedback device for seated balance assessment and training</title>
+		<publication>JoVE (Journal of Visualized Experiments)</publication>
+		<year>2019</year>
+		<doi>https://dx.doi.org/10.3791/58611</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>M Merad, E de Montalivet, M Legrand</author>
+		<title>Improving the control of prostheses in arm amputees with approaches based on motor coordination</title>
+		<publication>Computer Methods in …</publication>
+		<year>2019</year>
+		<doi>https://doi.org/10.1080/10255842.2020.1714976</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
 		<author>B Di Donato, J Dooley, L Coccioli</author>
 		<title>HarpCI, empowering performers to control and transform harp sounds in live performance</title>
 		<publication>Contemporary Music Review</publication>
@@ -1278,6 +1670,78 @@
 		<publication>Sensors</publication>
 		<year>2019</year>
 		<doi>https://doi.org/10.3390/s19040840</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>JMJ Pouw, LAJL Mazairac, AA van der Zee</author>
+		<title>Exploring the idea of automating tower cranes</title>
+		<publication>Eindhoven University of Technology</publication>
+		<year>2018</year>
+		<doi>https://research.tue.nl/files/96728490/Pouw_0952219.pdf</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>D Deneire, PY Legros, P Fisette</author>
+		<title>" Identification de la cinématique de la colonne vertébrale sur la base des centrales inertielles IMU</title>
+		<publication>Ecole polytechnique de Louvain</publication>
+		<year>2018</year>
+		<doi>https://hdl.handle.net/2078.2/6256</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>MN Muhammad</author>
+		<title>Indoor Pedestrian Positioning and Tracking using INS and RF Sensor Fusion</title>
+		<publication>The university of Auckland</publication>
+		<year>2018</year>
+		<doi>https://hdl.handle.net/2292/44102</doi>
+		<product>x-BIMU</product>
+	</paper>
+	<paper>
+		<author>I de Thysebaert, R Ronsse, A Jankovski</author>
+		<title>Augmented feedback for lower-limb amputees-Gait perturbation by vibrotactile stimulation of the patellar tendon: proof of concept</title>
+		<publication>Ecole polytechnique de Louvain</publication>
+		<year>2018</year>
+		<doi>https://hdl.handle.net/2078.2/6760</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>BB Said</author>
+		<title>Device for Analysis of Movement Using Inertial Sensors</title>
+		<publication>MASARYK UNIVERSITY FACULTY OF INFORMATICS</publication>
+		<year>2018</year>
+		<doi>https://is.muni.cz/th/hx416/DP_BedrichSaid.pdf</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>R van der Slikke</author>
+		<title>Out of the lab, onto the court: Wheelchair Mobility Performance quantified</title>
+		<publication>Delft University of Technology</publication>
+		<year>2018</year>
+		<doi>https://doi.org/10.4233/uuid:d8cffad9-efaf-400b-8e36-5d8eb8becc86</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>I DE THYSEBAERT, R RONSSE, A JANKOVSKI</author>
+		<title>Augmented feedback for lower-limb amputees</title>
+		<publication>Ecole polytechnique de Louvain (EPL)</publication>
+		<year>2018</year>
+		<doi>https://hdl.handle.net/2078.2/16346</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>M Merad, ET De Montalivet, A Touillet</author>
+		<title>Can we achieve intuitive prosthetic elbow control based on healthy upper limb motor strategies?</title>
+		<publication>Frontiers in …</publication>
+		<year>2018</year>
+		<doi>https://doi.org/10.3389/fnbot.2018.00001</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>M Serrano</author>
+		<title>Ubiquitous interaction: mobile, multi-display and freeform interfaces</title>
+		<publication>Informatics Human Computer Interaction</publication>
+		<year>2018</year>
+		<doi>https://hal.science/tel-01959335v1</doi>
 		<product>x-IMU</product>
 	</paper>
 	<paper>
@@ -1585,6 +2049,22 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>S Valenti</author>
+		<title>Ricerca, sviluppo, implementazione e test di sistemi inerziali per applicazioni di AAL e di riabilitazione motoria</title>
+		<publication>Polytechnic University of Marche</publication>
+		<year>2017</year>
+		<doi>https://hdl.handle.net/11566/245420</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>X He, A Farajidavar</author>
+		<title>A novel motion monitoring system for activities of daily living</title>
+		<publication>EAI Endorsed Transactions on Pervasive Health and …</publication>
+		<year>2017</year>
+		<doi>http://dx.doi.org/10.4108/eai.21-3-2017.152392</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
 		<author>DM Rodríguez Martín, C Pérez López</author>
 		<title>A waist-worn inertial measurement unit for Parkinson's disease long-term monitoring</title>
 		<publication>Sensors</publication>
@@ -1809,6 +2289,54 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>T Kriechbaumer</author>
+		<title>Field-based measurement of hydrodynamics associated with engineered in-channel structures: the example of fish pass assessment</title>
+		<publication>CRANFIELD UNIVERSITY</publication>
+		<year>2016</year>
+		<doi>http://dspace.lib.cranfield.ac.uk/handle/1826/11315</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>T Kriechbaumer, K Blackburn, N Everard</author>
+		<title>Acoustic Doppler Current Profiler measurements near a weir with fish pass: Assessing solutions to compass errors, spatial data referencing and spatial flow …</title>
+		<publication>Hydrology …</publication>
+		<year>2016</year>
+		<doi>https://doi.org/10.2166/nh.2015.095</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>BN González González</author>
+		<title>Patrones de activación muscular e índice de co-contracción de extremidad inferior en el pedaleo en la especialidad de Ciclismo de Montaña Cross Country de alto …</title>
+		<publication>Universidad CatÃ³lica Silva HenrÃ­quez</publication>
+		<year>2016</year>
+		<doi>http://repositorio.ucsh.cl/xmlui/handle/ucsh/1287</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>梁橋</author>
+		<title>基于視覺和慣性測量之飛行攝影機自我定位</title>
+		<publication>National Taiwan University library</publication>
+		<year>2016</year>
+		<doi>10.6342/NTU201601311</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>J Foottit</author>
+		<title>Touchable: Adapting a Haptic Feedback Glove for Use in Rehabilitation Contexts</title>
+		<publication>Auckland University of Technology</publication>
+		<year>2016</year>
+		<doi>https://hdl.handle.net/10292/10057</doi>
+		<product>Algorithm</product>
+	</paper>
+	<paper>
+		<author>D Bisig, P Palacio, M Romero</author>
+		<title>PIANO &amp; DANCER (Paper) Topics: Dance and Music</title>
+		<publication>19h Generative Art Conference GA2016</publication>
+		<year>2016</year>
+		<doi>https://www.generativeart.com/GA2016WEB/Bisig_PianoDancer.pdf</doi>
+		<product>x-OSC</product>
+	</paper>
+	<paper>
 		<author>OC Ruiz, R Villar, R Weyler</author>
 		<title>Design of a bench to allocate accelerometers and gyroscopes on a sailplane</title>
 		<publication>Bachelor Thesis</publication>
@@ -2025,6 +2553,30 @@
 		<product>x-OSC</product>
 	</paper>
 	<paper>
+		<author>BS Søvegjarto</author>
+		<title>Development of a full-size low price Automatic Survey Vessel (ASV) for hydroacoustic work</title>
+		<publication>UNIVERSITY OFOSLO Department of Physics</publication>
+		<year>2015</year>
+		<doi>https://core.ac.uk/download/pdf/30904573.pdf</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>LT Gaathaug Olafsen</author>
+		<title>Utviklingen av en velferdsvennlig treningsmetode for sportshester: atferd, trykkalgometri og biomekaniske målinger</title>
+		<publication>Norwegian University of Life Sciences (NMBU)</publication>
+		<year>2015</year>
+		<doi>http://hdl.handle.net/11250/293279</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>박성우</author>
+		<title>다중 센서 기반의 위치 및 자세 추정 방법을 이용한 레이저 치료 로봇 시스템 개발에 관한 연구</title>
+		<publication>NA</publication>
+		<year>2015</year>
+		<doi>https://s-space.snu.ac.kr/handle/10371/122452</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
 		<author>Wang, Jian and Hu, Andong and Li, Xin and Wang, Yan</author>
 		<title>An improved PDR/magnetometer/floor map integration algorithm for ubiquitous positioning using the adaptive unscented Kalman filter</title>
 		<publication>ISPRS Int. J. Geo-Inf. 2015</publication>
@@ -2225,6 +2777,30 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>RB Boudreau, S Carciumaru, Y Chen, DDE Noah</author>
+		<title>McGill Robotics–Development of the Autonomous Underwater Vehicle: Asimov</title>
+		<publication>McGill Robotics</publication>
+		<year>2014</year>
+		<doi>https://robonation.org/app/uploads/sites/4/2019/10/McGill_RS14_Paper.pdf</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>T Becker</author>
+		<title>Identifizierung und Kartierung dynamischer Umgebungen für autonome Fahrzeuge</title>
+		<publication>Hamburg University of applied sciences</publication>
+		<year>2014</year>
+		<doi>http://hdl.handle.net/20.500.12738/6615</doi>
+		<product>x-BIMU</product>
+	</paper>
+	<paper>
+		<author>J Forsberg</author>
+		<title>A mobile application for improving running performance using interactive sonification</title>
+		<publication>KTH, School of Computer Science and Communication </publication>
+		<year>2014</year>
+		<doi>https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-159577</doi>
+		<product>x-OSC</product>
+	</paper>
+	<paper>
 		<author>JO Nilsson, AK Gupta, P Händel</author>
 		<title>Foot-mounted inertial navigation made easy</title>
 		<publication>… International Conference on …</publication>
@@ -2393,6 +2969,22 @@
 		<product>x-OSC</product>
 	</paper>
 	<paper>
+		<author>S Schulz, F Lier, I Lütkebohle</author>
+		<title>Robot reality-A motion capture system that makes robots become human and vice versa</title>
+		<publication>2013 IEEE International …</publication>
+		<year>2013</year>
+		<doi>https://doi.org/10.1109/ICRA.2013.6630862</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>F Höflinger, J Müller, R Zhang</author>
+		<title>A wireless micro inertial measurement unit (IMU)</title>
+		<publication>IEEE Transactions …</publication>
+		<year>2013</year>
+		<doi>https://doi.org/10.1109/TIM.2013.2255977</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
 		<author>R Chandrasiri, N Abhayasinghe</author>
 		<title>Bluetooth embedded inertial measurement unit for real-time data collection for gait analysis</title>
 		<publication>… Conference on Indoor …</publication>
@@ -2478,6 +3070,30 @@
 		<publication>Parallel and Distributed Processing Symposium Workshops &amp; PhD Forum (IPDPSW)</publication>
 		<year>2013</year>
 		<doi>https://doi.org/10.1109/IPDPSW.2013.215</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>C Preckler Clemente</author>
+		<title>Caracterización de una unidad de medida inercial para la obtención de entornos de simulación de un sistema de navegación inercial de bajo coste mediante …</title>
+		<publication>Universitat AutÃ²noma de Barcelona (UAB), Escola dâ€™Enginyeria</publication>
+		<year>2012</year>
+		<doi>https://ddd.uab.cat/record/106457</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>R Stagni</author>
+		<title>Proceedings of the XII International Symposium on 3D Analysis of Human Movement Book of Abstracts</title>
+		<publication>Book of Abstracts</publication>
+		<year>2012</year>
+		<doi>https://doi.org/10.6092/unibo%2Famsacta%2F3360</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>C Osterloh, B Meyer, A Amory, T Pionteck</author>
+		<title>Monsun ii–towards autonomous underwater swarms for environmental monitoring</title>
+		<publication>… on Intelligent Robots …</publication>
+		<year>2012</year>
+		<doi>https://www.iti.uni-luebeck.de/fileadmin/Rob/MONSUN/Paper/OMA12.pdf</doi>
 		<product>x-IMU</product>
 	</paper>
 	<paper>

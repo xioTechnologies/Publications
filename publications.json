@@ -290,7 +290,7 @@
     {
         "authors": "\ubc15\uc131\uc6b0",
         "title": "\ub2e4\uc911 \uc13c\uc11c \uae30\ubc18\uc758 \uc704\uce58 \ubc0f \uc790\uc138 \ucd94\uc815 \ubc29\ubc95\uc744 \uc774\uc6a9\ud55c \ub808\uc774\uc800 \uce58\ub8cc \ub85c\ubd07 \uc2dc\uc2a4\ud15c \uac1c\ubc1c\uc5d0 \uad00\ud55c \uc5f0\uad6c",
-        "publication": "NA",
+        "publication": "Seoul National University Graduate School",
         "year": "2015",
         "url": "https://s-space.snu.ac.kr/handle/10371/122452",
         "doi": "https://s-space.snu.ac.kr/handle/10371/122452",
@@ -302,7 +302,7 @@
         "publication": "Universidad de cordoba",
         "year": "2022",
         "url": "https://repositorio.unicordoba.edu.co/bitstreams/fdde879f-4ece-4046-a3ff-269d07886acd/download",
-        "doi": "NA",
+        "doi": "https://doi.org/10.25044/25392190.1037",
         "product": "x-OSC"
     },
     {
@@ -421,15 +421,6 @@
         "url": "https://www.mdpi.com/1424-8220/19/18/3946",
         "doi": "https://doi.org/10.3390/s19183946",
         "product": "NGIMU"
-    },
-    {
-        "authors": "J Foottit",
-        "title": "Touchable: Adapting a Haptic Feedback Glove for Use in Rehabilitation Contexts",
-        "publication": "Auckland University of Technology",
-        "year": "2016",
-        "url": "https://openrepository.aut.ac.nz/handle/10292/10057",
-        "doi": "https://hdl.handle.net/10292/10057",
-        "product": "Algorithm"
     },
     {
         "authors": "M Eisersi\u00f6, A Bystr\u00f6m, J Yngvesson",
