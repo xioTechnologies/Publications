@@ -1,7 +1,6 @@
 import json
 from dataclasses import asdict, dataclass
 from difflib import SequenceMatcher
-from typing import List
 
 
 @dataclass
@@ -18,11 +17,11 @@ class Publication:
         return SequenceMatcher(None, self.title.lower(), other.title.lower()).ratio() > 0.9
 
 
-def read_publications(file_name: str) -> List[Publication]:
+def read_publications(file_name: str) -> list[Publication]:
     with open(file_name, "r") as file:
         return [Publication(**publication) for publication in json.load(file)]
 
 
-def write_publications(file_name: str, publications: List[Publication]):
+def write_publications(file_name: str, publications: list[Publication]) -> None:
     with open(file_name, "w") as file:
         json.dump([asdict(publication) for publication in publications], file, indent=4)
