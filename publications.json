@@ -3526,5 +3526,14 @@
         "url": "http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A533588&dswid=-1803",
         "doi": "http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A533588&dswid=-1803",
         "product": "x-IMU"
+    },
+        {
+        "authors": "Alfin Junaedy, ORCID Icon, Hiroyuki Masuta ORCID Icon, Yotaro Fuse ORCID Icon, Kei Sawai, Ken’ichi Koyanagi, Ahmed Almassri ORCID Icon, and Fengyu Li",
+        "title": "Onboard Modular Control and Planning for Autonomous Indoor UAV Navigation on Resource-Constrained CPUs",
+        "publication": "Journal of Robotics and Mechatronics",
+        "year": "2025",
+        "url": "https://doi.org/10.20965/jrm.2025.p1519 ",
+        "doi": "https://doi.org/10.20965/jrm.2025.p1519 ",
+        "product": "NGIMU"
     }
 ]

@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <publications xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<paper>
+		<author>Alfin Junaedy, ORCID Icon, Hiroyuki Masuta ORCID Icon, Yotaro Fuse ORCID Icon, Kei Sawai, Kenâ€™ichi Koyanagi, Ahmed Almassri ORCID Icon, and Fengyu Li</author>
+		<title>Onboard Modular Control and Planning for Autonomous Indoor UAV Navigation on Resource-Constrained CPUs</title>
+		<publication>Journal of Robotics and Mechatronics</publication>
+		<year>2025</year>
+		<doi>https://doi.org/10.20965/jrm.2025.p1519 </doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
 		<author>TH Nown</author>
 		<title>Creating a real-time movement sonification system for hemiparetic upper limb rehabilitation for survivors of stroke</title>
 		<publication>Department of Biomedical Engineering, University of Strathclyde, Glasgow</publication>
