@@ -1087,5 +1087,14 @@
         "url": "https://ieeexplore.ieee.org/abstract/document/6781803/",
         "doi": "NA",
         "product": "NA"
+    },
+    {
+        "authors": "J Foottit",
+        "title": "Touchable: Adapting a Haptic Feedback Glove for Use in Rehabilitation Contexts",
+        "publication": "Auckland University of Technology",
+        "year": "2016",
+        "url": "https://openrepository.aut.ac.nz/handle/10292/10057",
+        "doi": "https://hdl.handle.net/10292/10057",
+        "product": "Algorithm"
     }
 ]
