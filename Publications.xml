@@ -1,14 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <publications xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<paper>
-		<author>Alfin Junaedy, ORCID Icon, Hiroyuki Masuta ORCID Icon, Yotaro Fuse ORCID Icon, Kei Sawai, Kenâ€™ichi Koyanagi, Ahmed Almassri ORCID Icon, and Fengyu Li</author>
-		<title>Onboard Modular Control and Planning for Autonomous Indoor UAV Navigation on Resource-Constrained CPUs</title>
-		<publication>Journal of Robotics and Mechatronics</publication>
-		<year>2025</year>
-		<doi>https://doi.org/10.20965/jrm.2025.p1519 </doi>
-		<product>NGIMU</product>
-	</paper>
-	<paper>
 		<author>TH Nown</author>
 		<title>Creating a real-time movement sonification system for hemiparetic upper limb rehabilitation for survivors of stroke</title>
 		<publication>Department of Biomedical Engineering, University of Strathclyde, Glasgow</publication>
@@ -193,6 +185,14 @@
 		<product>NGIMU</product>
 	</paper>
 	<paper>
+		<author>C Blackwell</author>
+		<title>Analyzing Walking with Ankle Foot Orthoses Using Shank-mounted Wearable Movement Sensors</title>
+		<publication>Proceedings of the 25th International ACM …</publication>
+		<year>2023</year>
+		<doi>https://doi.org/10.1145/3597638.3615654</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
 		<author>LI Heringa</author>
 		<title>Using Inertial Sensors to Estimate the Normal Force on the Castor Wheels during Handrim Wheelchair Propulsion In-Field</title>
 		<publication> Delft University of Technology</publication>
@@ -250,7 +250,7 @@
 	</paper>
 	<paper>
 		<author>Marie Eisersi</author>
-		<title>Straight from the horse’s mouth - What we can learn about rein tension by observing horse behaviour</title>
+		<title>Straight from the horse's mouth - What we can learn about rein tension by observing horse behaviour</title>
 		<publication>Doctoral Thesis</publication>
 		<year>2023</year>
 		<doi>https://pub.epsilon.slu.se/32152/1/eisersio-m-20231114.pdf</doi>
@@ -377,6 +377,14 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>J De Jaeger, R Ronsse, V Otlet</author>
+		<title>Influence of different environmental contexts on gait parameters in patients with Parkinson's disease</title>
+		<publication>Ã‰cole polytechnique de Louvain</publication>
+		<year>2022</year>
+		<doi>https://hdl.handle.net/2078.2/26527</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
 		<author>PL Várkonyi, M Kocsis, T Ther</author>
 		<title>Rigid impacts of three-dimensional rocking structures</title>
 		<publication>Nonlinear Dynamics</publication>
@@ -413,7 +421,7 @@
 		<title>Diseño e implementación de un guante electrónico para favorecer la productividad y seguridad en talleres industriales en la Institución Educativa INEM de …</title>
 		<publication>Universidad de cordoba</publication>
 		<year>2022</year>
-		<doi>https://doi.org/10.25044/25392190.1037</doi>
+		<doi>https://repositorio.unicordoba.edu.co/bitstreams/fdde879f-4ece-4046-a3ff-269d07886acd/download</doi>
 		<product>x-OSC</product>
 	</paper>
 	<paper>
@@ -662,6 +670,22 @@
 		<publication>Nat Med</publication>
 		<year>2022</year>
 		<doi>https://doi.org/10.1038/s41591-021-01663-5</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>F Darwaish</author>
+		<title>Investigating vibration levels in neonatal patient transport</title>
+		<publication>Carleton University</publication>
+		<year>2021</year>
+		<doi>https://doi.org/10.22215/etd/2020-14398</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>T Nurmi, J Jaatela, J Vallinoja, H Mäenpää</author>
+		<title>Stronger proprioceptive BOLD-responses in the somatosensory cortices reflect worse sensorimotor function in adolescents with and without cerebral palsy</title>
+		<publication>NeuroImage: Clinical</publication>
+		<year>2021</year>
+		<doi>https://doi.org/10.1016/j.nicl.2021.102795</doi>
 		<product>NGIMU</product>
 	</paper>
 	<paper>
@@ -991,6 +1015,46 @@
 		<year>2021</year>
 		<doi>https://doi.org/10.3390/diagnostics11010008</doi>
 		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>E Brooks</author>
+		<title>Physical Movement Demands of Training and Competition in Elite Netball</title>
+		<publication>Deakin University</publication>
+		<year>2020</year>
+		<doi>https://hdl.handle.net/10779/DRO/DU:22565386.v1</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>RM Daly, J Gianoudis, B De Ross, SL O'Connell</author>
+		<title>Effects of a multinutrient-fortified milk drink combined with exercise on functional performance, muscle strength, body composition, inflammation, and oxidative …</title>
+		<publication>The American journal of …</publication>
+		<year>2020</year>
+		<doi>https://doi.org/10.1093/ajcn/nqaa126</doi>
+		<product>x-BIMU</product>
+	</paper>
+	<paper>
+		<author>D De Coeyer, A Legrand, R Ronsse</author>
+		<title>Adaptive control of an active ankle prosthesis</title>
+		<publication>Ecole polytechnique de Louvain</publication>
+		<year>2020</year>
+		<doi>https://hdl.handle.net/2078.2/31942</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>JL García-Soidán, R Leirós-Rodríguez, V Romo-Pérez</author>
+		<title>Accelerometric Assessment of Postural Balance in Children: A Systematic Review. Diagnostics 2021, 11, 8</title>
+		<publication>Diagnostics </publication>
+		<year>2020</year>
+		<doi>https://doi.org/10.3390/diagnostics11010008</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>A Patra</author>
+		<title>Delving deep into fetal ultrasound video analysis</title>
+		<publication>University of Oxford</publication>
+		<year>2020</year>
+		<doi>https://ora.ox.ac.uk/objects/uuid:b3773c34-ba3c-4ee8-9ead-2a7c65c9ff5b/files/d8623hz08q</doi>
+		<product>NGIMU</product>
 	</paper>
 	<paper>
 		<author>SA Mirazimzadeh, V McArthur</author>
@@ -1361,6 +1425,14 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>S Chattunyakit</author>
+		<title>Self-recovery Strategy for Multi-legged Robot with Damaged Legs</title>
+		<publication>Hokkaido University</publication>
+		<year>2019</year>
+		<doi>https://hdl.handle.net/2115/74971</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
 		<author>E Yılmaz</author>
 		<title>Modeling and nonlinear adaptive control of an aerial manipulation system</title>
 		<publication>Graduate School of Engineering and Natural Sciences</publication>
@@ -1681,6 +1753,22 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>MT Engell</author>
+		<title>Postural strategies in skilled riders</title>
+		<publication>Swedish University of Agricultural Sciences </publication>
+		<year>2018</year>
+		<doi>https://res.slu.se/id/publ/104199</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
+		<author>Bc. BedÅ™ich Said</author>
+		<title>Device for Analysis of Movement Using Inertial Sensors</title>
+		<publication>Masaryk University Faculty of Informatics</publication>
+		<year>2018</year>
+		<doi>https://is.muni.cz/th/hx416/</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
 		<author>JMJ Pouw, LAJL Mazairac, AA van der Zee</author>
 		<title>Exploring the idea of automating tower cranes</title>
 		<publication>Eindhoven University of Technology</publication>
@@ -1710,14 +1798,6 @@
 		<publication>Ecole polytechnique de Louvain</publication>
 		<year>2018</year>
 		<doi>https://hdl.handle.net/2078.2/6760</doi>
-		<product>x-IMU</product>
-	</paper>
-	<paper>
-		<author>BB Said</author>
-		<title>Device for Analysis of Movement Using Inertial Sensors</title>
-		<publication>MASARYK UNIVERSITY FACULTY OF INFORMATICS</publication>
-		<year>2018</year>
-		<doi>https://is.muni.cz/th/hx416/DP_BedrichSaid.pdf</doi>
 		<product>x-IMU</product>
 	</paper>
 	<paper>
@@ -2057,6 +2137,14 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>SK Tullino, ED Swenson</author>
+		<title>Testing and evaluating deployment profiles of the canisterized satellite dispenser (CSD)</title>
+		<publication>55th AIAA Aerospace Sciences Meeting</publication>
+		<year>2017</year>
+		<doi>https://doi.org/10.2514/6.2017-0850</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
 		<author>S Valenti</author>
 		<title>Ricerca, sviluppo, implementazione e test di sistemi inerziali per applicazioni di AAL e di riabilitazione motoria</title>
 		<publication>Polytechnic University of Marche</publication>
@@ -2329,6 +2417,14 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>J Foottit</author>
+		<title>Touchable: Adapting a Haptic Feedback Glove for Use in Rehabilitation Contexts</title>
+		<publication>Auckland University of Technology</publication>
+		<year>2016</year>
+		<doi>https://hdl.handle.net/10292/10057</doi>
+		<product>Algorithm</product>
+	</paper>
+	<paper>
 		<author>D Bisig, P Palacio, M Romero</author>
 		<title>PIANO &amp; DANCER (Paper) Topics: Dance and Music</title>
 		<publication>19h Generative Art Conference GA2016</publication>
@@ -2571,7 +2667,7 @@
 	<paper>
 		<author>박성우</author>
 		<title>다중 센서 기반의 위치 및 자세 추정 방법을 이용한 레이저 치료 로봇 시스템 개발에 관한 연구</title>
-		<publication>Seoul National University Graduate School</publication>
+		<publication>Masters Thesis</publication>
 		<year>2015</year>
 		<doi>https://s-space.snu.ac.kr/handle/10371/122452</doi>
 		<product>x-IMU</product>
