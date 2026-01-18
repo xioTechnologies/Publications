@@ -1,5 +1,140 @@
 [
     {
+        "authors": "MT Engell",
+        "title": "Postural strategies in skilled riders",
+        "publication": "Swedish University of Agricultural Sciences ",
+        "year": "2018",
+        "url": "https://core.ac.uk/download/pdf/211564333.pdf",
+        "doi": "https://res.slu.se/id/publ/104199",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "Bc. Bedřich Said",
+        "title": "Device for Analysis of Movement Using Inertial Sensors",
+        "publication": "Masaryk University Faculty of Informatics",
+        "year": "2018",
+        "url": "https://is.muni.cz/th/hx416/?verze=2017;info=1",
+        "doi": "https://is.muni.cz/th/hx416/",
+        "product": "x-IMU"
+    },
+    {
+        "authors": "E Brooks",
+        "title": "Physical Movement Demands of Training and Competition in Elite Netball",
+        "publication": "Deakin University",
+        "year": "2020",
+        "url": "https://dro.deakin.edu.au/articles/thesis/Physical_Movement_Demands_of_Training_and_Competition_in_Elite_Netball/22565386/1/files/40042582.pdf",
+        "doi": "https://hdl.handle.net/10779/DRO/DU:22565386.v1",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "M Eisersi\u00f6",
+        "title": "Straight from the horse’s mouth : What we can learn about rein tension by observing horse behaviour",
+        "publication": "Acta Universitatis Agriculturae Sueciae",
+        "year": "2023",
+        "url": "https://pub.epsilon.slu.se/32152/1/eisersio-m-20231114.pdf",
+        "doi": "https://doi.org/10.54612/a.7hu21nar1i",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "F Darwaish",
+        "title": "Investigating vibration levels in neonatal patient transport",
+        "publication": "Carleton University",
+        "year": "2021",
+        "url": "https://repository.library.carleton.ca/concern/etds/vm40xs49c",
+        "doi": "https://doi.org/10.22215/etd/2020-14398",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "T Nurmi, J Jaatela, J Vallinoja, H M\u00e4enp\u00e4\u00e4",
+        "title": "Stronger proprioceptive BOLD-responses in the somatosensory cortices reflect worse sensorimotor function in adolescents with and without cerebral palsy",
+        "publication": "NeuroImage: Clinical",
+        "year": "2021",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2213158221002394",
+        "doi": "https://doi.org/10.1016/j.nicl.2021.102795",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "RM Daly, J Gianoudis, B De Ross, SL O'Connell",
+        "title": "Effects of a multinutrient-fortified milk drink combined with exercise on functional performance, muscle strength, body composition, inflammation, and oxidative \u2026",
+        "publication": "The American journal of \u2026",
+        "year": "2020",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0002916522008115",
+        "doi": "https://doi.org/10.1093/ajcn/nqaa126",
+        "product": "x-BIMU"
+    },
+    {
+        "authors": "D De Coeyer, A Legrand, R Ronsse",
+        "title": "Adaptive control of an active ankle prosthesis",
+        "publication": "Ecole polytechnique de Louvain",
+        "year": "2020",
+        "url": "https://dial.uclouvain.be/downloader/downloader.php?pid=thesis%3A25135&datastream=PDF_01&cover=cover-mem",
+        "doi": "https://hdl.handle.net/2078.2/31942",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "F Haider, FA Salim, SBY Tasdemir, V Naghashi",
+        "title": "Evaluation of Dominant and Non-Dominant Hand Movements For Volleyball Action Modelling",
+        "publication": "ICMI '19",
+        "year": "2019",
+        "url": "https://www.researchgate.net/profile/Fasih-Haider-2/publication/336434609_Evaluation_of_Dominant_and_Non-Dominant_Hand_Movements_For_Volleyball_Action_Modelling/links/5da4d59e92851c6b4bd6aa92/Evaluation-of-Dominant-and-Non-Dominant-Hand-Movements-For-Volleyball-Action-Modelling.pdf",
+        "doi": "https://doi.org/10.1145/3351529.3360651",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "JL Garc\u00eda-Soid\u00e1n, R Leir\u00f3s-Rodr\u00edguez, V Romo-P\u00e9rez",
+        "title": "Accelerometric Assessment of Postural Balance in Children: A Systematic Review. Diagnostics 2021, 11, 8",
+        "publication": "Diagnostics ",
+        "year": "2020",
+        "url": "https://www.researchgate.net/profile/Raquel-Leiros-Rodriguez/publication/347711078_Accelerometric_Assessment_of_Postural_Balance_in_Children_A_Systematic_Review/links/5fe34dca92851c13feb1ff42/Accelerometric-Assessment-of-Postural-Balance-in-Children-A-Systematic-Review.pdf",
+        "doi": "https://doi.org/10.3390/diagnostics11010008",
+        "product": "x-IMU"
+    },
+    {
+        "authors": "S Chattunyakit",
+        "title": "Self-recovery Strategy for Multi-legged Robot with Damaged Legs",
+        "publication": "Hokkaido University",
+        "year": "2019",
+        "url": "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/74971",
+        "doi": "https://hdl.handle.net/2115/74971",
+        "product": "x-IMU"
+    },
+    {
+        "authors": "A Patra",
+        "title": "Delving deep into fetal ultrasound video analysis",
+        "publication": "University of Oxford",
+        "year": "2020",
+        "url": "https://ora.ox.ac.uk/objects/uuid:b3773c34-ba3c-4ee8-9ead-2a7c65c9ff5b",
+        "doi": "https://ora.ox.ac.uk/objects/uuid:b3773c34-ba3c-4ee8-9ead-2a7c65c9ff5b/files/d8623hz08q",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "J De Jaeger, R Ronsse, V Otlet",
+        "title": "Influence of different environmental contexts on gait parameters in patients with Parkinson's disease",
+        "publication": "École polytechnique de Louvain",
+        "year": "2022",
+        "url": "https://dial.uclouvain.be/downloader/downloader.php?pid=thesis%3A35621&datastream=PDF_01&cover=cover-mem",
+        "doi": "https://hdl.handle.net/2078.2/26527",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "C Blackwell",
+        "title": "Analyzing Walking with Ankle Foot Orthoses Using Shank-mounted Wearable Movement Sensors",
+        "publication": "Proceedings of the 25th International ACM \u2026",
+        "year": "2023",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3597638.3615654",
+        "doi": "https://doi.org/10.1145/3597638.3615654",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "SK Tullino, ED Swenson",
+        "title": "Testing and evaluating deployment profiles of the canisterized satellite dispenser (CSD)",
+        "publication": "55th AIAA Aerospace Sciences Meeting",
+        "year": "2017",
+        "url": "https://arc.aiaa.org/doi/pdf/10.2514/6.2017-0850 or https://apps.dtic.mil/sti/tr/pdf/AD1055374.pdf",
+        "doi": "https://doi.org/10.2514/6.2017-0850",
+        "product": "NGIMU"
+    },
+    {
         "authors": "T Kriechbaumer",
         "title": "Field-based measurement of hydrodynamics associated with engineered in-channel structures: the example of fish pass assessment",
         "publication": "CRANFIELD UNIVERSITY",
@@ -290,7 +425,7 @@
     {
         "authors": "\ubc15\uc131\uc6b0",
         "title": "\ub2e4\uc911 \uc13c\uc11c \uae30\ubc18\uc758 \uc704\uce58 \ubc0f \uc790\uc138 \ucd94\uc815 \ubc29\ubc95\uc744 \uc774\uc6a9\ud55c \ub808\uc774\uc800 \uce58\ub8cc \ub85c\ubd07 \uc2dc\uc2a4\ud15c \uac1c\ubc1c\uc5d0 \uad00\ud55c \uc5f0\uad6c",
-        "publication": "Seoul National University Graduate School",
+        "publication": "NA",
         "year": "2015",
         "url": "https://s-space.snu.ac.kr/handle/10371/122452",
         "doi": "https://s-space.snu.ac.kr/handle/10371/122452",
@@ -302,7 +437,7 @@
         "publication": "Universidad de cordoba",
         "year": "2022",
         "url": "https://repositorio.unicordoba.edu.co/bitstreams/fdde879f-4ece-4046-a3ff-269d07886acd/download",
-        "doi": "https://doi.org/10.25044/25392190.1037",
+        "doi": "NA",
         "product": "x-OSC"
     },
     {
@@ -421,6 +556,15 @@
         "url": "https://www.mdpi.com/1424-8220/19/18/3946",
         "doi": "https://doi.org/10.3390/s19183946",
         "product": "NGIMU"
+    },
+    {
+        "authors": "J Foottit",
+        "title": "Touchable: Adapting a Haptic Feedback Glove for Use in Rehabilitation Contexts",
+        "publication": "Auckland University of Technology",
+        "year": "2016",
+        "url": "https://openrepository.aut.ac.nz/handle/10292/10057",
+        "doi": "https://hdl.handle.net/10292/10057",
+        "product": "Algorithm"
     },
     {
         "authors": "M Eisersi\u00f6, A Bystr\u00f6m, J Yngvesson",
@@ -3526,14 +3670,5 @@
         "url": "http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A533588&dswid=-1803",
         "doi": "http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A533588&dswid=-1803",
         "product": "x-IMU"
-    },
-        {
-        "authors": "Alfin Junaedy, ORCID Icon, Hiroyuki Masuta ORCID Icon, Yotaro Fuse ORCID Icon, Kei Sawai, Ken’ichi Koyanagi, Ahmed Almassri ORCID Icon, and Fengyu Li",
-        "title": "Onboard Modular Control and Planning for Autonomous Indoor UAV Navigation on Resource-Constrained CPUs",
-        "publication": "Journal of Robotics and Mechatronics",
-        "year": "2025",
-        "url": "https://doi.org/10.20965/jrm.2025.p1519 ",
-        "doi": "https://doi.org/10.20965/jrm.2025.p1519 ",
-        "product": "NGIMU"
     }
 ]

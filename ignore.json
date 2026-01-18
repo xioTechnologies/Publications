@@ -1,5 +1,212 @@
 [
     {
+        "authors": "RMS Anacleto",
+        "title": "All over the Place Localization System",
+        "publication": "NA",
+        "year": "2015",
+        "url": "https://search.proquest.com/openview/974c77ca13548e2d5b0e53f117f56f66/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "D Comotti, M Ermidoro, M Galizzi, A Vitali",
+        "title": "Development of an attitude and heading reference system for motion tracking applications",
+        "publication": "Sensors and Microsystems \u2026",
+        "year": "2013",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-319-00684-0_64",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "J Bogaert",
+        "title": "Hydraulic model tests on hydrodynamic behaviour of",
+        "publication": "NA",
+        "year": "2015",
+        "url": "https://libstore.ugent.be/fulltxt/RUG01/002/224/661/RUG01-002224661_2015_0001_AC.pdf",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "N Pupic",
+        "title": "Detecting Patient Position Using bed-reaction Forces for Pressure Injury Management",
+        "publication": "NA",
+        "year": "2021",
+        "url": "https://search.proquest.com/openview/c20a850e8cca8838b73b6d0c1d1680b4/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "S Firlej",
+        "title": "Design, construction and control of a spherical rolling robot with internal two-wheel cart",
+        "publication": "Automatyka/Automatics",
+        "year": "2015",
+        "url": "https://journals.agh.edu.pl/automat/article/view/2603",
+        "doi": "https://doi.org/10.7494/automat.2015.19.2.63",
+        "product": "NA"
+    },
+    {
+        "authors": "JB Milam",
+        "title": "Design and Evaluation of Novel Attitude Estimation System Using MEMS Sensors for Indoor UAS",
+        "publication": "NA",
+        "year": "2018",
+        "url": "https://search.proquest.com/openview/d47e820e58c6d415c6ac7124b7b7de6a/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "B Nagy, J Botzheim, P Korondi",
+        "title": "Magnetic angular rate and gravity sensor based supervised learning for positioning tasks",
+        "publication": "Sensors",
+        "year": "2019",
+        "url": "https://www.mdpi.com/1424-8220/19/24/5364",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "A Shrestha",
+        "title": "Radar based discrete and continuous activity recognition for assisted living",
+        "publication": "NA",
+        "year": "2021",
+        "url": "https://theses.gla.ac.uk/id/eprint/82482",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "J Rummells",
+        "title": "Quantifying biomechanical fatigue for athlete health modeling",
+        "publication": "NA",
+        "year": "2020",
+        "url": "https://search.proquest.com/openview/ea3e25171ab2ec62d35096cb3dffcd94/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "N OKKALIDIS",
+        "title": "Foot trajectory estimation methods using inertial sensors and multi-segment modelling approaches for kinematic gait analysis",
+        "publication": "NA",
+        "year": "2021",
+        "url": "https://www.um.edu.mt/library/oar/bitstream/123456789/106953/1/Nikiforos%20Okkalidis.pdf",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "J Gustafsson H\u00e4ll",
+        "title": "Evaluation of Grasp-and-Extend Hand Dynamics and Intelligent Modeling of Grasp Hand Dynamics",
+        "publication": "NA",
+        "year": "2018",
+        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1214676",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "NMF Ribeiro",
+        "title": "IMUs\u2013Validation, Gait Analysis and System's Implementation",
+        "publication": "NA",
+        "year": "2017",
+        "url": "https://search.proquest.com/openview/aadbbdf5a2a98f057c6bf3ef909a2bb6/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "T Li, H Yu",
+        "title": "Visual\u2013inertial fusion-based human pose estimation: A review",
+        "publication": "IEEE Transactions on Instrumentation and \u2026",
+        "year": "2023",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10152492/",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "J Storms",
+        "title": "Modeling and improving teleoperation performance of semi-autonomous wheeled robots",
+        "publication": "NA",
+        "year": "2017",
+        "url": "https://deepblue.lib.umich.edu/handle/2027.42/136951",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "S J\u00f3nsd\u00f3ttir",
+        "title": "Validation and biomechanical measurements using a novel Inertial Measurement Unit",
+        "publication": "NA",
+        "year": "2014",
+        "url": "https://skemman.is/handle/1946/19394",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "JL Ma",
+        "title": "Hemodynamic and Geometric Changes of the Female Reproductive System in Health and Disease",
+        "publication": "NA",
+        "year": "2020",
+        "url": "https://search.proquest.com/openview/f110c730c374935c33595cde2074b344/1?pq-origsite=gscholar&cbl=18750&diss=y",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "B Mechtley, J Stein, T Ingalls, SX Wei, C Roberts",
+        "title": "Enactive Steering of Simulations for Scientific Computing",
+        "publication": "Virtual Reality",
+        "year": "2022",
+        "url": "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003340003-11/enactive-steering-simulations-scientific-computing-brandon-mechtley-julian-stein-todd-ingalls-sha-xin-wei-christopher-roberts",
+        "doi": "https://doi.org/10.1201/9781003340003",
+        "product": "NA"
+    },
+    {
+        "authors": "D Sanchez-Martinez, CA Jara",
+        "title": "Approaches to Automatic Assembling of Plastic Toys",
+        "publication": "Iberian Robotics \u2026",
+        "year": "2022",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-21062-4_49",
+        "doi": "https://doi.org/10.1007/978-3-031-21062-4_49",
+        "product": "NA"
+    },
+    {
+        "authors": "A Depari, P Ferrari, A Flammini",
+        "title": "Lightweight machine learning-based approach for supervision of fitness workout",
+        "publication": "2019 IEEE Sensors \u2026",
+        "year": "2019",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8706106/",
+        "doi": "https://doi.org/10.1109/SAS.2019.8706106",
+        "product": "NA"
+    },
+    {
+        "authors": "E Moreau, B Herman, P Chatelain",
+        "title": "Design and Characterization of a Robotic Cyber-Physical System for Real-Time Flow-Device Experiments",
+        "publication": "2024 10th IEEE RAS \u2026",
+        "year": "2024",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10719704/",
+        "doi": "http://hdl.handle.net/2078.1/293471",
+        "product": "NA"
+    },
+    {
+        "authors": "SN Matos, OF Coletti, F Ugucioni Filho",
+        "title": "Evaluating Conveyor Belt Health With Signal Processing Applied to Inertial Sensing",
+        "publication": "2023 Symposium on \u2026",
+        "year": "2023",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10390088/",
+        "doi": "https://doi.org/10.1109/SIoT60039.2023.10390088",
+        "product": "NA"
+    },
+    {
+        "authors": "J Park, J Kim",
+        "title": "Development of Foot Devices for Virtual Reality",
+        "publication": "2018 18th International Conference on Control \u2026",
+        "year": "2018",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8571702/",
+        "doi": "NA",
+        "product": "NA"
+    },
+    {
+        "authors": "S Marek",
+        "title": "Objektivizace rozsahu z\u00e1kladn\u00edho pohybu d\u00edl\u010d\u00edch \u010d\u00e1st\u00ed t\u011bla p\u0159i rehabilitaci",
+        "publication": "NA",
+        "year": "2022",
+        "url": "https://dspace.cvut.cz/handle/10467/99175",
+        "doi": "NA",
+        "product": "MARG"
+    },
+    {
         "authors": "P Marantos, Y Koveos",
         "title": "UAV state estimation using adaptive complementary filters",
         "publication": "IEEE Transactions on \u2026",
@@ -879,15 +1086,6 @@
         "year": "2013",
         "url": "https://ieeexplore.ieee.org/abstract/document/6781803/",
         "doi": "NA",
-        "product": "NA"
-    },
-    {
-        "authors": "J Foottit",
-        "title": "Touchable: Adapting a Haptic Feedback Glove for Use in Rehabilitation Contexts",
-        "publication": "Auckland University of Technology",
-        "year": "2016",
-        "url": "https://openrepository.aut.ac.nz/handle/10292/10057",
-        "doi": "https://hdl.handle.net/10292/10057",
         "product": "NA"
     }
 ]
