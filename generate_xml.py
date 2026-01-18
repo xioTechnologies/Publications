@@ -32,3 +32,5 @@ tree = ET.ElementTree(root)
 ET.indent(tree, space="\t", level=0)
 
 tree.write("Publications.xml", encoding="UTF-8", xml_declaration=True)
+
+print(f"Number of publications = {len(publications)}")
