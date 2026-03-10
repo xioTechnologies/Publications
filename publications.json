@@ -1,5 +1,50 @@
 [
     {
+        "authors": "F Haider, FA Salim, SBY Tasdemir, V Naghashi",
+        "title": "Kubra Cengiz6, Dees BW Postma2, Robby van Delden2, Dennis Reidsma2, Bert-Jan van Beijnum2, Saturnino Luz1 1The University of Edinburgh, UK \u2026",
+        "publication": "ICMI '19: Adjunct of the 2019 International Conference on Multimodal Interaction",
+        "year": "2019",
+        "url": "https://www.researchgate.net/profile/Fasih-Haider-2/publication/336434609_Evaluation_of_Dominant_and_Non-Dominant_Hand_Movements_For_Volleyball_Action_Modelling/links/5da4d59e92851c6b4bd6aa92/Evaluation-of-Dominant-and-Non-Dominant-Hand-Movements-For-Volleyball-Action-Modelling.pdf",
+        "doi": "https://doi.org/10.1145/3351529.3360651",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "M Eisersi\u00f6",
+        "title": "Straight from the horse's mouth",
+        "publication": "Swedish University of Agricultural Science",
+        "year": "2023",
+        "url": "https://pub.epsilon.slu.se/32152/1/eisersio-m-20231114.pdf",
+        "doi": "https://doi.org/10.54612/a.7hu21nar1i",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "B Said",
+        "title": "Za\u0159\u00edzen\u00ed pro anal\u00fdzu pohybu pomoc\u00ed inerci\u00e1ln\u00edch senzor\u016f",
+        "publication": "Masaryk University Faculty of Informatics",
+        "year": "2018",
+        "url": "https://is.muni.cz/th/hx416/?verze=2017;info=1",
+        "doi": "https://is.muni.cz/th/hx416/",
+        "product": "x-IMU"
+    },
+    {
+        "authors": "J Helenius",
+        "title": "T\u00e4r\u00e4hdyskuormituksen arvioiminen puettavien kiihtyvyysanturien avulla juoksukuormituksen yhteydess\u00e4",
+        "publication": "University of Jyväskylä",
+        "year": "2020",
+        "url": "https://jyx.jyu.fi/handle/123456789/69167",
+        "doi": "https://urn.fi/URN:NBN:fi:jyu-202005253420",
+        "product": "NGIMU"
+    },
+    {
+        "authors": "FPIO CECCA",
+        "title": "Analisi ed implementazione di algoritmi per il monitoraggio del cammino in pazienti con Parkinson's Disease",
+        "publication": "UNIVERSITA POLITECNICA DELLE MARCHE ",
+        "year": "2021",
+        "url": "https://tesi.univpm.it/handle/20.500.12075/10864",
+        "doi": "https://hdl.handle.net/20.500.12075/10864",
+        "product": "NGIMU"
+    },
+    {
         "authors": "MT Engell",
         "title": "Postural strategies in skilled riders",
         "publication": "Swedish University of Agricultural Sciences ",

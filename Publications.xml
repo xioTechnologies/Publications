@@ -185,6 +185,14 @@
 		<product>NGIMU</product>
 	</paper>
 	<paper>
+		<author>M Eisersiö</author>
+		<title>Straight from the horse's mouth</title>
+		<publication>Swedish University of Agricultural Science</publication>
+		<year>2023</year>
+		<doi>https://doi.org/10.54612/a.7hu21nar1i</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
 		<author>C Blackwell</author>
 		<title>Analyzing Walking with Ankle Foot Orthoses Using Shank-mounted Wearable Movement Sensors</title>
 		<publication>Proceedings of the 25th International ACM …</publication>
@@ -673,6 +681,14 @@
 		<product>NGIMU</product>
 	</paper>
 	<paper>
+		<author>FPIO CECCA</author>
+		<title>Analisi ed implementazione di algoritmi per il monitoraggio del cammino in pazienti con Parkinson's Disease</title>
+		<publication>UNIVERSITA POLITECNICA DELLE MARCHE </publication>
+		<year>2021</year>
+		<doi>https://hdl.handle.net/20.500.12075/10864</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
 		<author>F Darwaish</author>
 		<title>Investigating vibration levels in neonatal patient transport</title>
 		<publication>Carleton University</publication>
@@ -1015,6 +1031,14 @@
 		<year>2021</year>
 		<doi>https://doi.org/10.3390/diagnostics11010008</doi>
 		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>J Helenius</author>
+		<title>Tärähdyskuormituksen arvioiminen puettavien kiihtyvyysanturien avulla juoksukuormituksen yhteydessä</title>
+		<publication>University of JyvÃ¤skylÃ¤</publication>
+		<year>2020</year>
+		<doi>https://urn.fi/URN:NBN:fi:jyu-202005253420</doi>
+		<product>NGIMU</product>
 	</paper>
 	<paper>
 		<author>E Brooks</author>
@@ -1425,6 +1449,14 @@
 		<product>x-IMU</product>
 	</paper>
 	<paper>
+		<author>F Haider, FA Salim, SBY Tasdemir, V Naghashi</author>
+		<title>Kubra Cengiz6, Dees BW Postma2, Robby van Delden2, Dennis Reidsma2, Bert-Jan van Beijnum2, Saturnino Luz1 1The University of Edinburgh, UK …</title>
+		<publication>ICMI '19: Adjunct of the 2019 International Conference on Multimodal Interaction</publication>
+		<year>2019</year>
+		<doi>https://doi.org/10.1145/3351529.3360651</doi>
+		<product>NGIMU</product>
+	</paper>
+	<paper>
 		<author>S Chattunyakit</author>
 		<title>Self-recovery Strategy for Multi-legged Robot with Damaged Legs</title>
 		<publication>Hokkaido University</publication>
@@ -1750,6 +1782,14 @@
 		<publication>Sensors</publication>
 		<year>2019</year>
 		<doi>https://doi.org/10.3390/s19040840</doi>
+		<product>x-IMU</product>
+	</paper>
+	<paper>
+		<author>B Said</author>
+		<title>Zařízení pro analýzu pohybu pomocí inerciálních senzorů</title>
+		<publication>Masaryk University Faculty of Informatics</publication>
+		<year>2018</year>
+		<doi>https://is.muni.cz/th/hx416/</doi>
 		<product>x-IMU</product>
 	</paper>
 	<paper>
