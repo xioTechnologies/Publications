@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <publications xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<tags>
-		<tag>Activity monitoring</tag>
+		<tag>Activity Monitoring</tag>
 		<tag>Aerospace</tag>
 		<tag>Biomechanics</tag>
 		<tag>Equine</tag>
@@ -9,11 +9,11 @@
 		<tag>Exoskeletons</tag>
 		<tag>Gait</tag>
 		<tag>HCI</tag>
-		<tag>IMU development</tag>
+		<tag>IMU Development</tag>
 		<tag>Marine</tag>
 		<tag>Medical</tag>
-		<tag>Mining &amp; industry</tag>
-		<tag>Music &amp; arts</tag>
+		<tag>Mining &amp; Industry</tag>
+		<tag>Music &amp; Arts</tag>
 		<tag>Navigation</tag>
 		<tag>Parasport</tag>
 		<tag>Prosthetics</tag>
@@ -29,7 +29,7 @@
 		<doi>https://doi.org/10.3390/su18094402</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -73,7 +73,7 @@
 		<doi>https://doi.org/10.3390/met16050519</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -96,7 +96,7 @@
 		<product>x-IMU3</product>
 		<tags>
 			<tag>HCI</tag>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -107,7 +107,7 @@
 		<doi>https://doi.org/10.1007/978-3-032-30274-8_32</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Robotics</tag>
 		</tags>
 	</paper>
@@ -167,7 +167,7 @@
 		<doi>https://doi.org/10.4324/9781003475675</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -324,7 +324,7 @@
 		<doi>https://doi.org/10.3390/app151810076</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -336,7 +336,7 @@
 		<product>NGIMU</product>
 		<tags>
 			<tag>Aerospace</tag>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 			<tag>Robotics</tag>
 		</tags>
 	</paper>
@@ -359,7 +359,7 @@
 		<doi>https://doi.org/10.3390/s25237133</doi>
 		<product>x-IMU3</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -383,7 +383,7 @@
 		<doi>https://doi.org/10.1016/j.ifacol.2025.12.214</doi>
 		<product>x-IMU3</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Biomechanics</tag>
 			<tag>HCI</tag>
 		</tags>
@@ -396,7 +396,7 @@
 		<doi>https://doi.org/10.7735/ksmte.2025.34.2.81</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -446,7 +446,7 @@
 		<tags>
 			<tag>Ergonomics</tag>
 			<tag>Exoskeletons</tag>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 			<tag>Robotics</tag>
 		</tags>
 	</paper>
@@ -458,7 +458,7 @@
 		<doi>https://doi.org/10.1016/j.treng.2025.100358</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -494,7 +494,7 @@
 		<product>x-IMU3</product>
 		<tags>
 			<tag>Biomechanics</tag>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -516,7 +516,7 @@
 		<doi>http://journal.ksmte.kr/xml/44690/44690.pdf</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -563,7 +563,7 @@
 		<product>NGIMU</product>
 		<tags>
 			<tag>Ergonomics</tag>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -598,7 +598,7 @@
 		<doi>https://burjcdigital.urjc.es/items/30766146-d0a3-48ae-a84d-29de4aae0b2b</doi>
 		<product>x-IMU3</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -621,7 +621,7 @@
 		<doi>https://doi.org/10.1109/TIM.2025.3588986</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Ergonomics</tag>
 		</tags>
 	</paper>
@@ -633,7 +633,7 @@
 		<doi>https://doi.org/10.1016/j.parkreldis.2025.107903</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Gait</tag>
 		</tags>
 	</paper>
@@ -680,7 +680,7 @@
 		<doi>https://repository.uantwerpen.be/link/irua/214826</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -703,7 +703,7 @@
 		<doi>https://doi.org/10.1016/j.measen.2025.101816</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -726,7 +726,7 @@
 		<doi>https://doi.org/10.1134/S2075108726700045</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -835,7 +835,7 @@
 		<doi>https://doi.org/10.1109/ISSI63632.2024.10720465</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -950,7 +950,7 @@
 		<doi>https://doi.org/10.1109/I2MTC60896.2024.10561167</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1085,7 +1085,7 @@
 		<doi>https://doi.org/10.1016/j.sna.2024.115999</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1119,7 +1119,7 @@
 		<doi>https://doi.org/10.5302/J.ICROS.2024.24.0007</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1179,7 +1179,7 @@
 		<product>NGIMU</product>
 		<tags>
 			<tag>Biomechanics</tag>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1251,7 +1251,7 @@
 		<doi>https://www.researchgate.net/publication/374265051_Development_of_machine_learning_assisted_suspension_vibration_data-based_road_quality_classification_system</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1276,7 +1276,7 @@
 		<doi>https://ieeexplore.ieee.org/abstract/document/10390088/</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1298,7 +1298,7 @@
 		<doi>https://doi.org/10.3390/biomimetics8060471</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1320,7 +1320,7 @@
 		<doi>https://doi.org/10.1109/ACCESS.2023.3291080</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1331,7 +1331,7 @@
 		<doi>https://hdl.handle.net/10216/151980</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Marine</tag>
 			<tag>Navigation</tag>
 			<tag>Robotics</tag>
@@ -1392,7 +1392,7 @@
 		<doi>https://doi.org/10.1177/00202940231155496</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -1428,7 +1428,7 @@
 		<doi>https://doi.org/10.3390/s23021045</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1476,7 +1476,7 @@
 		<product>NGIMU</product>
 		<tags>
 			<tag>Ergonomics</tag>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1568,7 +1568,7 @@
 		<doi>https://doi.org/10.3390/s22197358</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1602,7 +1602,7 @@
 		<doi>https://www.cbs.nl/-/media/_pdf/2022/08/beweegmeters.pdf</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -1614,7 +1614,7 @@
 		<doi>https://doi.org/10.5281/zenodo.6572981</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1625,7 +1625,7 @@
 		<doi>https://tesi.univpm.it/handle/20.500.12075/13688</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Gait</tag>
 		</tags>
 	</paper>
@@ -1638,7 +1638,7 @@
 		<product>x-OSC</product>
 		<tags>
 			<tag>Ergonomics</tag>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1660,8 +1660,8 @@
 		<doi>https://doi.org/10.1117/12.2621187</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
-			<tag>IMU development</tag>
+			<tag>Activity Monitoring</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1754,7 +1754,7 @@
 		<doi>https://doi.org/10.3316/informit.833279439608619</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1765,7 +1765,7 @@
 		<doi>https://doi.org/10.1109/SAS54819.2022.9881338</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -1777,7 +1777,7 @@
 		<doi>https://doi.org/10.1109/ICITBS55627.2022.00073</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -1835,7 +1835,7 @@
 		<doi>https://doi.org/10.1007/s11071-021-06934-x</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1846,7 +1846,7 @@
 		<doi>https://doi.org/10.1007/978-3-031-15226-9_35</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 			<tag>Robotics</tag>
 		</tags>
 	</paper>
@@ -1858,7 +1858,7 @@
 		<doi>https://doi.org/10.1016/j.eswa.2022.116990</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -1870,7 +1870,7 @@
 		<doi>https://ieeexplore.ieee.org/abstract/document/9932227/</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1893,7 +1893,7 @@
 		<doi>https://doi.org/10.1109/SPMB55497.2022.10014869</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Rehabilitation</tag>
 		</tags>
 	</paper>
@@ -1905,7 +1905,7 @@
 		<doi>https://www.diva-portal.org/smash/get/diva2:1672626/FULLTEXT01.pdf</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1916,7 +1916,7 @@
 		<doi>https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akmh%3Adiva-4624</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1949,7 +1949,7 @@
 		<doi>https://doi.org/10.1109/CoBCom55489.2022.9880682</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -1960,7 +1960,7 @@
 		<doi>https://users.wpi.edu/~ted/full_text_confer/2022huang_clancy_hpec.pdf</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Rehabilitation</tag>
 		</tags>
 	</paper>
@@ -1972,7 +1972,7 @@
 		<doi>https://doi.org/10.1117/12.2593291</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -2029,7 +2029,7 @@
 		<doi>https://doi.org/10.1155/2021/7621393</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -2063,8 +2063,8 @@
 		<doi>https://doi.org/10.3390/s21082875</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
-			<tag>IMU development</tag>
+			<tag>Activity Monitoring</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2207,7 +2207,7 @@
 		<doi>https://doi.org/10.3390/s21175954</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Medical</tag>
 		</tags>
 	</paper>
@@ -2252,7 +2252,7 @@
 		<doi>https://doi.org/10.3389/fspor.2021.670263</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -2264,7 +2264,7 @@
 		<doi>https://doi.org/10.5525/gla.thesis.82039</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2275,7 +2275,7 @@
 		<doi>https://www.researchgate.net/publication/353342585_Novel_methods_to_determine_the_bubble_dynamics_of_a_Top_Submerged_Lance_TSL_smelter</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2334,7 +2334,7 @@
 		<doi>https://doi.org/10.3390/app11136075</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -2391,7 +2391,7 @@
 		<doi>https://hdl.handle.net/11566/287691</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2403,7 +2403,7 @@
 		<product>NGIMU</product>
 		<tags>
 			<tag>Gait</tag>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 			<tag>Rehabilitation</tag>
 		</tags>
 	</paper>
@@ -2460,7 +2460,7 @@
 		<doi>https://doi.org/10.3390/app112412101</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2471,7 +2471,7 @@
 		<doi>https://doi.org/10.1145/3452853.3452862</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2482,7 +2482,7 @@
 		<doi>https://doi.org/10.18945/jjfes.36.63</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 			<tag>Navigation</tag>
 			<tag>Robotics</tag>
 		</tags>
@@ -2529,7 +2529,7 @@
 		<doi>https://doi.org/10.1117/12.2579884</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2540,7 +2540,7 @@
 		<doi>https://doi.org/10.3390/mti4020033</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -2552,8 +2552,8 @@
 		<doi>https://doi.org/10.3390/electronics9071118</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
-			<tag>IMU development</tag>
+			<tag>Activity Monitoring</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2603,7 +2603,7 @@
 		<product>NGIMU</product>
 		<tags>
 			<tag>Biomechanics</tag>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2626,8 +2626,8 @@
 		<doi>https://doi.org/10.1145/3410530.3414368</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
-			<tag>IMU development</tag>
+			<tag>Activity Monitoring</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2665,7 +2665,7 @@
 		<product>NGIMU</product>
 		<tags>
 			<tag>HCI</tag>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2747,7 +2747,7 @@
 		<doi>https://doi.org/10.46354/i3m.2018.mas.020</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2793,7 +2793,7 @@
 		<doi>https://doi.org/10.1016/j.isatra.2020.05.012</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 			<tag>Robotics</tag>
 		</tags>
 	</paper>
@@ -2827,7 +2827,7 @@
 		<doi>https://doi.org/10.1080/07494467.2019.1706349</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2838,7 +2838,7 @@
 		<doi>https://doi.org/10.3390/s20174829</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2887,8 +2887,8 @@
 		<doi>https://doi.org/10.1109/JSEN.2020.2982744</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
-			<tag>IMU development</tag>
+			<tag>Activity Monitoring</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -2946,7 +2946,7 @@
 		<tags>
 			<tag>HCI</tag>
 			<tag>Marine</tag>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -2992,7 +2992,7 @@
 		<doi>https://doi.org/10.1007/978-981-15-3380-8_15</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -3017,7 +3017,7 @@
 		<doi>https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-280699</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3028,7 +3028,7 @@
 		<doi>http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-280814</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3051,7 +3051,7 @@
 		<doi>https://hdl.handle.net/20.500.12075/7989</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Gait</tag>
 		</tags>
 	</paper>
@@ -3085,7 +3085,7 @@
 		<doi>http://purl.utwente.nl/essays/81958</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -3097,7 +3097,7 @@
 		<doi>https://doi.org/10.1123/jmpb.2020-0012</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -3157,7 +3157,7 @@
 		<doi>https://doi.org/10.1109/ICPS48405.2020.9274718</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3205,7 +3205,7 @@
 		<doi>https://doi.org/10.1145/3340555.3358660</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -3239,7 +3239,7 @@
 		<doi>https://doi.org/10.1109/COMPSAC.2019.10252</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Medical</tag>
 		</tags>
 	</paper>
@@ -3284,7 +3284,7 @@
 		<doi>https://doi.org/10.1016/j.measurement.2019.07.038</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -3307,7 +3307,7 @@
 		<doi>https://doi.org/10.1145/3351529.3360651</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -3331,7 +3331,7 @@
 		<doi>https://doi.org/10.1016/j.ymssp.2019.04.064</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Robotics</tag>
 		</tags>
 	</paper>
@@ -3356,7 +3356,7 @@
 		<doi>https://doi.org/10.1080/07494467.2019.1706351</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3367,7 +3367,7 @@
 		<doi>https://doi.org/10.3390/s19183946</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -3440,7 +3440,7 @@
 		<doi>https://doi.org/10.1109/SAS.2019.8706106</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -3452,7 +3452,7 @@
 		<doi>https://doi.org/10.1109/ISCE.2019.8901014</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -3464,7 +3464,7 @@
 		<doi>http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1298315</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3556,7 +3556,7 @@
 		<doi>http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-248472</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3590,7 +3590,7 @@
 		<doi>https://papers.cumincad.org/cgi-bin/works/Show?lasg_whitepapers_2019_197</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3613,7 +3613,7 @@
 		<product>NGIMU</product>
 		<tags>
 			<tag>Biomechanics</tag>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3636,7 +3636,7 @@
 		<product>x-OSC</product>
 		<tags>
 			<tag>HCI</tag>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3648,7 +3648,7 @@
 		<product>x-OSC</product>
 		<tags>
 			<tag>HCI</tag>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3685,7 +3685,7 @@
 		<doi>https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=8113&amp;context=mqp-all</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3696,7 +3696,7 @@
 		<doi>https://ipsj.ixsq.nii.ac.jp/records/197184</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3740,7 +3740,7 @@
 		<doi>https://doi.org/10.1007/s11119-018-9605-2</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 			<tag>Robotics</tag>
 		</tags>
 	</paper>
@@ -3752,7 +3752,7 @@
 		<doi>https://doi.org/10.3390/s18103435</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -3787,7 +3787,7 @@
 		<doi>https://doi.org/10.5281/zenodo.1408596</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3798,7 +3798,7 @@
 		<doi>https://doi.org/10.5281/ZENODO.1422618</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3859,7 +3859,7 @@
 		<product>x-IMU</product>
 		<tags>
 			<tag>Biomechanics</tag>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3916,7 +3916,7 @@
 		<doi>https://is.muni.cz/th/hx416/</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3938,7 +3938,7 @@
 		<doi>https://research.tue.nl/files/96728490/Pouw_0952219.pdf</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 			<tag>Robotics</tag>
 		</tags>
 	</paper>
@@ -3963,7 +3963,7 @@
 		<doi>https://doi.org/10.1080/14626268.2018.1511600</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -3996,7 +3996,7 @@
 		<doi>https://doi.org/10.1109/JSEN.2018.2872894</doi>
 		<product>NGIMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Medical</tag>
 		</tags>
 	</paper>
@@ -4044,7 +4044,7 @@
 		<doi>https://doi.org/10.1109/HealthCom.2018.8531166</doi>
 		<product>x-BIMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4055,7 +4055,7 @@
 		<doi>http://speech.di.uoa.gr/ICMC-SMC-2014/images/VOL_2/1592.pdf</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4078,7 +4078,7 @@
 		<doi>https://ubir.buffalo.edu/xmlui/bitstream/handle/10477/78131/Ghobadi_buffalo_0656A_15877.pdf?sequence=1</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4091,7 +4091,7 @@
 		<tags>
 			<tag>Biomechanics</tag>
 			<tag>Gait</tag>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4102,7 +4102,7 @@
 		<doi>https://www.ewsn.org/file-repository/ewsn-2018/177_178_roggen.pdf</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4126,7 +4126,7 @@
 		<doi>https://doi.org/10.1016/j.imavis.2018.04.005</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -4149,7 +4149,7 @@
 		<doi>https://doi.org/10.1155/2018/1587253</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -4233,7 +4233,7 @@
 		<doi>https://doi.org/10.3389/fneur.2018.00684</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Gait</tag>
 		</tags>
 	</paper>
@@ -4316,7 +4316,7 @@
 		<doi>https://doi.org/10.4108/eai.21-3-2017.152392</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4338,7 +4338,7 @@
 		<doi>https://doi.org/10.1142/S0219519417500774</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Gait</tag>
 		</tags>
 	</paper>
@@ -4350,7 +4350,7 @@
 		<doi>https://doi.org/10.3390/s17040827</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Gait</tag>
 		</tags>
 	</paper>
@@ -4362,7 +4362,7 @@
 		<doi>https://upcommons.upc.edu/handle/2117/104742</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Gait</tag>
 		</tags>
 	</paper>
@@ -4374,7 +4374,7 @@
 		<doi>https://doi.org/10.3390/s17051161</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4443,7 +4443,7 @@
 		<doi>https://doi.org/10.1109/ACCESS.2017.2721098</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Gait</tag>
 		</tags>
 	</paper>
@@ -4456,7 +4456,7 @@
 		<product>x-OSC</product>
 		<tags>
 			<tag>HCI</tag>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4478,7 +4478,7 @@
 		<doi>https://doi.org/10.1109/SAS.2017.7894068</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -4525,7 +4525,7 @@
 		<doi>https://doi.org/10.1145/3136755.3136757</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4536,7 +4536,7 @@
 		<doi>https://doi.org/10.1145/3077981.3078052</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4558,7 +4558,7 @@
 		<doi>https://doi.org/10.1109/ICSENS.2017.8234223</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4613,7 +4613,7 @@
 		<doi>http://hdl.handle.net/10216/106262</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4647,7 +4647,7 @@
 		<doi>https://doi.org/10.1145/3121283.3121290</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>HCI</tag>
 		</tags>
 	</paper>
@@ -4659,7 +4659,7 @@
 		<doi>https://doi.org/10.5281/zenodo.1135077</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4682,7 +4682,7 @@
 		<doi>https://doi.org/10.1145/2968219.2968261</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4715,7 +4715,7 @@
 		<doi>http://fenix.univ.rzeszow.pl/~mkepski/Kepski_PhD_Thesis.pdf</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4784,7 +4784,7 @@
 		<doi>https://doi.org/10.1016/j.asoc.2015.11.031</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4807,7 +4807,7 @@
 		<doi>http://dance.dibris.unige.it/user_files/documents/papers/ISon2016-05-AlbornoCeraPiana-et-al.pdf</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4844,7 +4844,7 @@
 		<product>NGIMU</product>
 		<tags>
 			<tag>HCI</tag>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4913,7 +4913,7 @@
 		<doi>https://doi.org/10.1007/978-3-319-45246-3_18</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4924,7 +4924,7 @@
 		<doi>https://www.generativeart.com/GA2016WEB/Bisig_PianoDancer.pdf</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4935,7 +4935,7 @@
 		<doi>http://stocos.com/publicaciones/PianoAndDancer_08.11.2016.pdf</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -4958,7 +4958,7 @@
 		<product>NGIMU</product>
 		<tags>
 			<tag>Aerospace</tag>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 			<tag>Robotics</tag>
 		</tags>
@@ -4993,7 +4993,7 @@
 		<doi>https://www.researchgate.net/publication/304944309_The_Hyper-Hurdy-Gurdy</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5004,7 +5004,7 @@
 		<doi>https://hdl.handle.net/11572/226233</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5053,7 +5053,7 @@
 		<doi>https://doi.org/10.3390/ijgi4042638</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -5066,7 +5066,7 @@
 		<product>x-IMU</product>
 		<tags>
 			<tag>HCI</tag>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5077,7 +5077,7 @@
 		<doi>https://doi.org/10.1109/EMBC.2015.7318786</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Gait</tag>
 		</tags>
 	</paper>
@@ -5104,7 +5104,7 @@
 		<product>x-OSC</product>
 		<tags>
 			<tag>HCI</tag>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5151,7 +5151,7 @@
 		<doi>http://www.arpnjournals.org/jeas/research_papers/rp_2015/jeas_1115_3019.pdf</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5208,7 +5208,7 @@
 		<doi>https://doi.org/10.1016/j.neucom.2015.05.061</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5328,7 +5328,7 @@
 		<doi>http://eprints.uwe.ac.uk/26049/</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5351,7 +5351,7 @@
 		<doi>https://www.theseus.fi/bitstream/handle/10024/90399/OPPARI%20INNOVAATIOpdf.pdf?sequence=1</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5386,7 +5386,7 @@
 		<product>x-IMU</product>
 		<tags>
 			<tag>Marine</tag>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5420,7 +5420,7 @@
 		<doi>http://hdl.handle.net/11455/89991</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5431,7 +5431,7 @@
 		<doi>https://doi.org/10.1145/2579700</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>HCI</tag>
 			<tag>Rehabilitation</tag>
 		</tags>
@@ -5455,7 +5455,7 @@
 		<doi>https://doi.org/10.1007/s11803-014-0219-z</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Mining &amp; industry</tag>
+			<tag>Mining &amp; Industry</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5478,7 +5478,7 @@
 		<doi>https://repositoriobibliotecas.uv.cl/bitstreams/4d781a52-70dc-421e-a6b3-8b9eeb2c58cf/download</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5489,7 +5489,7 @@
 		<doi>https://hal.archives-ouvertes.fr/hal-01165775/file/libo_bindings.pdf</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5546,7 +5546,7 @@
 		<doi>http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-162111</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5558,7 +5558,7 @@
 		<product>x-IMU</product>
 		<tags>
 			<tag>Biomechanics</tag>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5569,7 +5569,7 @@
 		<doi>https://doi.org/10.5281/zenodo.1178875</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5603,7 +5603,7 @@
 		<doi>https://doi.org/10.7763/IJIEE.2014.V4.489</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5636,7 +5636,7 @@
 		<doi>https://doi.org/10.1109/UIC-ATC-ScalCom.2014.114</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -5648,7 +5648,7 @@
 		<doi>https://doi.org/10.1109/IPIN.2014.7275475</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -5683,7 +5683,7 @@
 		<doi>http://www.academia.edu/download/33676591/FASCINATE_Conference_Paper_Michailidis.pdf</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5694,7 +5694,7 @@
 		<doi>https://doi.org/10.1109/TIM.2013.2255977</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5706,7 +5706,7 @@
 		<product>x-IMU</product>
 		<tags>
 			<tag>Gait</tag>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5729,7 +5729,7 @@
 		<doi>https://doi.org/10.1109/BSN.2013.6575466</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5740,7 +5740,7 @@
 		<doi>https://wairco.org/IJCCIT/December%202024%20paper%2027a.pdf</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>Activity monitoring</tag>
+			<tag>Activity Monitoring</tag>
 			<tag>Sport</tag>
 		</tags>
 	</paper>
@@ -5777,7 +5777,7 @@
 		<product>x-IMU</product>
 		<tags>
 			<tag>HCI</tag>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5822,7 +5822,7 @@
 		<doi>https://x-io.co.uk/downloads/NIME2014-Final-Fingertip-Wi-Fi-Report.pdf</doi>
 		<product>x-OSC</product>
 		<tags>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5857,7 +5857,7 @@
 		<doi>https://ddd.uab.cat/record/106457</doi>
 		<product>x-IMU</product>
 		<tags>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 			<tag>Navigation</tag>
 		</tags>
 	</paper>
@@ -5881,7 +5881,7 @@
 		<product>x-IMU</product>
 		<tags>
 			<tag>Biomechanics</tag>
-			<tag>IMU development</tag>
+			<tag>IMU Development</tag>
 		</tags>
 	</paper>
 	<paper>
@@ -5930,7 +5930,7 @@
 		<product>x-IMU</product>
 		<tags>
 			<tag>HCI</tag>
-			<tag>Music &amp; arts</tag>
+			<tag>Music &amp; Arts</tag>
 		</tags>
 	</paper>
 	<paper>

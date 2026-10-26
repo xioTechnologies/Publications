@@ -118,7 +118,7 @@
         "product": "x-IMU",
         "tags": [
             "Marine",
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -144,7 +144,7 @@
         "doi": "https://doi.org/10.3390/su18094402",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -171,7 +171,7 @@
         "product": "NGIMU",
         "tags": [
             "Navigation",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -210,7 +210,7 @@
         "doi": "https://doi.org/10.3390/app151810076",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -251,7 +251,7 @@
         "product": "x-IMU",
         "tags": [
             "Robotics",
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -264,7 +264,7 @@
         "doi": "http://www.academia.edu/download/33676591/FASCINATE_Conference_Paper_Michailidis.pdf",
         "product": "x-IMU",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -305,7 +305,7 @@
         "tags": [
             "Robotics",
             "Aerospace",
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -333,7 +333,7 @@
         "doi": "https://doi.org/10.4108/eai.21-3-2017.152392",
         "product": "x-IMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -456,7 +456,7 @@
         "product": "x-IMU",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -470,7 +470,7 @@
         "product": "x-IMU",
         "tags": [
             "Gait",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -484,7 +484,7 @@
         "product": "NGIMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -510,7 +510,7 @@
         "doi": "https://doi.org/10.1117/12.2579884",
         "product": "NGIMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -539,7 +539,7 @@
         "product": "x-IMU3",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -553,7 +553,7 @@
         "product": "NGIMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -566,8 +566,8 @@
         "doi": "https://doi.org/10.3390/electronics9071118",
         "product": "NGIMU",
         "tags": [
-            "IMU development",
-            "Activity monitoring"
+            "IMU Development",
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -580,7 +580,7 @@
         "doi": "https://doi.org/10.1145/2968219.2968261",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -621,7 +621,7 @@
         "product": "x-IMU",
         "tags": [
             "Gait",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -635,7 +635,7 @@
         "product": "x-IMU",
         "tags": [
             "Gait",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -689,7 +689,7 @@
         "doi": "https://doi.org/10.1109/TIM.2013.2255977",
         "product": "x-IMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -729,7 +729,7 @@
         "doi": "https://doi.org/10.3390/met16050519",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -769,7 +769,7 @@
         "product": "x-IMU",
         "tags": [
             "Medical",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -811,7 +811,7 @@
         "product": "x-IMU3",
         "tags": [
             "HCI",
-            "Activity monitoring",
+            "Activity Monitoring",
             "Biomechanics"
         ],
         "comment": ""
@@ -869,7 +869,7 @@
         "doi": "https://doi.org/10.5281/zenodo.1408596",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -882,7 +882,7 @@
         "doi": "https://doi.org/10.5281/ZENODO.1422618",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -921,7 +921,7 @@
         "doi": "https://doi.org/10.3390/s17051161",
         "product": "x-IMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -961,7 +961,7 @@
         "doi": "https://doi.org/10.1109/TMECH.2020.2992296",
         "product": "NGIMU",
         "tags": [
-            "IMU development",
+            "IMU Development",
             "Biomechanics"
         ],
         "comment": ""
@@ -976,7 +976,7 @@
         "product": "x-IMU",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -990,7 +990,7 @@
         "product": "NGIMU",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -1069,7 +1069,7 @@
         "doi": "https://hdl.handle.net/20.500.12075/17905",
         "product": "NGIMU",
         "tags": [
-            "IMU development",
+            "IMU Development",
             "Biomechanics"
         ],
         "comment": ""
@@ -1123,7 +1123,7 @@
         "doi": "https://doi.org/10.7735/ksmte.2025.34.2.81",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -1179,7 +1179,7 @@
         "doi": "http://hdl.handle.net/11455/89991",
         "product": "x-IMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -1206,7 +1206,7 @@
         "doi": "https://doi.org/10.3390/s22197358",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -1219,8 +1219,8 @@
         "doi": "https://doi.org/10.1145/3410530.3414368",
         "product": "NGIMU",
         "tags": [
-            "IMU development",
-            "Activity monitoring"
+            "IMU Development",
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -1277,7 +1277,7 @@
         "product": "x-IMU",
         "tags": [
             "HCI",
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -1330,7 +1330,7 @@
         "product": "x-IMU3",
         "tags": [
             "HCI",
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -1389,7 +1389,7 @@
         "product": "x-IMU",
         "tags": [
             "Gait",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -1403,7 +1403,7 @@
         "product": "NGIMU",
         "tags": [
             "HCI",
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -1431,7 +1431,7 @@
         "tags": [
             "Rehabilitation",
             "HCI",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -1473,7 +1473,7 @@
         "product": "x-IMU",
         "tags": [
             "Gait",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -1486,7 +1486,7 @@
         "doi": "https://doi.org/10.1049/PBCE137E_ch11",
         "product": "x-IMU",
         "tags": [
-            "IMU development",
+            "IMU Development",
             "Biomechanics"
         ],
         "comment": ""
@@ -1530,7 +1530,7 @@
         "product": "x-IMU",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -1601,7 +1601,7 @@
         "product": "x-IMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -1627,8 +1627,8 @@
         "doi": "https://doi.org/10.3390/s21082875",
         "product": "NGIMU",
         "tags": [
-            "IMU development",
-            "Activity monitoring"
+            "IMU Development",
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -1669,7 +1669,7 @@
         "product": "NGIMU",
         "tags": [
             "Sport",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -1683,7 +1683,7 @@
         "product": "NGIMU",
         "tags": [
             "Robotics",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -1697,7 +1697,7 @@
         "product": "x-IMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -1710,7 +1710,7 @@
         "doi": "https://doi.org/10.1007/s11803-014-0219-z",
         "product": "x-IMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -1794,7 +1794,7 @@
         "product": "x-OSC",
         "tags": [
             "HCI",
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -1888,7 +1888,7 @@
         "doi": "https://repositoriobibliotecas.uv.cl/bitstreams/4d781a52-70dc-421e-a6b3-8b9eeb2c58cf/download",
         "product": "x-IMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -1970,7 +1970,7 @@
         "tags": [
             "Robotics",
             "Exoskeletons",
-            "Mining & industry",
+            "Mining & Industry",
             "Ergonomics"
         ],
         "comment": ""
@@ -1984,7 +1984,7 @@
         "doi": "https://doi.org/10.5281/zenodo.6572981",
         "product": "NGIMU",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -1997,7 +1997,7 @@
         "doi": "http://fenix.univ.rzeszow.pl/~mkepski/Kepski_PhD_Thesis.pdf",
         "product": "x-IMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -2098,7 +2098,7 @@
         "product": "NGIMU",
         "tags": [
             "Gait",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -2140,7 +2140,7 @@
         "doi": "https://doi.org/10.1109/BSN.2013.6575466",
         "product": "x-IMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -2195,7 +2195,7 @@
         "doi": "https://doi.org/10.1016/j.treng.2025.100358",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -2208,7 +2208,7 @@
         "doi": "https://www.researchgate.net/publication/374265051_Development_of_machine_learning_assisted_suspension_vibration_data-based_road_quality_classification_system",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -2234,7 +2234,7 @@
         "doi": "https://is.muni.cz/th/hx416/",
         "product": "x-IMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -2260,7 +2260,7 @@
         "doi": "http://www.arpnjournals.org/jeas/research_papers/rp_2015/jeas_1115_3019.pdf",
         "product": "x-IMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -2273,7 +2273,7 @@
         "doi": "https://repositorio.unicordoba.edu.co/bitstreams/fdde879f-4ece-4046-a3ff-269d07886acd/download",
         "product": "x-OSC",
         "tags": [
-            "Mining & industry",
+            "Mining & Industry",
             "Ergonomics"
         ],
         "comment": ""
@@ -2315,7 +2315,7 @@
         "doi": "https://doi.org/10.46354/i3m.2018.mas.020",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -2342,7 +2342,7 @@
         "doi": "https://hal.archives-ouvertes.fr/hal-01165775/file/libo_bindings.pdf",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -2521,7 +2521,7 @@
         "doi": "https://doi.org/10.48550/arXiv.2507.08744",
         "product": "x-IMU3",
         "tags": [
-            "Music & arts",
+            "Music & Arts",
             "Biomechanics"
         ],
         "comment": ""
@@ -2562,7 +2562,7 @@
         "doi": "https://ieeexplore.ieee.org/abstract/document/10390088/",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -2589,7 +2589,7 @@
         "product": "NGIMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -2602,7 +2602,7 @@
         "doi": "https://doi.org/10.1109/BioRob.2012.6290305",
         "product": "x-IMU",
         "tags": [
-            "IMU development",
+            "IMU Development",
             "Biomechanics"
         ],
         "comment": ""
@@ -2630,7 +2630,7 @@
         "product": "x-IMU",
         "tags": [
             "Gait",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -2644,7 +2644,7 @@
         "product": "x-IMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -2714,7 +2714,7 @@
         "product": "x-OSC",
         "tags": [
             "HCI",
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -2728,7 +2728,7 @@
         "product": "NGIMU",
         "tags": [
             "Robotics",
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -2755,7 +2755,7 @@
         "doi": "https://doi.org/10.4324/9781003475675",
         "product": "NGIMU",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -2782,7 +2782,7 @@
         "product": "NGIMU",
         "tags": [
             "Robotics",
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -2862,7 +2862,7 @@
         "product": "x-IMU",
         "tags": [
             "Robotics",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -2945,7 +2945,7 @@
         "doi": "https://doi.org/10.1016/j.asoc.2015.11.031",
         "product": "x-IMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -3038,7 +3038,7 @@
         "doi": "https://doi.org/10.1080/07494467.2019.1706349",
         "product": "NGIMU",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -3051,7 +3051,7 @@
         "doi": "https://doi.org/10.1080/07494467.2019.1706351",
         "product": "x-IMU",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -3105,8 +3105,8 @@
         "doi": "https://doi.org/10.1117/12.2621187",
         "product": "NGIMU",
         "tags": [
-            "IMU development",
-            "Activity monitoring"
+            "IMU Development",
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -3148,7 +3148,7 @@
         "doi": "https://doi.org/10.3390/biomimetics8060471",
         "product": "NGIMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -3162,7 +3162,7 @@
         "product": "NGIMU",
         "tags": [
             "Medical",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -3190,7 +3190,7 @@
         "product": "NGIMU",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -3203,7 +3203,7 @@
         "doi": "https://doi.org/10.1016/j.neucom.2015.05.061",
         "product": "x-IMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -3231,7 +3231,7 @@
         "doi": "https://doi.org/10.1080/14626268.2018.1511600",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -3244,7 +3244,7 @@
         "doi": "http://journal.ksmte.kr/xml/44690/44690.pdf",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -3258,7 +3258,7 @@
         "product": "x-IMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -3313,7 +3313,7 @@
         "doi": "https://doi.org/10.3390/s20174829",
         "product": "NGIMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -3392,7 +3392,7 @@
         "product": "x-IMU",
         "tags": [
             "HCI",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -3487,7 +3487,7 @@
         "doi": "http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-162111",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -3500,7 +3500,7 @@
         "doi": "http://dance.dibris.unige.it/user_files/documents/papers/ISon2016-05-AlbornoCeraPiana-et-al.pdf",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -3724,7 +3724,7 @@
         "product": "NGIMU",
         "tags": [
             "HCI",
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -3738,7 +3738,7 @@
         "product": "x-IMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -3779,7 +3779,7 @@
         "doi": "https://ieeexplore.ieee.org/abstract/document/6952093",
         "product": "x-IMU",
         "tags": [
-            "IMU development",
+            "IMU Development",
             "Biomechanics"
         ],
         "comment": ""
@@ -3793,7 +3793,7 @@
         "doi": "https://doi.org/10.1145/3136755.3136757",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -3806,7 +3806,7 @@
         "doi": "https://doi.org/10.1109/I2MTC60896.2024.10561167",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -3820,7 +3820,7 @@
         "product": "NGIMU",
         "tags": [
             "Sport",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -3834,7 +3834,7 @@
         "product": "NGIMU",
         "tags": [
             "Medical",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -3848,7 +3848,7 @@
         "product": "NGIMU",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -3861,7 +3861,7 @@
         "doi": "https://doi.org/10.5281/zenodo.1178875",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -3874,7 +3874,7 @@
         "doi": "http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1298315",
         "product": "NGIMU",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -3969,7 +3969,7 @@
         "doi": "https://doi.org/10.5552/crojfe.2025.2668",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry",
+            "Mining & Industry",
             "Ergonomics"
         ],
         "comment": ""
@@ -3997,7 +3997,7 @@
         "doi": "https://doi.org/10.1109/ACCESS.2023.3291080",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -4135,7 +4135,7 @@
         "doi": "https://doi.org/10.7763/IJIEE.2014.V4.489",
         "product": "x-IMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -4151,7 +4151,7 @@
             "Robotics",
             "Marine",
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -4164,7 +4164,7 @@
         "doi": "https://doi.org/10.5525/gla.thesis.82039",
         "product": "NGIMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -4190,8 +4190,8 @@
         "doi": "https://doi.org/10.1109/JSEN.2020.2982744",
         "product": "NGIMU",
         "tags": [
-            "IMU development",
-            "Activity monitoring"
+            "IMU Development",
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -4204,7 +4204,7 @@
         "doi": "https://doi.org/10.1109/HealthCom.2018.8531166",
         "product": "x-BIMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -4218,7 +4218,7 @@
         "product": "x-IMU",
         "tags": [
             "HCI",
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -4259,7 +4259,7 @@
         "doi": "https://doi.org/10.3316/informit.833279439608619",
         "product": "NGIMU",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -4272,7 +4272,7 @@
         "doi": "https://www.researchgate.net/publication/353342585_Novel_methods_to_determine_the_bubble_dynamics_of_a_Top_Submerged_Lance_TSL_smelter",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -4285,7 +4285,7 @@
         "doi": "http://speech.di.uoa.gr/ICMC-SMC-2014/images/VOL_2/1592.pdf",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -4340,7 +4340,7 @@
         "product": "x-IMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -4466,7 +4466,7 @@
         "product": "NGIMU",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -4533,7 +4533,7 @@
         "doi": "https://doi.org/10.1007/978-3-319-45246-3_18",
         "product": "x-IMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -4586,7 +4586,7 @@
         "doi": "https://ubir.buffalo.edu/xmlui/bitstream/handle/10477/78131/Ghobadi_buffalo_0656A_15877.pdf?sequence=1",
         "product": "x-IMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -4599,7 +4599,7 @@
         "doi": "https://www.generativeart.com/GA2016WEB/Bisig_PianoDancer.pdf",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -4612,7 +4612,7 @@
         "doi": "http://stocos.com/publicaciones/PianoAndDancer_08.11.2016.pdf",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -4625,7 +4625,7 @@
         "doi": "https://doi.org/10.1145/3077981.3078052",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -4666,7 +4666,7 @@
         "product": "NGIMU",
         "tags": [
             "Gait",
-            "IMU development",
+            "IMU Development",
             "Biomechanics"
         ],
         "comment": ""
@@ -4683,7 +4683,7 @@
             "Marine",
             "HCI",
             "Navigation",
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -4696,7 +4696,7 @@
         "doi": "https://www.ewsn.org/file-repository/ewsn-2018/177_178_roggen.pdf",
         "product": "x-IMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -4886,7 +4886,7 @@
         "doi": "http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-248472",
         "product": "NGIMU",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -4914,7 +4914,7 @@
         "product": "x-IMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -4928,7 +4928,7 @@
         "product": "NGIMU",
         "tags": [
             "Navigation",
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -4954,7 +4954,7 @@
         "doi": "https://burjcdigital.urjc.es/items/30766146-d0a3-48ae-a84d-29de4aae0b2b",
         "product": "x-IMU3",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -5064,7 +5064,7 @@
         "product": "x-IMU",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -5091,7 +5091,7 @@
         "doi": "https://doi.org/10.1109/TIM.2025.3588986",
         "product": "NGIMU",
         "tags": [
-            "Activity monitoring",
+            "Activity Monitoring",
             "Ergonomics"
         ],
         "comment": ""
@@ -5147,7 +5147,7 @@
         "doi": "https://doi.org/10.1007/s11071-021-06934-x",
         "product": "x-IMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -5161,7 +5161,7 @@
         "product": "NGIMU",
         "tags": [
             "Navigation",
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -5204,7 +5204,7 @@
         "product": "NGIMU",
         "tags": [
             "Robotics",
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -5230,7 +5230,7 @@
         "doi": "https://doi.org/10.1109/ICSENS.2017.8234223",
         "product": "x-IMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -5243,7 +5243,7 @@
         "doi": "https://x-io.co.uk/downloads/NIME2014-Final-Fingertip-Wi-Fi-Report.pdf",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -5269,7 +5269,7 @@
         "doi": "https://papers.cumincad.org/cgi-bin/works/Show?lasg_whitepapers_2019_197",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -5308,7 +5308,7 @@
         "doi": "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-280699",
         "product": "NGIMU",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -5321,7 +5321,7 @@
         "doi": "http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-280814",
         "product": "NGIMU",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -5337,7 +5337,7 @@
             "Robotics",
             "Aerospace",
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -5405,7 +5405,7 @@
         "doi": "http://eprints.uwe.ac.uk/26049/",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -5432,7 +5432,7 @@
         "product": "NGIMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -5445,7 +5445,7 @@
         "doi": "https://doi.org/10.1109/TIM.2019.2962295",
         "product": "NGIMU",
         "tags": [
-            "IMU development",
+            "IMU Development",
             "Biomechanics"
         ],
         "comment": ""
@@ -5459,7 +5459,7 @@
         "doi": "https://ieeexplore.ieee.org/abstract/document/9932227/",
         "product": "NGIMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -5530,7 +5530,7 @@
         "product": "NGIMU",
         "tags": [
             "Rehabilitation",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -5557,7 +5557,7 @@
         "doi": "https://www.diva-portal.org/smash/get/diva2:1672626/FULLTEXT01.pdf",
         "product": "NGIMU",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -5570,7 +5570,7 @@
         "doi": "https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akmh%3Adiva-4624",
         "product": "NGIMU",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -5680,7 +5680,7 @@
         "product": "NGIMU",
         "tags": [
             "Gait",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -5707,7 +5707,7 @@
         "product": "NGIMU",
         "tags": [
             "Gait",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -5721,7 +5721,7 @@
         "product": "x-IMU",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -5735,7 +5735,7 @@
         "product": "x-IMU",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -5748,7 +5748,7 @@
         "doi": "https://hdl.handle.net/11566/287691",
         "product": "NGIMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -5801,7 +5801,7 @@
         "doi": "https://www.theseus.fi/bitstream/handle/10024/90399/OPPARI%20INNOVAATIOpdf.pdf?sequence=1",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -5949,7 +5949,7 @@
         "product": "x-OSC",
         "tags": [
             "HCI",
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -5963,7 +5963,7 @@
         "product": "x-OSC",
         "tags": [
             "HCI",
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -5977,7 +5977,7 @@
         "product": "x-IMU",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -5990,7 +5990,7 @@
         "doi": "http://hdl.handle.net/10216/106262",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -6033,7 +6033,7 @@
         "product": "NGIMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -6076,7 +6076,7 @@
         "tags": [
             "Gait",
             "Rehabilitation",
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -6116,7 +6116,7 @@
         "doi": "https://www.researchgate.net/publication/304944309_The_Hyper-Hurdy-Gurdy",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -6129,7 +6129,7 @@
         "doi": "https://hdl.handle.net/11572/226233",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -6185,7 +6185,7 @@
         "product": "x-IMU",
         "tags": [
             "Gait",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -6256,7 +6256,7 @@
         "product": "NGIMU",
         "tags": [
             "Sport",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -6269,7 +6269,7 @@
         "doi": "https://repository.uantwerpen.be/link/irua/214826",
         "product": "NGIMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -6369,7 +6369,7 @@
         "doi": "https://doi.org/10.3390/s23021045",
         "product": "x-IMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -6423,7 +6423,7 @@
         "doi": "https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=8113&context=mqp-all",
         "product": "NGIMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -6462,7 +6462,7 @@
         "doi": "https://doi.org/10.3390/app112412101",
         "product": "NGIMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -6532,7 +6532,7 @@
         "doi": "https://doi.org/10.1145/3452853.3452862",
         "product": "NGIMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -6598,7 +6598,7 @@
         "doi": "https://doi.org/10.1016/j.measen.2025.101816",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -6652,7 +6652,7 @@
         "doi": "https://doi.org/10.1109/CoBCom55489.2022.9880682",
         "product": "NGIMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -6679,7 +6679,7 @@
         "product": "NGIMU",
         "tags": [
             "Rehabilitation",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -6692,7 +6692,7 @@
         "doi": "https://doi.org/10.1016/j.sna.2024.115999",
         "product": "NGIMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -6720,7 +6720,7 @@
         "doi": "https://doi.org/10.1109/ICPS48405.2020.9274718",
         "product": "NGIMU",
         "tags": [
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -6734,7 +6734,7 @@
         "product": "x-IMU",
         "tags": [
             "HCI",
-            "Activity monitoring"
+            "Activity Monitoring"
         ],
         "comment": ""
     },
@@ -6804,7 +6804,7 @@
         "doi": "https://doi.org/10.5281/zenodo.1135077",
         "product": "x-OSC",
         "tags": [
-            "Music & arts"
+            "Music & Arts"
         ],
         "comment": ""
     },
@@ -6859,7 +6859,7 @@
         "product": "x-IMU",
         "tags": [
             "Navigation",
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -6872,7 +6872,7 @@
         "doi": "https://doi.org/10.18945/jjfes.38.29",
         "product": "NGIMU",
         "tags": [
-            "Mining & industry",
+            "Mining & Industry",
             "Ergonomics"
         ],
         "comment": ""
@@ -6903,7 +6903,7 @@
         "tags": [
             "Robotics",
             "Navigation",
-            "Mining & industry"
+            "Mining & Industry"
         ],
         "comment": ""
     },
@@ -6916,7 +6916,7 @@
         "doi": "https://ipsj.ixsq.nii.ac.jp/records/197184",
         "product": "x-OSC",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },
@@ -6929,7 +6929,7 @@
         "doi": "https://doi.org/10.5302/J.ICROS.2024.24.0007",
         "product": "NGIMU",
         "tags": [
-            "IMU development"
+            "IMU Development"
         ],
         "comment": ""
     },

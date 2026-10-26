@@ -12,7 +12,7 @@
 
 ## Tags
 
-- **Activity monitoring**: Detection of discrete activities, or long-term monitoring of human movement.
+- **Activity Monitoring**: Detection of discrete activities, or long-term monitoring of human movement.
 - **Aerospace**: Drones, aircraft, spacecraft, rockets, satellites, or balloons.
 - **Biomechanics**: Biomechanical modelling, or other biomechanics research not covered by other tags.
 - **Equine**: Horses or horse riding
@@ -20,11 +20,11 @@
 - **Exoskeletons**: Exoskeletons, exosuits, or walking assist devices.
 - **Gait**: Walking or running, including gait measures in pedestrian tracking.
 - **HCI**: Human-computer interaction: input, gestures, interfaces, AR/VR, or HCI venues.
-- **IMU development**: IMU hardware, algorithms, calibration, and other sensor research not covered by other tags.
+- **IMU Development**: IMU hardware, algorithms, calibration, and other sensor research not covered by other tags.
 - **Marine**: Seas, rivers, waterways, or ice, including vessels and underwater vehicles.
 - **Medical**: Medical research not covered by other tags: medical technology, physiology, neuroscience, or public health.
-- **Mining & industry**: Mining, heavy industry, construction, manufacturing, infrastructure, agriculture, or forestry.
-- **Music & arts**: Music, dance, performance, or other arts, including supporting technology and artistic sonification.
+- **Mining & Industry**: Mining, heavy industry, construction, manufacturing, infrastructure, agriculture, or forestry.
+- **Music & Arts**: Music, dance, performance, or other arts, including supporting technology and artistic sonification.
 - **Navigation**: Positioning, localisation, or tracking of people, vehicles, robots, or devices moving through the world.
 - **Parasport**: Sport or exercise for people with disabilities, or wheelchairs.
 - **Prosthetics**: Prosthetics, orthotics, or amputees.
